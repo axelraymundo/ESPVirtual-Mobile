@@ -1,0 +1,107 @@
+{
+	"items": {
+		"title_txtGameName": {
+			"text": "Title Scene",
+			"font": "font_nunito_72",
+			"size": 72,
+			"color": "0x000000",
+			"align": 1
+		},
+		"title_btnPlay": {
+			"text": "Go To Game",
+			"font": "font_nunito_72",
+			"size": 36,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+		"title_btnClose": {
+			"text": "",
+			"font": "font_nunito_72",
+			"size": 36,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+
+		"title_btnToCity": {
+			"text": "Exit to City",
+			"font": "font_nunito_72",
+			"size": 36,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+
+		"title_btnToExplore": {
+			"text": "Continue Exploring",
+			"font": "font_nunito_72",
+			"size": 36,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+		
+		"title_btnExterior": {
+			"text": "Go to Map",
+			"font": "font_nunito_72",
+			"size": 36,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+
+		"title_btnInside": {
+			"text": "Go Inside",
+			"font": "font_nunito_72",
+			"size": 36,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+
+		"title_btnGoIntro": {
+			"text": "Head back out",
+			"font": "font_nunito_72",
+			"size": 36,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+		"title_btnInterior": {
+			"text": "View Interior",
+			"font": "font_nunito_72",
+			"size": 36,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+		"game_txtTitle": {
+			"text": "Game Scene",
+			"font": "font_nunito_72",
+			"size": 72,
+			"color": "0x000000",
+			"align": 1
+		},
+		"PopupInfo_txtTitle": {
+			"text": "Popup title",
+			"font": "font_nunito_72",
+			"size": 72,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+		"game_btnContinue": {
+			"text": "Show Post Game",
+			"font": "font_nunito_72",
+			"size": 36,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+		"postGame_txtTitle": {
+			"text": "Post Game Scene",
+			"font": "font_nunito_72",
+			"size": 72,
+			"color": "0x000000",
+			"align": 1
+		},
+		"postGame_btnContinue": {
+			"text": "Back to Title",
+			"font": "font_nunito_72",
+			"size": 36,
+			"color": "0xFFFFFF",
+			"align": 1
+		}
+	}
+}
