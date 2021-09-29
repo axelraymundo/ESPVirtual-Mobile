@@ -1,4 +1,4 @@
-package com.espvirtual;
+package com.taktylstudios.test.CityofEnergia;
 
 import com.facebook.react.ReactActivity;
 

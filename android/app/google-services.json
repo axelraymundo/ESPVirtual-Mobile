@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386046365581",
+    "project_id": "city-of-energia",
+    "storage_bucket": "city-of-energia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386046365581:android:d8c7b54bf36a360fadf7c4",
+        "android_client_info": {
+          "package_name": "com.taktylstudios.test.CityofEnergia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386046365581-fvgalj4q58peh1tgepgk7jvjeqcrqfu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoEjvdtEjfcfxK-I0KJ-mr_Kc1MJeKjNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386046365581-fvgalj4q58peh1tgepgk7jvjeqcrqfu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
