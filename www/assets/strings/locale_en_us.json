@@ -7,6 +7,13 @@
 			"color": "0x000000",
 			"align": 1
 		},
+		"preload_txtLoadProgress": {
+			"text": "Loading: %value%%",
+			"font": "font_nunito_72",
+			"size": 72,
+			"color": "0x000000",
+			"align": 1
+		},
 		"title_btnPlay": {
 			"text": "Go To Game",
 			"font": "font_nunito_72",
@@ -24,14 +31,37 @@
 
 		"title_btnToCity": {
 			"text": "Exit to City",
-			"font": "font_nunito_72",
+			"font": "font_lato_bold",
 			"size": 36,
 			"color": "0xFFFFFF",
 			"align": 1
 		},
 
+		"title_btnExit": {
+			"text": "Let's exit\nto the city",
+			"font": "font_lato_reg",
+			"size": 35,
+			"color": "0x879EC7",
+			"align": 1
+		},
+
+		"title_btnExplore": {
+			"text": "Let's continue\nexploring!",
+			"font": "font_lato_reg",
+			"size": 35,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
 		"title_btnToExplore": {
 			"text": "Continue Exploring",
+			"font": "font_lato_bold",
+			"size": 36,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+
+		"title_btnNoText": {
+			"text": "",
 			"font": "font_nunito_72",
 			"size": 36,
 			"color": "0xFFFFFF",
@@ -40,7 +70,7 @@
 		
 		"title_btnExterior": {
 			"text": "Go to Map",
-			"font": "font_nunito_72",
+			"font": "font_lato_bold",
 			"size": 36,
 			"color": "0xFFFFFF",
 			"align": 1
@@ -48,23 +78,23 @@
 
 		"title_btnInside": {
 			"text": "Go Inside",
-			"font": "font_nunito_72",
-			"size": 36,
+			"font": "font_lato_bold",
+			"size": 62,
 			"color": "0xFFFFFF",
 			"align": 1
 		},
 
 		"title_btnGoIntro": {
 			"text": "Head back out",
-			"font": "font_nunito_72",
+			"font": "font_lato_bold",
 			"size": 36,
 			"color": "0xFFFFFF",
 			"align": 1
 		},
 		"title_btnInterior": {
-			"text": "View Interior",
-			"font": "font_nunito_72",
-			"size": 36,
+			"text": "Go Inside",
+			"font": "font_lato_bold",
+			"size": 62,
 			"color": "0xFFFFFF",
 			"align": 1
 		},
@@ -75,6 +105,22 @@
 			"color": "0x000000",
 			"align": 1
 		},
+
+		"txt_HouseIntroInfo": {
+			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do\nipsum dolor sit amet, consectetur adipiscing elit",
+			"font": "font_lato_bold",
+			"size": 36,
+			"color": "0x79828B",
+			"align": 1
+		},
+		"txt_HouseIntroHeader": {
+			"text": "This is your humbe House",
+			"font": "font_lato_bold",
+			"size": 48,
+			"color": "0x79828B",
+			"align": 1
+		},
+
 		"PopupInfo_txtTitle": {
 			"text": "Popup title",
 			"font": "font_nunito_72",
