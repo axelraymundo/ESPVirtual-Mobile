@@ -12,7 +12,6 @@ import com.facebook.soloader.SoLoader;
 import java.lang.reflect.InvocationTargetException;
 import com.reactnativecommunity.webview.RNCWebViewPackage;
 import java.util.List;
-import com.facebook.react.BuildConfig;
 
 public class MainApplication extends Application implements ReactApplication {
 

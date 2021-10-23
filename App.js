@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from 'react';
-import {Text, Platform, SafeAreaView} from 'react-native';
+import {Text, Platform, SafeAreaView, View} from 'react-native';
 import {WebView} from 'react-native-webview';
 
 import StaticServer from 'react-native-static-server';
@@ -91,12 +91,15 @@ function MyWebComponent() {
         `${images2}/building/economical_temp.png`,
         `${images2}/building/economical_zone.png`,
         `${images2}/building/embassy_temp.png`,
+        `${images2}/building/embassy.png`,
         `${images2}/building/external_map_1.png`,
+        `${images2}/building/external_map.jpg`,
         `${images2}/building/external_map.png`,
         `${images2}/building/external_map1.png`,
         `${images2}/building/game_temp.png`,
         `${images2}/building/GF_temp.png`,
         `${images2}/building/gov_hub_knowledge_hub_embassy.png`,
+        `${images2}/building/government_building.png`,
         `${images2}/building/government_hub.png`,
         `${images2}/building/house_temp.png`,
         `${images2}/building/knowledge_hub.png`,
@@ -114,28 +117,46 @@ function MyWebComponent() {
         `${images2}/building/wattmatters_temp.png`,
 
         //interior economic zone
+        `${interior2}/economiczone/1.jpg`,
         `${interior2}/economiczone/ecopark_zone_intro.jpg`,
         `${interior2}/economiczone/ecopark_temp.png`,
         `${interior2}/economiczone/garage.jpg`,
+        `${interior2}/economiczone/garage.png`,
         `${interior2}/economiczone/garageparking_temp.png`,
         `${interior2}/economiczone/intro_temp.png`,
+        `${interior2}/economiczone/intro.jpg`,
+        `${interior2}/economiczone/intro.png`,
         `${interior2}/economiczone/mechanical_hub.jpg`,
+        `${interior2}/economiczone/mechanical_hub.png`,
         `${interior2}/economiczone/mechanicalhub_temp.png`,
         `${interior2}/economiczone/office.jpg`,
+        `${interior2}/economiczone/office.png`,
         `${interior2}/economiczone/offices_temp.png`,
         `${interior2}/economiczone/park.jpg`,
+        `${interior2}/economiczone/processing_hub.jpg`,
+        `${interior2}/economiczone/processing_hub.png`,
         `${interior2}/economiczone/processinghub_temp.png`,
-        `${interior2}/economiczonepump_room_booster.jpg`,
+        `${interior2}/economiczone/pump_room_booster.jpg`,
+        `${interior2}/economiczone/pump_room_booster.png`,
         `${interior2}/economiczone/pumping_room.jpg`,
         `${interior2}/economiczone/pumproombooster.png`,
         `${interior2}/economiczone/warehouse_temp.png`,
         `${interior2}/economiczone/warehouse.jpg`,
+        `${interior2}/economiczone/warehouse.png`,
         `${interior2}/economiczone/wastedisposal_temp.png`,
         `${interior2}/economiczone/water_disposal.jpg`,
+        `${interior2}/economiczone/water_disposal.png`,
 
         //interior embassy
         `${interior2}/embassy/embassy_intro.jpg`,
+        `${interior2}/embassy/embassy_office.jpg`,
         `${interior2}/embassy/office.jpg`,
+
+        //interior governmentcenter
+        `${interior2}/governmentcenter/fron_desk.png`,
+        `${interior2}/governmentcenter/intro.png`,
+        `${interior2}/governmentcenter/library.png`,
+        `${interior2}/governmentcenter/office.png`,
 
         //interior house
         `${interior2}/house/bathroom.jpg`,
@@ -208,9 +229,28 @@ function MyWebComponent() {
         //sprite
         `${images2}/sprite/arrow_left.png`,
         `${images2}/sprite/arrow_Right.png`,
+        `${images2}/sprite/cloud_1.png`,
+        `${images2}/sprite/cloud_2.png`,
+        `${images2}/sprite/cloud_3.png`,
+        `${images2}/sprite/cloud_4.png`,
+        `${images2}/sprite/cloud_5.png`,
+
         `${images2}/sprite/female.png`,
         `${images2}/sprite/testbuilding.png`,
         `${images2}/sprite/testbuilding2.png`,
+        `${images2}/sprite/tree.png`,
+        `${images2}/sprite/water_ost15.png`,
+        `${images2}/sprite/water_1.png`,
+        `${images2}/sprite/water_2.png`,
+        `${images2}/sprite/water_4.png`,
+        `${images2}/sprite/water_65.png`,
+        `${images2}/sprite/water_effect.png`,
+
+        //ui on characters
+        `${images2}/ui/characters/e_focal_person.png`,
+        `${images2}/ui/characters/e_officer.png`,
+        `${images2}/ui/characters/user_guide_female.png`,
+        `${images2}/ui/characters/user_guide_male.png`,
 
         //ui on internalpopup
         `${images2}/ui/internalpopup/blue_container.png`,
@@ -221,8 +261,40 @@ function MyWebComponent() {
         `${images2}/ui/intropopup/green_button_container.png`,
         `${images2}/ui/intropopup/white_container.png`,
 
+        //ui on left_container
+        `${images2}/ui/left_container/left_container_left_side.png`,
+        `${images2}/ui/left_container/left_container_middle.png`,
+        `${images2}/ui/left_container/left_container_right_side.png`,
+        `${images2}/ui/left_container/left_container.png`,
+
         //ui on load
         `${images2}/ui/load/logoloading.png`,
+
+        //ui on login
+        `${images2}/ui/login/blue_backdrop.png`,
+        `${images2}/ui/login/green_arrow.png`,
+        `${images2}/ui/login/logo.png`,
+        `${images2}/ui/login/scroll_bar_dragger.png`,
+        `${images2}/ui/login/scroll_bar.png`,
+        `${images2}/ui/login/smaller_logo.png`,
+        `${images2}/ui/login/text_bar.png`,
+        `${images2}/ui/login/text_container_left.png`,
+        `${images2}/ui/login/text_container_middle.png`,
+        `${images2}/ui/login/text_container_right.png`,
+        `${images2}/ui/login/warning_button.png`,
+
+        //ui on right_container
+        `${images2}/ui/right_container/right_container_left_side.png`,
+        `${images2}/ui/right_container/right_container_middle.png`,
+        `${images2}/ui/right_container/right_container_right_side.png`,
+        `${images2}/ui/right_container/right_container.png`,
+
+        //ui on shadow
+        `${images2}/ui/shadow/shadow_left_side.png`,
+        `${images2}/ui/shadow/shadow_middle.png`,
+        `${images2}/ui/shadow/shadow_right_side.png`,
+        `${images2}/ui/shadow/shadow_short.png`,
+        `${images2}/ui/shadow/shadowshort.png`,
 
         //others on ui
         `${images2}/ui/arrow_left_temp.png`,
@@ -235,6 +307,7 @@ function MyWebComponent() {
         `${images2}/ui/btn_general.png`,
         `${images2}/ui/btnClose_100.png`,
         `${images2}/ui/closeButton_temp.png`,
+        `${images2}/ui/container_shadow.png`,
         `${images2}/ui/ctn_Box.png`,
         `${images2}/ui/ctn_popup_dark.png`,
         `${images2}/ui/ctn_popup.png`,
@@ -242,6 +315,7 @@ function MyWebComponent() {
         `${images2}/ui/ctn_separator_label.png`,
         `${images2}/ui/darkback.png`,
         `${images2}/ui/down_button.png`,
+        `${images2}/ui/finger_temp.png`,
         `${images2}/ui/help_button.png`,
         `${images2}/ui/info_temp.png`,
         `${images2}/ui/left_container.png`,
@@ -275,21 +349,30 @@ function MyWebComponent() {
   if (!url) {
     return (
       <SafeAreaView
-        style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
+        style={{
+          flex: 1,
+          justifyContent: 'center',
+          alignItems: 'center',
+        }}>
         <Text>LOADING....</Text>
       </SafeAreaView>
     );
   }
+  const scalesPageToFit = Platform.OS === 'android';
+
   return (
-    <SafeAreaView style={{flex: 1}}>
+    <View style={{flex: 1}}>
       <WebView
         source={{uri: url}}
+        scalesPageToFit={scalesPageToFit}
+        showsHorizontalScrollIndicator={false}
+        bounces={false}
+        scrollEnabled={false}
         javaScriptEnabled={true}
-        scalesPageToFit
         startInLoadingState
         originWhitelist={['*']}
       />
-    </SafeAreaView>
+    </View>
   );
 }
 

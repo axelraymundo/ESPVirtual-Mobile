@@ -45,6 +45,22 @@
 			"align": 1
 		},
 
+		"title_btnNext": {
+			"text": "Next",
+			"font": "font_lato_reg",
+			"size": 35,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+
+		"title_btnPrevious": {
+			"text": "Previous",
+			"font": "font_lato_reg",
+			"size": 35,
+			"color": "0x879EC7",
+			"align": 1
+		},
+
 		"title_btnExplore": {
 			"text": "Let's continue\nexploring!",
 			"font": "font_lato_reg",
