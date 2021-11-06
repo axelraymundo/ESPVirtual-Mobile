@@ -130,7 +130,7 @@ android {
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
-        versionName "0.0.3"
+        versionName "0.0.4"
     }
     splits {
         abi {
@@ -176,7 +176,7 @@ android {
 
         }
     }
-     sourceSets { main { assets.srcDirs = ['src/main/assets', ] } }
+     sourceSets { main { assets.srcDirs = ['src/main/assets','../../www', '../../assets', ] } }
     //  '../../html', '../../assets', '../../www'] } }
 
 }

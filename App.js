@@ -22,10 +22,16 @@ function MyWebComponent() {
       await RNFS.mkdir(RNFS.DocumentDirectoryPath + '/www/css');
       await RNFS.mkdir(RNFS.DocumentDirectoryPath + `/www/assets/audio/sfx`);
       await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${assets}/fonts`);
+      await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${assets}/htmltext`);
       await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${images}/building`);
-      await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${images}/labels`);
+      await RNFS.mkdir(
+        RNFS.DocumentDirectoryPath + `${images}/building/labels`,
+      );
       await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/economiczone`);
       await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/embassy`);
+      await RNFS.mkdir(
+        RNFS.DocumentDirectoryPath + `${interior}/governmentcenter`,
+      );
       await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/house`);
       await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/mall`);
       await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/office`);
@@ -33,12 +39,21 @@ function MyWebComponent() {
       await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/school`);
 
       await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${images}/sprite`);
+      await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${images}/ui/characters`);
       await RNFS.mkdir(
         RNFS.DocumentDirectoryPath + `${images}/ui/internalpopup`,
       );
       await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${images}/ui/intropopup`);
+      await RNFS.mkdir(
+        RNFS.DocumentDirectoryPath + `${images}/ui/left_container`,
+      );
       await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${images}/ui/load`);
+      await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${images}/ui/login`);
 
+      await RNFS.mkdir(
+        RNFS.DocumentDirectoryPath + `${images}/ui/right_container`,
+      );
+      await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${images}/ui/shadow`);
       await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${assets}/strings`);
       var assets2 = assets.substring(1);
       var images2 = images.substring(1);
@@ -48,6 +63,8 @@ function MyWebComponent() {
         //primary
         'www/index.html',
         'www/js/game.js',
+        'www/js/game.js.map',
+        'www/js/PlayFabClientApi.js',
         'www/css/game.css',
 
         //audio
@@ -66,15 +83,19 @@ function MyWebComponent() {
         `${assets2}/fonts/Lato-Heavy.ttf.fnt`,
         `${assets2}/fonts/lato-regular_0.png`,
         `${assets2}/fonts/lato-regular.fnt`,
+        `${assets2}/fonts/Lato-Regular.ttf`,
         `${assets2}/fonts/Lato.fnt`,
         `${assets2}/fonts/nunito_72 copy.fnt`,
         `${assets2}/fonts/nunito_72_0.png`,
         `${assets2}/fonts/nunito_72.fnt`,
 
+        //htmltext
+        `${assets2}/htmltext/userregister.html`,
+
         //building labels
         `${images2}/building/labels/economic_zone_button.png`,
         `${images2}/building/labels/embassy_button.png`,
-        `${images2}/building/labels/government_hub_button.png.png`,
+        `${images2}/building/labels/government_hub_button.png`,
         `${images2}/building/labels/knowledge_hub_button.png`,
         `${images2}/building/labels/mall_button.png`,
         `${images2}/building/labels/office_temp.png`,
@@ -114,6 +135,7 @@ function MyWebComponent() {
         `${images2}/building/residential.png`,
         `${images2}/building/school.png`,
         `${images2}/building/seaport_temp.png`,
+        `${images2}/building/seaport.png`,
         `${images2}/building/wattmatters_temp.png`,
 
         //interior economic zone
@@ -153,7 +175,7 @@ function MyWebComponent() {
         `${interior2}/embassy/office.jpg`,
 
         //interior governmentcenter
-        `${interior2}/governmentcenter/fron_desk.png`,
+        `${interior2}/governmentcenter/front_desk.png`,
         `${interior2}/governmentcenter/intro.png`,
         `${interior2}/governmentcenter/library.png`,
         `${interior2}/governmentcenter/office.png`,
@@ -207,7 +229,7 @@ function MyWebComponent() {
 
         //interior parking
         `${interior2}/parking/garage_parking.jpg`,
-        `${interior2}/parking/gas_station.jpg `,
+        `${interior2}/parking/gas_station.jpg`,
         `${interior2}/parking/green_public_transport.jpg`,
         `${interior2}/parking/green_transport.jpg`,
         `${interior2}/parking/intro.jpg`,
@@ -225,10 +247,15 @@ function MyWebComponent() {
         `${interior2}/roominterior_sample_3.png`,
         `${interior2}/roominterior_sample.png`,
         `${interior2}/temppop.png`,
+        `${interior2}/under_construction.png`,
 
         //sprite
         `${images2}/sprite/arrow_left.png`,
         `${images2}/sprite/arrow_Right.png`,
+        `${images2}/sprite/birds_1.png`,
+        `${images2}/sprite/birds_2.png`,
+        `${images2}/sprite/birds_3.png`,
+        `${images2}/sprite/birds_4.png`,
         `${images2}/sprite/cloud_1.png`,
         `${images2}/sprite/cloud_2.png`,
         `${images2}/sprite/cloud_3.png`,
@@ -306,6 +333,7 @@ function MyWebComponent() {
         `${images2}/ui/btn_close_temp.png`,
         `${images2}/ui/btn_general.png`,
         `${images2}/ui/btnClose_100.png`,
+        `${images2}/ui/circle.png`,
         `${images2}/ui/closeButton_temp.png`,
         `${images2}/ui/container_shadow.png`,
         `${images2}/ui/ctn_Box.png`,

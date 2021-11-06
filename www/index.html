@@ -2,16 +2,33 @@
 
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
   <head>
-    <meta charset="utf-8" />
+    <meta charset="utf-8">
+    <title>
+      ESP-Virtual Showroom
+    </title>
+    <style media="screen" type="text/css">
+      @font-face {
+        font-family: fontlato;
+        src: url("/assets/fonts/Lato-Regular.ttf");
+        font-weight: 400;
+        font-weight: normal;
+      }
+    </style>
+    <link rel="stylesheet" href="./css/game.css">
 
-    <title>City of Energia</title>
-
-    <link rel="stylesheet" href="./css/game.css" />
-
+    
     <script src="./js/game.js"></script>
+    
+    <script src="../js/PlayFabClientApi.js"></script>
   </head>
 
   <body id="game-body">
+    <div style="font-family: fontlato;
+        position: absolute;
+        left: -1000px;
+        visibility: hidden;">
+      .
+    </div>
     <div id="game-parent"></div>
   </body>
 </html>
