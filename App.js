@@ -75,6 +75,7 @@ function MyWebComponent() {
         `${assets2}/fonts/lato-black_0.png`,
         `${assets2}/fonts/Lato-Black.fnt`,
         `${assets2}/fonts/Lato-Black.png`,
+        `${assets2}/fonts/Lato-Black.ttf`,
         `${assets2}/fonts/lato-bold_0.png`,
         `${assets2}/fonts/lato-bold.fnt`,
         `${assets2}/fonts/lato-heavy_0.png`,
@@ -85,6 +86,10 @@ function MyWebComponent() {
         `${assets2}/fonts/lato-regular.fnt`,
         `${assets2}/fonts/Lato-Regular.ttf`,
         `${assets2}/fonts/Lato.fnt`,
+        `${assets2}/fonts/latobold.fnt`,
+        `${assets2}/fonts/latobold.png`,
+        `${assets2}/fonts/latoreg.fnt`,
+        `${assets2}/fonts/latoreg.png`,
         `${assets2}/fonts/nunito_72 copy.fnt`,
         `${assets2}/fonts/nunito_72_0.png`,
         `${assets2}/fonts/nunito_72.fnt`,
@@ -299,6 +304,10 @@ function MyWebComponent() {
 
         //ui on login
         `${images2}/ui/login/blue_backdrop.png`,
+        `${images2}/ui/login/current_page.png`,
+        `${images2}/ui/login/dropdown_arrow.png`,
+        `${images2}/ui/login/filled_up.png`,
+        `${images2}/ui/login/green_arrow_left.png`,
         `${images2}/ui/login/green_arrow.png`,
         `${images2}/ui/login/logo.png`,
         `${images2}/ui/login/scroll_bar_dragger.png`,
@@ -308,6 +317,7 @@ function MyWebComponent() {
         `${images2}/ui/login/text_container_left.png`,
         `${images2}/ui/login/text_container_middle.png`,
         `${images2}/ui/login/text_container_right.png`,
+        `${images2}/ui/login/unfilled.png`,
         `${images2}/ui/login/warning_button.png`,
 
         //ui on right_container

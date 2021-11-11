@@ -1,4 +1,14 @@
 body {
   background: #ffffff;
   margin: 0;
+  height: 100%;
+  width: 100%;
+  position: center;
+}
+
+#fixed {
+  position: fixed;
+}
+#fixed.absolute {
+  position: absolute;
 }
