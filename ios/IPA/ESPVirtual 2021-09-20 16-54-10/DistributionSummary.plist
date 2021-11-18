@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ESPVirtual.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<true/>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>A8B84B8832F29B9A6615010EAF5AB79BE1EEDF71</string>
+				<key>dateExpires</key>
+				<string>9/18/22</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<true/>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A8B84B8832F29B9A6615010EAF5AB79BE1EEDF71</string>
+						<key>dateExpires</key>
+						<string>9/18/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>OpenSSL.framework</string>
+					<key>symbols</key>
+					<true/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>NW6B7DXU6H</string>
+						<key>name</key>
+						<string>Taktyl Studios L.L.C</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>NW6B7DXU6H.com.taktylstudios.ESPVirtual</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>NW6B7DXU6H</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>NW6B7DXU6H.com.taktylstudios.ESPVirtual</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>ESPVirtual.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>f9a3a4f9-9fb3-42b1-ad41-2afab8a38b33</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.taktylstudios.ESPVirtual</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>NW6B7DXU6H</string>
+				<key>name</key>
+				<string>Taktyl Studios L.L.C</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

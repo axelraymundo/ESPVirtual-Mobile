@@ -1,0 +1,1047 @@
+2021-09-20 23:53:17 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fe9794996d0; archive(resolved)='<IDEArchive: 0x7fe9cd906840>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fe9c3a989c0>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7fe9c47731c0; teamID='NW6B7DXU6H', teamName='Taktyl Studios L.L.C', teamType='Company', username='raymonddelrosario.taktyl@gmail.com', isFreeProvisioningTeam='0'>'>
+	Chain (12, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fe9794996d0; archive = '<IDEArchive: 0x7fe9cd906840>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fe9c3a989c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fe9c47731c0; teamID='NW6B7DXU6H', teamName='Taktyl Studios L.L.C', teamType='Company', username='raymonddelrosario.taktyl@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fe97945d5c0; archive = '<IDEArchive: 0x7fe9cd906840>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fe9c3a989c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fe9c47731c0; teamID='NW6B7DXU6H', teamName='Taktyl Studios L.L.C', teamType='Company', username='raymonddelrosario.taktyl@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fe9c57d3840; archive = '<IDEArchive: 0x7fe9cd906840>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fe9c3a989c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fe9c47731c0; teamID='NW6B7DXU6H', teamName='Taktyl Studios L.L.C', teamType='Company', username='raymonddelrosario.taktyl@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fe978f238f0; archive = '<IDEArchive: 0x7fe9cd906840>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fe9c3a989c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fe9c47731c0; teamID='NW6B7DXU6H', teamName='Taktyl Studios L.L.C', teamType='Company', username='raymonddelrosario.taktyl@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fe9be0cc2c0; archive = '<IDEArchive: 0x7fe9cd906840>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fe9c3a989c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fe9c47731c0; teamID='NW6B7DXU6H', teamName='Taktyl Studios L.L.C', teamType='Company', username='raymonddelrosario.taktyl@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fe9be274100; archive = '<IDEArchive: 0x7fe9cd906840>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fe9c3a989c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fe9c47731c0; teamID='NW6B7DXU6H', teamName='Taktyl Studios L.L.C', teamType='Company', username='raymonddelrosario.taktyl@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fe9c609ba70; archive = '<IDEArchive: 0x7fe9cd906840>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fe9c3a989c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fe9c47731c0; teamID='NW6B7DXU6H', teamName='Taktyl Studios L.L.C', teamType='Company', username='raymonddelrosario.taktyl@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fe9c60c30b0; archive = '<IDEArchive: 0x7fe9cd906840>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fe9c3a989c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fe9c47731c0; teamID='NW6B7DXU6H', teamName='Taktyl Studios L.L.C', teamType='Company', username='raymonddelrosario.taktyl@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fe9c6099ff0; archive = '<IDEArchive: 0x7fe9cd906840>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fe9c3a989c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fe9c47731c0; teamID='NW6B7DXU6H', teamName='Taktyl Studios L.L.C', teamType='Company', username='raymonddelrosario.taktyl@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fe9c57e9240; archive = '<IDEArchive: 0x7fe9cd906840>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fe9c3a989c0>', team='(null)'>
+	<IDEDistributionContext: 0x7fe9be0ff7c0; archive = '<IDEArchive: 0x7fe9cd906840>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fe9c3a989c0>', team='(null)'>
+	<IDEDistributionContext: 0x7fe9be0f3780; archive = '<IDEArchive: 0x7fe9cd906840>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fe9794996d0>
+2021-09-20 23:53:17 +0000  Processing step: IDEDistributionCreateDestRootStep
+2021-09-20 23:53:17 +0000  Processing step: IDEDistributionCopyItemStep
+2021-09-20 23:53:17 +0000  Running /usr/bin/ditto '-V' '/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app'
+2021-09-20 23:53:17 +0000  >>> Copying /Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app 
+2021-09-20 23:53:17 +0000  copying file ./_CodeSignature/CodeResources ... 
+2021-09-20 23:53:17 +0000  28816 bytes for ./_CodeSignature/CodeResources
+2021-09-20 23:53:17 +0000  copying file ./AccessibilityResources.bundle/en.lproj/Localizable.strings ... 
+2021-09-20 23:53:17 +0000  518 bytes for ./AccessibilityResources.bundle/en.lproj/Localizable.strings
+2021-09-20 23:53:17 +0000  copying file ./AccessibilityResources.bundle/Info.plist ... 
+2021-09-20 23:53:17 +0000  792 bytes for ./AccessibilityResources.bundle/Info.plist
+2021-09-20 23:53:17 +0000  copying file ./www/index.html ... 
+2021-09-20 23:53:17 +0000  330 bytes for ./www/index.html
+2021-09-20 23:53:17 +0000  copying file ./www/css/game.css ... 
+2021-09-20 23:53:17 +0000  47 bytes for ./www/css/game.css
+2021-09-20 23:53:17 +0000  copying file ./www/js/game.js ... 
+2021-09-20 23:53:17 +0000  7903366 bytes for ./www/js/game.js
+2021-09-20 23:53:17 +0000  copying file ./www/js/game.js.map ... 
+2021-09-20 23:53:17 +0000  8755601 bytes for ./www/js/game.js.map
+2021-09-20 23:53:17 +0000  copying file ./www/assets/strings/locale_en_us.json ... 
+1948 bytes for ./www/assets/strings/locale_en_us.json
+copying file ./www/assets/images/ui/arrow_Right.png ... 
+15162 bytes for ./www/assets/images/ui/arrow_Right.png
+copying file ./www/assets/images/ui/ctn_popup_dark.png ... 
+2576 bytes for ./www/assets/images/ui/ctn_popup_dark.png
+copying file ./www/assets/images/ui/arrow_left_temp.png ... 
+2021-09-20 23:53:17 +0000  10111 bytes for ./www/assets/images/ui/arrow_left_temp.png
+copying file ./www/assets/images/ui/ArrowRight.png ... 
+2021-09-20 23:53:17 +0000  14503 bytes for ./www/assets/images/ui/ArrowRight.png
+copying file ./www/assets/images/ui/arrow_right_temp.png ... 
+2021-09-20 23:53:17 +0000  10206 bytes for ./www/assets/images/ui/arrow_right_temp.png
+copying file ./www/assets/images/ui/btn_close_temp.png ... 
+2021-09-20 23:53:17 +0000  5190 bytes for ./www/assets/images/ui/btn_close_temp.png
+copying file ./www/assets/images/ui/darkback.png ... 
+2021-09-20 23:53:17 +0000  3380 bytes for ./www/assets/images/ui/darkback.png
+copying file ./www/assets/images/ui/arrow_left.png ... 
+2021-09-20 23:53:17 +0000  21473 bytes for ./www/assets/images/ui/arrow_left.png
+copying file ./www/assets/images/ui/btn_general.png ... 
+2021-09-20 23:53:17 +0000  2033 bytes for ./www/assets/images/ui/btn_general.png
+copying file ./www/assets/images/ui/ctn_popup.png ... 
+2021-09-20 23:53:17 +0000  2755 bytes for ./www/assets/images/ui/ctn_popup.png
+copying file ./www/assets/images/ui/ctn_Box.png ... 
+2021-09-20 23:53:17 +0000  2095 bytes for ./www/assets/images/ui/ctn_Box.png
+copying file ./www/assets/images/ui/ctn_separator_label.png ... 
+2021-09-20 23:53:17 +0000  955 bytes for ./www/assets/images/ui/ctn_separator_label.png
+copying file ./www/assets/images/ui/ArrowLeft.png ... 
+2021-09-20 23:53:17 +0000  14926 bytes for ./www/assets/images/ui/ArrowLeft.png
+2021-09-20 23:53:17 +0000  copying file ./www/assets/images/ui/btnClose_100.png ... 
+2021-09-20 23:53:17 +0000  6419 bytes for ./www/assets/images/ui/btnClose_100.png
+2021-09-20 23:53:17 +0000  copying file ./www/assets/images/ui/ctn_rank_blank.png ... 
+2021-09-20 23:53:17 +0000  1214 bytes for ./www/assets/images/ui/ctn_rank_blank.png
+2021-09-20 23:53:17 +0000  copying file ./www/assets/images/ui/info_temp.png ... 
+2021-09-20 23:53:17 +0000  2486 bytes for ./www/assets/images/ui/info_temp.png
+2021-09-20 23:53:17 +0000  copying file ./www/assets/images/ui/closeButton_temp.png ... 
+2021-09-20 23:53:17 +0000  5190 bytes for ./www/assets/images/ui/closeButton_temp.png
+2021-09-20 23:53:17 +0000  copying file ./www/assets/images/sprite/arrow_Right.png ... 
+2021-09-20 23:53:17 +0000  15162 bytes for ./www/assets/images/sprite/arrow_Right.png
+copying file ./www/assets/images/sprite/arrow_left.png ... 
+2021-09-20 23:53:17 +0000  21473 bytes for ./www/assets/images/sprite/arrow_left.png
+copying file ./www/assets/images/sprite/female.png ... 
+2021-09-20 23:53:17 +0000  193067 bytes for ./www/assets/images/sprite/female.png
+copying file ./www/assets/images/sprite/testbuilding2.png ... 
+2021-09-20 23:53:17 +0000  135287 bytes for ./www/assets/images/sprite/testbuilding2.png
+copying file ./www/assets/images/sprite/testbuilding.png ... 
+2021-09-20 23:53:17 +0000  54829 bytes for ./www/assets/images/sprite/testbuilding.png
+2021-09-20 23:53:17 +0000  copying file ./www/assets/images/interior/temppop.png ... 
+2021-09-20 23:53:17 +0000  849 bytes for ./www/assets/images/interior/temppop.png
+2021-09-20 23:53:17 +0000  copying file ./www/assets/images/interior/office/cubicle_areas_temp.png ... 
+2021-09-20 23:53:17 +0000  11116 bytes for ./www/assets/images/interior/office/cubicle_areas_temp.png
+copying file ./www/assets/images/interior/office/elevators_temp.png ... 
+2021-09-20 23:53:17 +0000  8703 bytes for ./www/assets/images/interior/office/elevators_temp.png
+copying file ./www/assets/images/interior/office/restroom_temp.png ... 
+2021-09-20 23:53:17 +0000  8461 bytes for ./www/assets/images/interior/office/restroom_temp.png
+copying file ./www/assets/images/interior/office/reception_temp.png ... 
+2021-09-20 23:53:17 +0000  8591 bytes for ./www/assets/images/interior/office/reception_temp.png
+copying file ./www/assets/images/interior/office/intro_office_temp.png ... 
+2021-09-20 23:53:17 +0000  5879 bytes for ./www/assets/images/interior/office/intro_office_temp.png
+2021-09-20 23:53:17 +0000  copying file ./www/assets/images/interior/office/pantry_temp.png ... 
+2021-09-20 23:53:17 +0000  7135 bytes for ./www/assets/images/interior/office/pantry_temp.png
+copying file ./www/assets/images/interior/office/personal_temp.png ... 
+2021-09-20 23:53:17 +0000  11520 bytes for ./www/assets/images/interior/office/personal_temp.png
+copying file ./www/assets/images/interior/office/conference_temp.png ... 
+2021-09-20 23:53:17 +0000  10903 bytes for ./www/assets/images/interior/office/conference_temp.png
+2021-09-20 23:53:17 +0000  copying file ./www/assets/images/interior/economiczone/offices_temp.png ... 
+2021-09-20 23:53:17 +0000  10459 bytes for ./www/assets/images/interior/economiczone/offices_temp.png
+copying file ./www/assets/images/interior/economiczone/mechanicalhub_temp.png ... 
+2021-09-20 23:53:17 +0000  11999 bytes for ./www/assets/images/interior/economiczone/mechanicalhub_temp.png
+copying file ./www/assets/images/interior/economiczone/pumproombooster.png ... 
+2021-09-20 23:53:17 +0000  15508 bytes for ./www/assets/images/interior/economiczone/pumproombooster.png
+copying file ./www/assets/images/interior/economiczone/warehouse_temp.png ... 
+2021-09-20 23:53:17 +0000  12569 bytes for ./www/assets/images/interior/economiczone/warehouse_temp.png
+copying file ./www/assets/images/interior/economiczone/processinghub_temp.png ... 
+2021-09-20 23:53:17 +0000  13360 bytes for ./www/assets/images/interior/economiczone/processinghub_temp.png
+copying file ./www/assets/images/interior/economiczone/ecopark_temp.png ... 
+2021-09-20 23:53:17 +0000  9930 bytes for ./www/assets/images/interior/economiczone/ecopark_temp.png
+copying file ./www/assets/images/interior/economiczone/intro_temp.png ... 
+2021-09-20 23:53:17 +0000  7119 bytes for ./www/assets/images/interior/economiczone/intro_temp.png
+2021-09-20 23:53:17 +0000  copying file ./www/assets/images/interior/economiczone/garageparking_temp.png ... 
+2021-09-20 23:53:17 +0000  14615 bytes for ./www/assets/images/interior/economiczone/garageparking_temp.png
+copying file ./www/assets/images/interior/economiczone/wastedisposal_temp.png ... 
+2021-09-20 23:53:17 +0000  15508 bytes for ./www/assets/images/interior/economiczone/wastedisposal_temp.png
+2021-09-20 23:53:17 +0000  copying file ./www/assets/images/interior/obj_temp.png ... 
+2021-09-20 23:53:17 +0000  1501 bytes for ./www/assets/images/interior/obj_temp.png
+2021-09-20 23:53:17 +0000  copying file ./www/assets/images/interior/roominterior_sample_2.png ... 
+2021-09-20 23:53:17 +0000  234154 bytes for ./www/assets/images/interior/roominterior_sample_2.png
+2021-09-20 23:53:17 +0000  copying file ./www/assets/images/interior/house/house_bathroom_temp.png ... 
+2021-09-20 23:53:17 +0000  10888 bytes for ./www/assets/images/interior/house/house_bathroom_temp.png
+2021-09-20 23:53:17 +0000  copying file ./www/assets/images/interior/house/house_Garden_temp.png ... 
+2021-09-20 23:53:17 +0000  10666 bytes for ./www/assets/images/interior/house/house_Garden_temp.png
+2021-09-20 23:53:17 +0000  copying file ./www/assets/images/interior/house/house_living_temp.png ... 
+2021-09-20 23:53:17 +0000  11983 bytes for ./www/assets/images/interior/house/house_living_temp.png
+copying file ./www/assets/images/interior/house/house_outside_temp.png ... 
+2021-09-20 23:53:17 +0000  15397 bytes for ./www/assets/images/interior/house/house_outside_temp.png
+copying file ./www/assets/images/interior/house/house_bedroom_temp.png ... 
+2021-09-20 23:53:17 +0000  13948 bytes for ./www/assets/images/interior/house/house_bedroom_temp.png
+copying file ./www/assets/images/interior/house/kitchen_temp.png ... 
+2021-09-20 23:53:17 +0000  9484 bytes for ./www/assets/images/interior/house/kitchen_temp.png
+copying file ./www/assets/images/interior/house/house_kitchen_temp.png ... 
+2021-09-20 23:53:17 +0000  9484 bytes for ./www/assets/images/interior/house/house_kitchen_temp.png
+2021-09-20 23:53:17 +0000  copying file ./www/assets/images/interior/roominterior_sample_3.png ... 
+2021-09-20 23:53:17 +0000  234253 bytes for ./www/assets/images/interior/roominterior_sample_3.png
+copying file ./www/assets/images/interior/roominterior_sample.png ... 
+2021-09-20 23:53:17 +0000  192832 bytes for ./www/assets/images/interior/roominterior_sample.png
+2021-09-20 23:53:17 +0000  copying file ./www/assets/images/interior/mall/displayarea_temp.png ... 
+2021-09-20 23:53:17 +0000  10690 bytes for ./www/assets/images/interior/mall/displayarea_temp.png
+copying file ./www/assets/images/interior/mall/bathroom_temp.png ... 
+2021-09-20 23:53:17 +0000  7940 bytes for ./www/assets/images/interior/mall/bathroom_temp.png
+copying file ./www/assets/images/interior/mall/foodcourt_temp.png ... 
+2021-09-20 23:53:17 +0000  7786 bytes for ./www/assets/images/interior/mall/foodcourt_temp.png
+copying file ./www/assets/images/interior/mall/central_temp.png ... 
+2021-09-20 23:53:17 +0000  12140 bytes for ./www/assets/images/interior/mall/central_temp.png
+copying file ./www/assets/images/interior/mall/intro_mall_temp.png ... 
+2021-09-20 23:53:17 +0000  5879 bytes for ./www/assets/images/interior/mall/intro_mall_temp.png
+2021-09-20 23:53:17 +0000  copying file ./www/assets/images/building/wattmatters_temp.png ... 
+2021-09-20 23:53:17 +0000  19918 bytes for ./www/assets/images/building/wattmatters_temp.png
+copying file ./www/assets/images/building/economical_temp.png ... 
+2021-09-20 23:53:17 +0000  21008 bytes for ./www/assets/images/building/economical_temp.png
+2021-09-20 23:53:17 +0000  copying file ./www/assets/images/building/game_temp.png ... 
+2021-09-20 23:53:17 +0000  22338 bytes for ./www/assets/images/building/game_temp.png
+copying file ./www/assets/images/building/Parkinglot_temp.png ... 
+2021-09-20 23:53:17 +0000  19614 bytes for ./www/assets/images/building/Parkinglot_temp.png
+copying file ./www/assets/images/building/house_temp.png ... 
+2021-09-20 23:53:17 +0000  17284 bytes for ./www/assets/images/building/house_temp.png
+copying file ./www/assets/images/building/office_temp.png ... 
+2021-09-20 23:53:17 +0000  17184 bytes for ./www/assets/images/building/office_temp.png
+copying file ./www/assets/images/building/GF_temp.png ... 
+2021-09-20 23:53:17 +0000  14076 bytes for ./www/assets/images/building/GF_temp.png
+copying file ./www/assets/images/building/mall_temp.png ... 
+2021-09-20 23:53:17 +0000  16166 bytes for ./www/assets/images/building/mall_temp.png
+copying file ./www/assets/images/building/economic_zone_temp.png ... 
+2021-09-20 23:53:17 +0000  20890 bytes for ./www/assets/images/building/economic_zone_temp.png
+copying file ./www/assets/images/building/cityhall_temp.png ... 
+2021-09-20 23:53:17 +0000  17176 bytes for ./www/assets/images/building/cityhall_temp.png
+2021-09-20 23:53:17 +0000  copying file ./www/assets/images/building/embassy_temp.png ... 
+2021-09-20 23:53:17 +0000  17924 bytes for ./www/assets/images/building/embassy_temp.png
+copying file ./www/assets/images/building/seaport_temp.png ... 
+2021-09-20 23:53:17 +0000  18237 bytes for ./www/assets/images/building/seaport_temp.png
+2021-09-20 23:53:17 +0000  copying file ./www/assets/audio/sfx/sfx_generic_button.ogg ... 
+2021-09-20 23:53:17 +0000  5660 bytes for ./www/assets/audio/sfx/sfx_generic_button.ogg
+copying file ./www/assets/audio/sfx/sfx_generic_button.mp3 ... 
+2021-09-20 23:53:17 +0000  4096 bytes for ./www/assets/audio/sfx/sfx_generic_button.mp3
+2021-09-20 23:53:17 +0000  copying file ./www/assets/fonts/nunito_72.fnt ... 
+2021-09-20 23:53:17 +0000  315114 bytes for ./www/assets/fonts/nunito_72.fnt
+copying file ./www/assets/fonts/nunito_72_0.png ... 
+2021-09-20 23:53:17 +0000  84186 bytes for ./www/assets/fonts/nunito_72_0.png
+2021-09-20 23:53:17 +0000  copying file ./main.jsbundle ... 
+2021-09-20 23:53:17 +0000  775390 bytes for ./main.jsbundle
+2021-09-20 23:53:17 +0000  copying file ./LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2021-09-20 23:53:17 +0000  3781 bytes for ./LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2021-09-20 23:53:17 +0000  896 bytes for ./LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2021-09-20 23:53:17 +0000  copying file ./LaunchScreen.storyboardc/Info.plist ... 
+2021-09-20 23:53:17 +0000  258 bytes for ./LaunchScreen.storyboardc/Info.plist
+2021-09-20 23:53:17 +0000  copying file ./ESPVirtual ... 
+2021-09-20 23:53:18 +0000  21950160 bytes for ./ESPVirtual
+2021-09-20 23:53:18 +0000  copying file ./Frameworks/libswiftCoreImage.dylib ... 
+466576 bytes for ./Frameworks/libswiftCoreImage.dylib
+copying file ./Frameworks/libswiftObjectiveC.dylib ... 
+679696 bytes for ./Frameworks/libswiftObjectiveC.dylib
+copying file ./Frameworks/libswiftCore.dylib ... 
+2021-09-20 23:53:19 +0000  95497584 bytes for ./Frameworks/libswiftCore.dylib
+copying file ./Frameworks/libswiftCoreGraphics.dylib ... 
+2021-09-20 23:53:19 +0000  2041040 bytes for ./Frameworks/libswiftCoreGraphics.dylib
+copying file ./Frameworks/OpenSSL.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Frameworks/OpenSSL.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/OpenSSL.framework/OpenSSL ... 
+2021-09-20 23:53:19 +0000  10657632 bytes for ./Frameworks/OpenSSL.framework/OpenSSL
+copying file ./Frameworks/OpenSSL.framework/Info.plist ... 
+2021-09-20 23:53:19 +0000  716 bytes for ./Frameworks/OpenSSL.framework/Info.plist
+2021-09-20 23:53:19 +0000  copying file ./Frameworks/libswiftUIKit.dylib ... 
+2021-09-20 23:53:20 +0000  1608816 bytes for ./Frameworks/libswiftUIKit.dylib
+copying file ./Frameworks/libswiftMetal.dylib ... 
+724432 bytes for ./Frameworks/libswiftMetal.dylib
+copying file ./Frameworks/libswiftDispatch.dylib ... 
+4056912 bytes for ./Frameworks/libswiftDispatch.dylib
+copying file ./Frameworks/libswiftos.dylib ... 
+857184 bytes for ./Frameworks/libswiftos.dylib
+copying file ./Frameworks/libswiftCoreFoundation.dylib ... 
+2021-09-20 23:53:20 +0000  450400 bytes for ./Frameworks/libswiftCoreFoundation.dylib
+copying file ./Frameworks/libswiftDarwin.dylib ... 
+1091440 bytes for ./Frameworks/libswiftDarwin.dylib
+copying file ./Frameworks/libswiftQuartzCore.dylib ... 
+486352 bytes for ./Frameworks/libswiftQuartzCore.dylib
+copying file ./Frameworks/libswiftFoundation.dylib ... 
+2021-09-20 23:53:20 +0000  43094320 bytes for ./Frameworks/libswiftFoundation.dylib
+copying file ./embedded.mobileprovision ... 
+2021-09-20 23:53:20 +0000  15628 bytes for ./embedded.mobileprovision
+copying file ./Info.plist ... 
+2021-09-20 23:53:20 +0000  1223 bytes for ./Info.plist
+copying file ./PkgInfo ... 
+2021-09-20 23:53:20 +0000  8 bytes for ./PkgInfo
+2021-09-20 23:53:20 +0000  /usr/bin/ditto exited with 0
+2021-09-20 23:53:20 +0000  Processing step: IDEDistributionEmbedProfileStep
+2021-09-20 23:53:20 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fe9be1debe0; bundleID='com.github.krzyzanowskim.OpenSSL', path='<DVTFilePath:0x7fe9c690ccd0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/OpenSSL.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9be173430; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be2d8d80; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9cdae2a60>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.github.krzyzanowskim.OpenSSL', executablePath='<DVTFilePath:0x7fe9c6906eb0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/OpenSSL.framework/OpenSSL'>', hardenedRuntime='0'>'>
+2021-09-20 23:53:20 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fe9be174020; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fe9c9d44000:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9c57ca5d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be2d8d80; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9cda88c40>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fe9c9d44000:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>
+2021-09-20 23:53:20 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fe9c5e8d430; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fe9c5e058a0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9cd922b50; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be2d8d80; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9cda84050>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fe9c5e058a0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>
+2021-09-20 23:53:20 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fe9bbda0180; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fe9c6962c30:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9cd9f5f50; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe978f2f6d0; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9cec6a9d0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fe9c6962c30:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>
+2021-09-20 23:53:20 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fe9be2744a0; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7fe9be084110:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9be1f97b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c57d6570; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c57edd00>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7fe9be084110:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'>
+2021-09-20 23:53:20 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fe9c5765cd0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fe9c5f494a0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9c695d4e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c57ea1e0; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9cf7f8db0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fe9c5f494a0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>
+2021-09-20 23:53:20 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fe9c57f41a0; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fe9c60b2760:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9c57f2320; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c57ecfc0; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c57cfc50>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fe9c60b2760:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>
+2021-09-20 23:53:20 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fe9be278ce0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fe9c60b6960:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9bbd6a3c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c57d9aa0; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c57fe370>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fe9c60b6960:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>
+2021-09-20 23:53:20 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fe9c57d05a0; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7fe9c5e07600:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9be1f9f90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c5e16f40; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c5f34050>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7fe9c5e07600:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'>
+2021-09-20 23:53:20 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fe9be194280; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fe9c6906730:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe978f3b930; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c5e16f40; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c5fddae0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fe9c6906730:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>
+2021-09-20 23:53:20 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fe9c5e71b60; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7fe9c6029930:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9c57e2870; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c57cfa30; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c57fe370>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7fe9c6029930:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'>
+2021-09-20 23:53:20 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fe9c57f8b40; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7fe9c60ad5d0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9cd16cc60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c57cfa30; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c57f32a0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7fe9c60ad5d0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'>
+2021-09-20 23:53:20 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fe9c5e0cf90; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7fe9c5fc3d20:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9cbde2cc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c57fb810; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c57fe370>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7fe9c5fc3d20:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'>
+2021-09-20 23:53:20 +0000  Processing step: IDEDistributionInfoPlistStep
+2021-09-20 23:53:20 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-09-20 23:53:20 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-09-20 23:53:20 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-09-20 23:53:20 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-09-20 23:53:20 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-09-20 23:53:20 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-09-20 23:53:20 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-09-20 23:53:20 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-09-20 23:53:20 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-09-20 23:53:20 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-09-20 23:53:20 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-09-20 23:53:20 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-09-20 23:53:20 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-09-20 23:53:20 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-09-20 23:53:20 +0000  Processing step: IDEDistributionItemRemovalStep
+2021-09-20 23:53:20 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2021-09-20 23:53:20 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2021-09-20 23:53:20 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2021-09-20 23:53:20 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2021-09-20 23:53:20 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2021-09-20 23:53:20 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/OpenSSL.framework/OpenSSL' '-l' '-o' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/OpenSSL.framework/OpenSSL'
+2021-09-20 23:53:20 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-09-20 23:53:21 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/ESPVirtual' '-l' '-o' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/ESPVirtual'
+2021-09-20 23:53:21 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-09-20 23:53:21 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2021-09-20 23:53:21 +0000  The archive did not contain /Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/BCSymbolMaps/F8B1B40E-0301-3F0D-A724-8BA55DB574D2.bcsymbolmap as expected.
+2021-09-20 23:53:22 +0000  Running /usr/bin/ditto '-V' '/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/BCSymbolMaps/E6341776-03EF-34C2-83ED-4DF3387FD673.bcsymbolmap' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/BCSymbolMaps/E6341776-03EF-34C2-83ED-4DF3387FD673.bcsymbolmap'
+2021-09-20 23:53:22 +0000  >>> Copying /Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/BCSymbolMaps/E6341776-03EF-34C2-83ED-4DF3387FD673.bcsymbolmap 
+2021-09-20 23:53:22 +0000  copying file ./E6341776-03EF-34C2-83ED-4DF3387FD673.bcsymbolmap ... 
+2021-09-20 23:53:22 +0000  1784530 bytes for ./E6341776-03EF-34C2-83ED-4DF3387FD673.bcsymbolmap
+2021-09-20 23:53:22 +0000  /usr/bin/ditto exited with 0
+2021-09-20 23:53:22 +0000  Processing step: IDEDistributionSymbolsStep
+2021-09-20 23:53:22 +0000  Excluding symbols for OpenSSL.framework
+2021-09-20 23:53:22 +0000  Excluding symbols for libswiftCore.dylib
+2021-09-20 23:53:22 +0000  Excluding symbols for libswiftCoreFoundation.dylib
+2021-09-20 23:53:22 +0000  Excluding symbols for libswiftCoreGraphics.dylib
+2021-09-20 23:53:22 +0000  Excluding symbols for libswiftCoreImage.dylib
+2021-09-20 23:53:22 +0000  Excluding symbols for libswiftDarwin.dylib
+2021-09-20 23:53:22 +0000  Excluding symbols for libswiftDispatch.dylib
+2021-09-20 23:53:22 +0000  Excluding symbols for libswiftFoundation.dylib
+2021-09-20 23:53:22 +0000  Excluding symbols for libswiftMetal.dylib
+2021-09-20 23:53:23 +0000  Excluding symbols for libswiftObjectiveC.dylib
+2021-09-20 23:53:23 +0000  Excluding symbols for libswiftQuartzCore.dylib
+2021-09-20 23:53:23 +0000  Excluding symbols for libswiftUIKit.dylib
+2021-09-20 23:53:23 +0000  Excluding symbols for libswiftos.dylib
+2021-09-20 23:53:23 +0000  Excluding symbols for ESPVirtual.app
+2021-09-20 23:53:23 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2021-09-20 23:53:23 +0000  Running /usr/bin/ditto '-V' '/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/SwiftSupport' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/SwiftSupport'
+2021-09-20 23:53:23 +0000  >>> Copying /Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/SwiftSupport 
+2021-09-20 23:53:23 +0000  copying file ./iphoneos/libswiftCoreImage.dylib ... 
+2021-09-20 23:53:23 +0000  534085 bytes for ./iphoneos/libswiftCoreImage.dylib
+copying file ./iphoneos/libswiftObjectiveC.dylib ... 
+2021-09-20 23:53:23 +0000  853774 bytes for ./iphoneos/libswiftObjectiveC.dylib
+2021-09-20 23:53:23 +0000  copying file ./iphoneos/libswiftCore.dylib ... 
+2021-09-20 23:53:23 +0000  140528730 bytes for ./iphoneos/libswiftCore.dylib
+copying file ./iphoneos/libswiftCoreGraphics.dylib ... 
+2021-09-20 23:53:23 +0000  2727566 bytes for ./iphoneos/libswiftCoreGraphics.dylib
+copying file ./iphoneos/libswiftUIKit.dylib ... 
+2021-09-20 23:53:24 +0000  2211816 bytes for ./iphoneos/libswiftUIKit.dylib
+copying file ./iphoneos/libswiftMetal.dylib ... 
+897384 bytes for ./iphoneos/libswiftMetal.dylib
+copying file ./iphoneos/libswiftDispatch.dylib ... 
+5501554 bytes for ./iphoneos/libswiftDispatch.dylib
+copying file ./iphoneos/libswiftos.dylib ... 
+1136939 bytes for ./iphoneos/libswiftos.dylib
+copying file ./iphoneos/libswiftCoreFoundation.dylib ... 
+503807 bytes for ./iphoneos/libswiftCoreFoundation.dylib
+copying file ./iphoneos/libswiftDarwin.dylib ... 
+1412501 bytes for ./iphoneos/libswiftDarwin.dylib
+copying file ./iphoneos/libswiftQuartzCore.dylib ... 
+580261 bytes for ./iphoneos/libswiftQuartzCore.dylib
+copying file ./iphoneos/libswiftFoundation.dylib ... 
+2021-09-20 23:53:24 +0000  62290500 bytes for ./iphoneos/libswiftFoundation.dylib
+2021-09-20 23:53:24 +0000  /usr/bin/ditto exited with 0
+2021-09-20 23:53:24 +0000  Processing step: IDEDistributionAppThinningStep
+2021-09-20 23:53:24 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2021-09-20 23:53:24 +0000  Processing step: IDEDistributionArchThinningStep
+2021-09-20 23:53:24 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/OpenSSL.framework/OpenSSL' '-verify_arch' 'arm64e'
+2021-09-20 23:53:24 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-09-20 23:53:24 +0000  Skipping architecture thinning for item "OpenSSL" because arch "arm64e" wasn't found
+2021-09-20 23:53:24 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCore.dylib' '-verify_arch' 'arm64e'
+2021-09-20 23:53:24 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-09-20 23:53:24 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCore.dylib' '-remove' 'arm64e' '-output' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCore.dylib'
+2021-09-20 23:53:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-09-20 23:53:25 +0000  Successfully thinned item "libswiftCore.dylib", arch "arm64e"
+2021-09-20 23:53:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCoreFoundation.dylib' '-verify_arch' 'arm64e'
+2021-09-20 23:53:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-09-20 23:53:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCoreFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCoreFoundation.dylib'
+2021-09-20 23:53:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-09-20 23:53:25 +0000  Successfully thinned item "libswiftCoreFoundation.dylib", arch "arm64e"
+2021-09-20 23:53:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCoreGraphics.dylib' '-verify_arch' 'arm64e'
+2021-09-20 23:53:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-09-20 23:53:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCoreGraphics.dylib' '-remove' 'arm64e' '-output' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCoreGraphics.dylib'
+2021-09-20 23:53:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-09-20 23:53:25 +0000  Successfully thinned item "libswiftCoreGraphics.dylib", arch "arm64e"
+2021-09-20 23:53:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCoreImage.dylib' '-verify_arch' 'arm64e'
+2021-09-20 23:53:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-09-20 23:53:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCoreImage.dylib' '-remove' 'arm64e' '-output' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCoreImage.dylib'
+2021-09-20 23:53:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-09-20 23:53:25 +0000  Successfully thinned item "libswiftCoreImage.dylib", arch "arm64e"
+2021-09-20 23:53:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftDarwin.dylib' '-verify_arch' 'arm64e'
+2021-09-20 23:53:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-09-20 23:53:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftDarwin.dylib' '-remove' 'arm64e' '-output' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftDarwin.dylib'
+2021-09-20 23:53:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-09-20 23:53:25 +0000  Successfully thinned item "libswiftDarwin.dylib", arch "arm64e"
+2021-09-20 23:53:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftDispatch.dylib' '-verify_arch' 'arm64e'
+2021-09-20 23:53:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-09-20 23:53:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftDispatch.dylib' '-remove' 'arm64e' '-output' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftDispatch.dylib'
+2021-09-20 23:53:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-09-20 23:53:25 +0000  Successfully thinned item "libswiftDispatch.dylib", arch "arm64e"
+2021-09-20 23:53:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftFoundation.dylib' '-verify_arch' 'arm64e'
+2021-09-20 23:53:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-09-20 23:53:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftFoundation.dylib'
+2021-09-20 23:53:26 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-09-20 23:53:26 +0000  Successfully thinned item "libswiftFoundation.dylib", arch "arm64e"
+2021-09-20 23:53:26 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftMetal.dylib' '-verify_arch' 'arm64e'
+2021-09-20 23:53:26 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-09-20 23:53:26 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftMetal.dylib' '-remove' 'arm64e' '-output' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftMetal.dylib'
+2021-09-20 23:53:26 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-09-20 23:53:26 +0000  Successfully thinned item "libswiftMetal.dylib", arch "arm64e"
+2021-09-20 23:53:26 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftObjectiveC.dylib' '-verify_arch' 'arm64e'
+2021-09-20 23:53:26 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-09-20 23:53:26 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftObjectiveC.dylib' '-remove' 'arm64e' '-output' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftObjectiveC.dylib'
+2021-09-20 23:53:26 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-09-20 23:53:26 +0000  Successfully thinned item "libswiftObjectiveC.dylib", arch "arm64e"
+2021-09-20 23:53:26 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftQuartzCore.dylib' '-verify_arch' 'arm64e'
+2021-09-20 23:53:26 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-09-20 23:53:26 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftQuartzCore.dylib' '-remove' 'arm64e' '-output' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftQuartzCore.dylib'
+2021-09-20 23:53:26 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-09-20 23:53:26 +0000  Successfully thinned item "libswiftQuartzCore.dylib", arch "arm64e"
+2021-09-20 23:53:26 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftUIKit.dylib' '-verify_arch' 'arm64e'
+2021-09-20 23:53:26 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-09-20 23:53:26 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftUIKit.dylib' '-remove' 'arm64e' '-output' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftUIKit.dylib'
+2021-09-20 23:53:26 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-09-20 23:53:26 +0000  Successfully thinned item "libswiftUIKit.dylib", arch "arm64e"
+2021-09-20 23:53:26 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftos.dylib' '-verify_arch' 'arm64e'
+2021-09-20 23:53:26 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-09-20 23:53:26 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftos.dylib' '-remove' 'arm64e' '-output' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftos.dylib'
+2021-09-20 23:53:26 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2021-09-20 23:53:26 +0000  Successfully thinned item "libswiftos.dylib", arch "arm64e"
+2021-09-20 23:53:26 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/ESPVirtual' '-verify_arch' 'arm64e'
+2021-09-20 23:53:26 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-09-20 23:53:26 +0000  Skipping architecture thinning for item "ESPVirtual" because arch "arm64e" wasn't found
+2021-09-20 23:53:26 +0000  Processing step: IDEDistributionODRStep
+2021-09-20 23:53:26 +0000  Processing step: IDEDistributionStripXattrsStep
+2021-09-20 23:53:26 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fe9be1debe0; bundleID='com.github.krzyzanowskim.OpenSSL', path='<DVTFilePath:0x7fe9c690ccd0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/OpenSSL.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9be173430; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be2cdab0; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9bbd98280>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.github.krzyzanowskim.OpenSSL', executablePath='<DVTFilePath:0x7fe9c6906eb0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/OpenSSL.framework/OpenSSL'>', hardenedRuntime='0'>'>
+2021-09-20 23:53:26 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fe9be174020; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fe9c9d44000:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9c57ca5d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be2d4220; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9bbd09850>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fe9c9d44000:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>
+2021-09-20 23:53:26 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fe9c5e8d430; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fe9c5e058a0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9cd922b50; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be2d8360; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9bbd7ce70>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fe9c5e058a0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>
+2021-09-20 23:53:26 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fe9bbda0180; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fe9c6962c30:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9cd9f5f50; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be2d6680; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9bbdd9060>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fe9c6962c30:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>
+2021-09-20 23:53:26 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fe9be2744a0; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7fe9be084110:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9be1f97b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be2d8840; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9bbd856c0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7fe9be084110:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'>
+2021-09-20 23:53:26 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fe9c5765cd0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fe9c5f494a0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9c695d4e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be2a0570; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9bbd809a0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fe9c5f494a0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>
+2021-09-20 23:53:26 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fe9c57f41a0; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fe9c60b2760:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9c57f2320; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be2a0640; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9bbda16a0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fe9c60b2760:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>
+2021-09-20 23:53:26 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fe9be278ce0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fe9c60b6960:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9bbd6a3c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be2d6550; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9bbd78950>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fe9c60b6960:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>
+2021-09-20 23:53:26 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fe9c57d05a0; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7fe9c5e07600:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9be1f9f90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be2d6890; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9bbdbc760>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7fe9c5e07600:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'>
+2021-09-20 23:53:26 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fe9be194280; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fe9c6906730:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe978f3b930; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be2d6c40; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9bbd7ccb0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fe9c6906730:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>
+2021-09-20 23:53:26 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fe9c5e71b60; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7fe9c6029930:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9c57e2870; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be2d6fb0; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9bbd16600>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7fe9c6029930:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'>
+2021-09-20 23:53:26 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fe9c57f8b40; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7fe9c60ad5d0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9cd16cc60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be2dd470; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9bbd72a90>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7fe9c60ad5d0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'>
+2021-09-20 23:53:26 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fe9c5e0cf90; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7fe9c5fc3d20:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9cbde2cc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be2d8f80; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9bbd6d660>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7fe9c5fc3d20:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'>
+2021-09-20 23:53:26 +0000  Running /usr/bin/xattr '-crs' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app'
+2021-09-20 23:53:27 +0000  /usr/bin/xattr exited with 0
+2021-09-20 23:53:27 +0000  Processing step: IDEDistributionCodesignStep
+2021-09-20 23:53:27 +0000  Entitlements for <IDEDistributionItem: 0x7fe9be1debe0; bundleID='com.github.krzyzanowskim.OpenSSL', path='<DVTFilePath:0x7fe9c690ccd0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/OpenSSL.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9be173430; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe978f22c80; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe978f22db0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.github.krzyzanowskim.OpenSSL', executablePath='<DVTFilePath:0x7fe9c6906eb0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/OpenSSL.framework/OpenSSL'>', hardenedRuntime='0'>'>: {
+}
+2021-09-20 23:53:27 +0000  Entitlements for <IDEDistributionItem: 0x7fe9be1debe0; bundleID='com.github.krzyzanowskim.OpenSSL', path='<DVTFilePath:0x7fe9c690ccd0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/OpenSSL.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9be173430; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe978f37d70; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe978f25cc0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.github.krzyzanowskim.OpenSSL', executablePath='<DVTFilePath:0x7fe9c6906eb0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/OpenSSL.framework/OpenSSL'>', hardenedRuntime='0'>'> are: {
+}
+2021-09-20 23:53:27 +0000  Writing entitlements for <IDEDistributionItem: 0x7fe9be1debe0; bundleID='com.github.krzyzanowskim.OpenSSL', path='<DVTFilePath:0x7fe9c690ccd0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/OpenSSL.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9be173430; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe978f2aae0; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c4edec00>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.github.krzyzanowskim.OpenSSL', executablePath='<DVTFilePath:0x7fe9c6906eb0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/OpenSSL.framework/OpenSSL'>', hardenedRuntime='0'>'> to: /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~Bz1TAt
+2021-09-20 23:53:27 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A8B84B8832F29B9A6615010EAF5AB79BE1EEDF71' '--entitlements' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~Bz1TAt' '--preserve-metadata=identifier,flags,runtime' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/OpenSSL.framework'
+2021-09-20 23:53:27 +0000  /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/OpenSSL.framework: signed bundle with Mach-O universal (arm64) [com.github.krzyzanowskim.OpenSSL]
+2021-09-20 23:53:27 +0000  /usr/bin/codesign exited with 0
+2021-09-20 23:53:27 +0000  Entitlements for <IDEDistributionItem: 0x7fe9be174020; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fe9c9d44000:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9c57ca5d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be2d57d0; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9bbdbc410>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fe9c9d44000:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>: {
+}
+2021-09-20 23:53:27 +0000  Entitlements for <IDEDistributionItem: 0x7fe9be174020; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fe9c9d44000:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9c57ca5d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be2db970; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9bbdb1c30>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fe9c9d44000:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2021-09-20 23:53:27 +0000  Writing entitlements for <IDEDistributionItem: 0x7fe9be174020; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fe9c9d44000:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9c57ca5d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be2e48c0; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9bbdab420>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fe9c9d44000:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'> to: /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~ZpYBmM
+2021-09-20 23:53:27 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A8B84B8832F29B9A6615010EAF5AB79BE1EEDF71' '--entitlements' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~ZpYBmM' '--preserve-metadata=identifier,flags,runtime' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCore.dylib'
+2021-09-20 23:53:27 +0000  /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCore.dylib: replacing existing signature
+2021-09-20 23:53:30 +0000  /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCore]
+2021-09-20 23:53:30 +0000  /usr/bin/codesign exited with 0
+2021-09-20 23:53:30 +0000  Entitlements for <IDEDistributionItem: 0x7fe9c5e8d430; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fe9c5e058a0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9cd922b50; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c5e340b0; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c5e34260>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fe9c5e058a0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>: {
+}
+2021-09-20 23:53:30 +0000  Entitlements for <IDEDistributionItem: 0x7fe9c5e8d430; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fe9c5e058a0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9cd922b50; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c5e55760; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c5e55840>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fe9c5e058a0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2021-09-20 23:53:30 +0000  Writing entitlements for <IDEDistributionItem: 0x7fe9c5e8d430; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fe9c5e058a0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9cd922b50; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c5e57fb0; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c5e56050>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fe9c5e058a0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'> to: /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~2jG19D
+2021-09-20 23:53:30 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A8B84B8832F29B9A6615010EAF5AB79BE1EEDF71' '--entitlements' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~2jG19D' '--preserve-metadata=identifier,flags,runtime' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCoreFoundation.dylib'
+2021-09-20 23:53:30 +0000  /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCoreFoundation.dylib: replacing existing signature
+2021-09-20 23:53:30 +0000  /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCoreFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreFoundation]
+2021-09-20 23:53:30 +0000  /usr/bin/codesign exited with 0
+2021-09-20 23:53:30 +0000  Entitlements for <IDEDistributionItem: 0x7fe9bbda0180; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fe9c6962c30:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9cd9f5f50; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be2e5950; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9bbd48720>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fe9c6962c30:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>: {
+}
+2021-09-20 23:53:30 +0000  Entitlements for <IDEDistributionItem: 0x7fe9bbda0180; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fe9c6962c30:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9cd9f5f50; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be2da660; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9bbd98840>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fe9c6962c30:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2021-09-20 23:53:30 +0000  Writing entitlements for <IDEDistributionItem: 0x7fe9bbda0180; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fe9c6962c30:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9cd9f5f50; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be2dd7f0; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9bbdbbd40>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fe9c6962c30:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'> to: /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~qxhtLU
+2021-09-20 23:53:30 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A8B84B8832F29B9A6615010EAF5AB79BE1EEDF71' '--entitlements' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~qxhtLU' '--preserve-metadata=identifier,flags,runtime' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCoreGraphics.dylib'
+2021-09-20 23:53:30 +0000  /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCoreGraphics.dylib: replacing existing signature
+2021-09-20 23:53:30 +0000  /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCoreGraphics.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreGraphics]
+2021-09-20 23:53:30 +0000  /usr/bin/codesign exited with 0
+2021-09-20 23:53:30 +0000  Entitlements for <IDEDistributionItem: 0x7fe9be2744a0; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7fe9be084110:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9be1f97b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c57fc8e0; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c57d6750>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7fe9be084110:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'>: {
+}
+2021-09-20 23:53:30 +0000  Entitlements for <IDEDistributionItem: 0x7fe9be2744a0; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7fe9be084110:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9be1f97b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c57d2c00; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c57d41e0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7fe9be084110:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2021-09-20 23:53:30 +0000  Writing entitlements for <IDEDistributionItem: 0x7fe9be2744a0; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7fe9be084110:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9be1f97b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c5e3c6f0; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c5e30050>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7fe9be084110:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'> to: /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~WfXxSM
+2021-09-20 23:53:30 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A8B84B8832F29B9A6615010EAF5AB79BE1EEDF71' '--entitlements' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~WfXxSM' '--preserve-metadata=identifier,flags,runtime' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCoreImage.dylib'
+2021-09-20 23:53:30 +0000  /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCoreImage.dylib: replacing existing signature
+2021-09-20 23:53:30 +0000  /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCoreImage.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreImage]
+2021-09-20 23:53:30 +0000  /usr/bin/codesign exited with 0
+2021-09-20 23:53:30 +0000  Entitlements for <IDEDistributionItem: 0x7fe9c5765cd0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fe9c5f494a0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9c695d4e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe978f26ca0; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe978f253a0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fe9c5f494a0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>: {
+}
+2021-09-20 23:53:30 +0000  Entitlements for <IDEDistributionItem: 0x7fe9c5765cd0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fe9c5f494a0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9c695d4e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe978f286b0; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe978f22b60>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fe9c5f494a0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2021-09-20 23:53:30 +0000  Writing entitlements for <IDEDistributionItem: 0x7fe9c5765cd0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fe9c5f494a0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9c695d4e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe978f32340; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe978f35760>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fe9c5f494a0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'> to: /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~RKN2hC
+2021-09-20 23:53:30 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A8B84B8832F29B9A6615010EAF5AB79BE1EEDF71' '--entitlements' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~RKN2hC' '--preserve-metadata=identifier,flags,runtime' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftDarwin.dylib'
+2021-09-20 23:53:30 +0000  /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftDarwin.dylib: replacing existing signature
+2021-09-20 23:53:31 +0000  /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftDarwin.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDarwin]
+2021-09-20 23:53:31 +0000  /usr/bin/codesign exited with 0
+2021-09-20 23:53:31 +0000  Entitlements for <IDEDistributionItem: 0x7fe9c57f41a0; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fe9c60b2760:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9c57f2320; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c5e3a880; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c5e4dfe0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fe9c60b2760:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>: {
+}
+2021-09-20 23:53:31 +0000  Entitlements for <IDEDistributionItem: 0x7fe9c57f41a0; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fe9c60b2760:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9c57f2320; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c5e44f00; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c5e24b20>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fe9c60b2760:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2021-09-20 23:53:31 +0000  Writing entitlements for <IDEDistributionItem: 0x7fe9c57f41a0; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fe9c60b2760:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9c57f2320; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c5e55390; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c5e451f0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fe9c60b2760:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'> to: /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~ZpEpDC
+2021-09-20 23:53:31 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A8B84B8832F29B9A6615010EAF5AB79BE1EEDF71' '--entitlements' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~ZpEpDC' '--preserve-metadata=identifier,flags,runtime' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftDispatch.dylib'
+2021-09-20 23:53:31 +0000  /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftDispatch.dylib: replacing existing signature
+2021-09-20 23:53:31 +0000  /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftDispatch.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDispatch]
+2021-09-20 23:53:31 +0000  /usr/bin/codesign exited with 0
+2021-09-20 23:53:31 +0000  Entitlements for <IDEDistributionItem: 0x7fe9be278ce0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fe9c60b6960:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9bbd6a3c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe978f22930; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe978f41520>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fe9c60b6960:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>: {
+}
+2021-09-20 23:53:31 +0000  Entitlements for <IDEDistributionItem: 0x7fe9be278ce0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fe9c60b6960:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9bbd6a3c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c5e107b0; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c5e5c480>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fe9c60b6960:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2021-09-20 23:53:31 +0000  Writing entitlements for <IDEDistributionItem: 0x7fe9be278ce0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fe9c60b6960:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9bbd6a3c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c5e10b90; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c5e38a30>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fe9c60b6960:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'> to: /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~ECVilP
+2021-09-20 23:53:31 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A8B84B8832F29B9A6615010EAF5AB79BE1EEDF71' '--entitlements' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~ECVilP' '--preserve-metadata=identifier,flags,runtime' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftFoundation.dylib'
+2021-09-20 23:53:31 +0000  /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftFoundation.dylib: replacing existing signature
+2021-09-20 23:53:32 +0000  /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftFoundation]
+2021-09-20 23:53:32 +0000  /usr/bin/codesign exited with 0
+2021-09-20 23:53:32 +0000  Entitlements for <IDEDistributionItem: 0x7fe9c57d05a0; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7fe9c5e07600:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9be1f9f90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be2e3490; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9bbd8b300>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7fe9c5e07600:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'>: {
+}
+2021-09-20 23:53:32 +0000  Entitlements for <IDEDistributionItem: 0x7fe9c57d05a0; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7fe9c5e07600:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9be1f9f90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be2d5a40; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9bbddefe0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7fe9c5e07600:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2021-09-20 23:53:32 +0000  Writing entitlements for <IDEDistributionItem: 0x7fe9c57d05a0; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7fe9c5e07600:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9be1f9f90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c5e3c6f0; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c5e90200>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7fe9c5e07600:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'> to: /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~xQdE5m
+2021-09-20 23:53:32 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A8B84B8832F29B9A6615010EAF5AB79BE1EEDF71' '--entitlements' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~xQdE5m' '--preserve-metadata=identifier,flags,runtime' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftMetal.dylib'
+2021-09-20 23:53:32 +0000  /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftMetal.dylib: replacing existing signature
+2021-09-20 23:53:32 +0000  /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftMetal.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftMetal]
+2021-09-20 23:53:32 +0000  /usr/bin/codesign exited with 0
+2021-09-20 23:53:32 +0000  Entitlements for <IDEDistributionItem: 0x7fe9be194280; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fe9c6906730:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe978f3b930; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c5e1df90; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c5e47d80>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fe9c6906730:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>: {
+}
+2021-09-20 23:53:32 +0000  Entitlements for <IDEDistributionItem: 0x7fe9be194280; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fe9c6906730:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe978f3b930; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c5e46560; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c5e46690>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fe9c6906730:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2021-09-20 23:53:32 +0000  Writing entitlements for <IDEDistributionItem: 0x7fe9be194280; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fe9c6906730:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe978f3b930; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c5e1d350; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c5e55f40>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fe9c6906730:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'> to: /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~pdJpWF
+2021-09-20 23:53:32 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A8B84B8832F29B9A6615010EAF5AB79BE1EEDF71' '--entitlements' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~pdJpWF' '--preserve-metadata=identifier,flags,runtime' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftObjectiveC.dylib'
+2021-09-20 23:53:32 +0000  /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftObjectiveC.dylib: replacing existing signature
+2021-09-20 23:53:32 +0000  /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftObjectiveC.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftObjectiveC]
+2021-09-20 23:53:32 +0000  /usr/bin/codesign exited with 0
+2021-09-20 23:53:32 +0000  Entitlements for <IDEDistributionItem: 0x7fe9c5e71b60; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7fe9c6029930:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9c57e2870; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c5e5b6e0; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c5e5b810>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7fe9c6029930:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'>: {
+}
+2021-09-20 23:53:32 +0000  Entitlements for <IDEDistributionItem: 0x7fe9c5e71b60; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7fe9c6029930:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9c57e2870; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c5e6a420; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c5e6a580>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7fe9c6029930:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2021-09-20 23:53:32 +0000  Writing entitlements for <IDEDistributionItem: 0x7fe9c5e71b60; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7fe9c6029930:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9c57e2870; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c5e9b8c0; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c5e9ba80>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7fe9c6029930:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'> to: /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~CFoLOg
+2021-09-20 23:53:32 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A8B84B8832F29B9A6615010EAF5AB79BE1EEDF71' '--entitlements' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~CFoLOg' '--preserve-metadata=identifier,flags,runtime' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftQuartzCore.dylib'
+2021-09-20 23:53:32 +0000  /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftQuartzCore.dylib: replacing existing signature
+2021-09-20 23:53:32 +0000  /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftQuartzCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftQuartzCore]
+2021-09-20 23:53:32 +0000  /usr/bin/codesign exited with 0
+2021-09-20 23:53:32 +0000  Entitlements for <IDEDistributionItem: 0x7fe9c57f8b40; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7fe9c60ad5d0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9cd16cc60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c57fc8e0; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c57f7fc0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7fe9c60ad5d0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'>: {
+}
+2021-09-20 23:53:32 +0000  Entitlements for <IDEDistributionItem: 0x7fe9c57f8b40; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7fe9c60ad5d0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9cd16cc60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c57d2b20; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c57d3380>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7fe9c60ad5d0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2021-09-20 23:53:32 +0000  Writing entitlements for <IDEDistributionItem: 0x7fe9c57f8b40; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7fe9c60ad5d0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9cd16cc60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c57fc030; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c57ec7b0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7fe9c60ad5d0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'> to: /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~Ts8ha3
+2021-09-20 23:53:32 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A8B84B8832F29B9A6615010EAF5AB79BE1EEDF71' '--entitlements' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~Ts8ha3' '--preserve-metadata=identifier,flags,runtime' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftUIKit.dylib'
+2021-09-20 23:53:32 +0000  /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftUIKit.dylib: replacing existing signature
+2021-09-20 23:53:33 +0000  /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftUIKit.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftUIKit]
+2021-09-20 23:53:33 +0000  /usr/bin/codesign exited with 0
+2021-09-20 23:53:33 +0000  Entitlements for <IDEDistributionItem: 0x7fe9c5e0cf90; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7fe9c5fc3d20:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9cbde2cc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be2d9560; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9bbd8b300>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7fe9c5fc3d20:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'>: {
+}
+2021-09-20 23:53:33 +0000  Entitlements for <IDEDistributionItem: 0x7fe9c5e0cf90; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7fe9c5fc3d20:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9cbde2cc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be0f8da0; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe978f253a0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7fe9c5fc3d20:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2021-09-20 23:53:33 +0000  Writing entitlements for <IDEDistributionItem: 0x7fe9c5e0cf90; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7fe9c5fc3d20:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9cbde2cc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9be2d5970; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9bbd74870>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='(null)', teamID='NW6B7DXU6H', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7fe9c5fc3d20:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'> to: /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~urtMbG
+2021-09-20 23:53:33 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A8B84B8832F29B9A6615010EAF5AB79BE1EEDF71' '--entitlements' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~urtMbG' '--preserve-metadata=identifier,flags,runtime' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftos.dylib'
+2021-09-20 23:53:33 +0000  /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftos.dylib: replacing existing signature
+2021-09-20 23:53:33 +0000  /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftos.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftos]
+2021-09-20 23:53:33 +0000  /usr/bin/codesign exited with 0
+2021-09-20 23:53:33 +0000  Entitlements for <IDEDistributionItem: 0x7fe9c57c1b60; bundleID='com.taktylstudios.ESPVirtual', path='<DVTFilePath:0x7fe9c9dea5a0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9c57cb8b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c5e446e0; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c5e6bf00>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='{
+    "application-identifier" = "NW6B7DXU6H.com.taktylstudios.ESPVirtual";
+    "com.apple.developer.team-identifier" = NW6B7DXU6H;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "NW6B7DXU6H.com.taktylstudios.ESPVirtual"
+    );
+}', teamID='NW6B7DXU6H', identifier='com.taktylstudios.ESPVirtual', executablePath='<DVTFilePath:0x7fe9c6956020:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/ESPVirtual'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "NW6B7DXU6H.com.taktylstudios.ESPVirtual";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = NW6B7DXU6H;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "NW6B7DXU6H.com.taktylstudios.ESPVirtual"
+    );
+}
+2021-09-20 23:53:33 +0000  Entitlements for <IDEDistributionItem: 0x7fe9c57c1b60; bundleID='com.taktylstudios.ESPVirtual', path='<DVTFilePath:0x7fe9c9dea5a0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9c57cb8b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c5e9b1d0; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c5e5b630>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='{
+    "application-identifier" = "NW6B7DXU6H.com.taktylstudios.ESPVirtual";
+    "com.apple.developer.team-identifier" = NW6B7DXU6H;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "NW6B7DXU6H.com.taktylstudios.ESPVirtual"
+    );
+}', teamID='NW6B7DXU6H', identifier='com.taktylstudios.ESPVirtual', executablePath='<DVTFilePath:0x7fe9c6956020:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/ESPVirtual'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "NW6B7DXU6H.com.taktylstudios.ESPVirtual";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = NW6B7DXU6H;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "NW6B7DXU6H.com.taktylstudios.ESPVirtual"
+    );
+}
+2021-09-20 23:53:33 +0000  Writing entitlements for <IDEDistributionItem: 0x7fe9c57c1b60; bundleID='com.taktylstudios.ESPVirtual', path='<DVTFilePath:0x7fe9c9dea5a0:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe9c57cb8b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe9c5e401c0; name='Apple Development: Raymond Del Rosario (L97ULCHPVD)', hash='9FA12856F51AF668E01441B90E7B5FC581BCA834', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe9c5e40320>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-18 14:05:51 +0000''>', entitlements='{
+    "application-identifier" = "NW6B7DXU6H.com.taktylstudios.ESPVirtual";
+    "com.apple.developer.team-identifier" = NW6B7DXU6H;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "NW6B7DXU6H.com.taktylstudios.ESPVirtual"
+    );
+}', teamID='NW6B7DXU6H', identifier='com.taktylstudios.ESPVirtual', executablePath='<DVTFilePath:0x7fe9c6956020:'/Users/mond/Library/Developer/Xcode/Archives/2021-09-20/ESPVirtual 9-20-21, 8.50 AM.xcarchive/Products/Applications/ESPVirtual.app/ESPVirtual'>', hardenedRuntime='0'>'> to: /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~7EmU9L
+2021-09-20 23:53:33 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A8B84B8832F29B9A6615010EAF5AB79BE1EEDF71' '--entitlements' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/entitlements~~~7EmU9L' '--preserve-metadata=identifier,flags,runtime' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app'
+2021-09-20 23:53:34 +0000  /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app: signed app bundle with Mach-O thin (arm64) [com.taktylstudios.ESPVirtual]
+2021-09-20 23:53:34 +0000  /usr/bin/codesign exited with 0
+2021-09-20 23:53:34 +0000  Processing step: IDEDistributionZipODRItemStep
+2021-09-20 23:53:34 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-09-20 23:53:34 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-09-20 23:53:34 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-09-20 23:53:34 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-09-20 23:53:34 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-09-20 23:53:34 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-09-20 23:53:34 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-09-20 23:53:34 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-09-20 23:53:34 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-09-20 23:53:34 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-09-20 23:53:34 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-09-20 23:53:34 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-09-20 23:53:34 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-09-20 23:53:34 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-09-20 23:53:34 +0000  Processing step: IDEDistributionCreateIPAStep
+2021-09-20 23:53:34 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root' '/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Packages/ESPVirtual.ipa'
+2021-09-20 23:53:34 +0000  >>> Copying /var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root 
+2021-09-20 23:53:34 +0000  copying file ./BCSymbolMaps/E6341776-03EF-34C2-83ED-4DF3387FD673.bcsymbolmap ... 
+2021-09-20 23:53:34 +0000  1784530 bytes for ./BCSymbolMaps/E6341776-03EF-34C2-83ED-4DF3387FD673.bcsymbolmap
+2021-09-20 23:53:34 +0000  copying file ./Payload/ESPVirtual.app/_CodeSignature/CodeResources ... 
+2021-09-20 23:53:34 +0000  28816 bytes for ./Payload/ESPVirtual.app/_CodeSignature/CodeResources
+2021-09-20 23:53:34 +0000  copying file ./Payload/ESPVirtual.app/AccessibilityResources.bundle/en.lproj/Localizable.strings ... 
+2021-09-20 23:53:34 +0000  518 bytes for ./Payload/ESPVirtual.app/AccessibilityResources.bundle/en.lproj/Localizable.strings
+copying file ./Payload/ESPVirtual.app/AccessibilityResources.bundle/Info.plist ... 
+2021-09-20 23:53:34 +0000  792 bytes for ./Payload/ESPVirtual.app/AccessibilityResources.bundle/Info.plist
+2021-09-20 23:53:34 +0000  copying file ./Payload/ESPVirtual.app/www/index.html ... 
+2021-09-20 23:53:34 +0000  330 bytes for ./Payload/ESPVirtual.app/www/index.html
+copying file ./Payload/ESPVirtual.app/www/css/game.css ... 
+2021-09-20 23:53:34 +0000  47 bytes for ./Payload/ESPVirtual.app/www/css/game.css
+2021-09-20 23:53:34 +0000  copying file ./Payload/ESPVirtual.app/www/js/game.js ... 
+2021-09-20 23:53:34 +0000  7903366 bytes for ./Payload/ESPVirtual.app/www/js/game.js
+copying file ./Payload/ESPVirtual.app/www/js/game.js.map ... 
+2021-09-20 23:53:35 +0000  8755601 bytes for ./Payload/ESPVirtual.app/www/js/game.js.map
+2021-09-20 23:53:35 +0000  copying file ./Payload/ESPVirtual.app/www/assets/strings/locale_en_us.json ... 
+1948 bytes for ./Payload/ESPVirtual.app/www/assets/strings/locale_en_us.json
+2021-09-20 23:53:35 +0000  copying file ./Payload/ESPVirtual.app/www/assets/images/ui/arrow_Right.png ... 
+2021-09-20 23:53:35 +0000  15162 bytes for ./Payload/ESPVirtual.app/www/assets/images/ui/arrow_Right.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/ui/ctn_popup_dark.png ... 
+2021-09-20 23:53:35 +0000  2576 bytes for ./Payload/ESPVirtual.app/www/assets/images/ui/ctn_popup_dark.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/ui/arrow_left_temp.png ... 
+2021-09-20 23:53:35 +0000  10111 bytes for ./Payload/ESPVirtual.app/www/assets/images/ui/arrow_left_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/ui/ArrowRight.png ... 
+2021-09-20 23:53:35 +0000  14503 bytes for ./Payload/ESPVirtual.app/www/assets/images/ui/ArrowRight.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/ui/arrow_right_temp.png ... 
+2021-09-20 23:53:35 +0000  10206 bytes for ./Payload/ESPVirtual.app/www/assets/images/ui/arrow_right_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/ui/btn_close_temp.png ... 
+2021-09-20 23:53:35 +0000  5190 bytes for ./Payload/ESPVirtual.app/www/assets/images/ui/btn_close_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/ui/darkback.png ... 
+2021-09-20 23:53:35 +0000  3380 bytes for ./Payload/ESPVirtual.app/www/assets/images/ui/darkback.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/ui/arrow_left.png ... 
+2021-09-20 23:53:35 +0000  21473 bytes for ./Payload/ESPVirtual.app/www/assets/images/ui/arrow_left.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/ui/btn_general.png ... 
+2021-09-20 23:53:35 +0000  2033 bytes for ./Payload/ESPVirtual.app/www/assets/images/ui/btn_general.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/ui/ctn_popup.png ... 
+2021-09-20 23:53:35 +0000  2755 bytes for ./Payload/ESPVirtual.app/www/assets/images/ui/ctn_popup.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/ui/ctn_Box.png ... 
+2021-09-20 23:53:35 +0000  2095 bytes for ./Payload/ESPVirtual.app/www/assets/images/ui/ctn_Box.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/ui/ctn_separator_label.png ... 
+2021-09-20 23:53:35 +0000  955 bytes for ./Payload/ESPVirtual.app/www/assets/images/ui/ctn_separator_label.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/ui/ArrowLeft.png ... 
+2021-09-20 23:53:35 +0000  14926 bytes for ./Payload/ESPVirtual.app/www/assets/images/ui/ArrowLeft.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/ui/btnClose_100.png ... 
+2021-09-20 23:53:35 +0000  6419 bytes for ./Payload/ESPVirtual.app/www/assets/images/ui/btnClose_100.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/ui/ctn_rank_blank.png ... 
+2021-09-20 23:53:35 +0000  1214 bytes for ./Payload/ESPVirtual.app/www/assets/images/ui/ctn_rank_blank.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/ui/info_temp.png ... 
+2021-09-20 23:53:35 +0000  2486 bytes for ./Payload/ESPVirtual.app/www/assets/images/ui/info_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/ui/closeButton_temp.png ... 
+2021-09-20 23:53:35 +0000  5190 bytes for ./Payload/ESPVirtual.app/www/assets/images/ui/closeButton_temp.png
+2021-09-20 23:53:35 +0000  copying file ./Payload/ESPVirtual.app/www/assets/images/sprite/arrow_Right.png ... 
+2021-09-20 23:53:35 +0000  15162 bytes for ./Payload/ESPVirtual.app/www/assets/images/sprite/arrow_Right.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/sprite/arrow_left.png ... 
+2021-09-20 23:53:35 +0000  21473 bytes for ./Payload/ESPVirtual.app/www/assets/images/sprite/arrow_left.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/sprite/female.png ... 
+2021-09-20 23:53:35 +0000  193067 bytes for ./Payload/ESPVirtual.app/www/assets/images/sprite/female.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/sprite/testbuilding2.png ... 
+2021-09-20 23:53:35 +0000  135287 bytes for ./Payload/ESPVirtual.app/www/assets/images/sprite/testbuilding2.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/sprite/testbuilding.png ... 
+2021-09-20 23:53:35 +0000  54829 bytes for ./Payload/ESPVirtual.app/www/assets/images/sprite/testbuilding.png
+2021-09-20 23:53:35 +0000  copying file ./Payload/ESPVirtual.app/www/assets/images/interior/temppop.png ... 
+849 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/temppop.png
+2021-09-20 23:53:35 +0000  copying file ./Payload/ESPVirtual.app/www/assets/images/interior/office/cubicle_areas_temp.png ... 
+2021-09-20 23:53:35 +0000  11116 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/office/cubicle_areas_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/interior/office/elevators_temp.png ... 
+2021-09-20 23:53:35 +0000  8703 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/office/elevators_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/interior/office/restroom_temp.png ... 
+2021-09-20 23:53:35 +0000  8461 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/office/restroom_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/interior/office/reception_temp.png ... 
+2021-09-20 23:53:35 +0000  8591 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/office/reception_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/interior/office/intro_office_temp.png ... 
+2021-09-20 23:53:35 +0000  5879 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/office/intro_office_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/interior/office/pantry_temp.png ... 
+2021-09-20 23:53:35 +0000  7135 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/office/pantry_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/interior/office/personal_temp.png ... 
+2021-09-20 23:53:35 +0000  11520 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/office/personal_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/interior/office/conference_temp.png ... 
+2021-09-20 23:53:35 +0000  10903 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/office/conference_temp.png
+2021-09-20 23:53:35 +0000  copying file ./Payload/ESPVirtual.app/www/assets/images/interior/economiczone/offices_temp.png ... 
+2021-09-20 23:53:35 +0000  10459 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/economiczone/offices_temp.png
+2021-09-20 23:53:35 +0000  copying file ./Payload/ESPVirtual.app/www/assets/images/interior/economiczone/mechanicalhub_temp.png ... 
+2021-09-20 23:53:35 +0000  11999 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/economiczone/mechanicalhub_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/interior/economiczone/pumproombooster.png ... 
+2021-09-20 23:53:35 +0000  15508 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/economiczone/pumproombooster.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/interior/economiczone/warehouse_temp.png ... 
+2021-09-20 23:53:35 +0000  12569 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/economiczone/warehouse_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/interior/economiczone/processinghub_temp.png ... 
+2021-09-20 23:53:35 +0000  13360 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/economiczone/processinghub_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/interior/economiczone/ecopark_temp.png ... 
+2021-09-20 23:53:35 +0000  9930 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/economiczone/ecopark_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/interior/economiczone/intro_temp.png ... 
+2021-09-20 23:53:35 +0000  7119 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/economiczone/intro_temp.png
+2021-09-20 23:53:35 +0000  copying file ./Payload/ESPVirtual.app/www/assets/images/interior/economiczone/garageparking_temp.png ... 
+14615 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/economiczone/garageparking_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/interior/economiczone/wastedisposal_temp.png ... 
+2021-09-20 23:53:35 +0000  15508 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/economiczone/wastedisposal_temp.png
+2021-09-20 23:53:35 +0000  copying file ./Payload/ESPVirtual.app/www/assets/images/interior/obj_temp.png ... 
+1501 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/obj_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/interior/roominterior_sample_2.png ... 
+2021-09-20 23:53:35 +0000  234154 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/roominterior_sample_2.png
+2021-09-20 23:53:35 +0000  copying file ./Payload/ESPVirtual.app/www/assets/images/interior/house/house_bathroom_temp.png ... 
+2021-09-20 23:53:35 +0000  10888 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/house/house_bathroom_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/interior/house/house_Garden_temp.png ... 
+2021-09-20 23:53:35 +0000  10666 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/house/house_Garden_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/interior/house/house_living_temp.png ... 
+2021-09-20 23:53:35 +0000  11983 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/house/house_living_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/interior/house/house_outside_temp.png ... 
+2021-09-20 23:53:35 +0000  15397 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/house/house_outside_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/interior/house/house_bedroom_temp.png ... 
+2021-09-20 23:53:35 +0000  13948 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/house/house_bedroom_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/interior/house/kitchen_temp.png ... 
+2021-09-20 23:53:35 +0000  9484 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/house/kitchen_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/interior/house/house_kitchen_temp.png ... 
+2021-09-20 23:53:35 +0000  9484 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/house/house_kitchen_temp.png
+2021-09-20 23:53:35 +0000  copying file ./Payload/ESPVirtual.app/www/assets/images/interior/roominterior_sample_3.png ... 
+2021-09-20 23:53:35 +0000  234253 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/roominterior_sample_3.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/interior/roominterior_sample.png ... 
+2021-09-20 23:53:35 +0000  192832 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/roominterior_sample.png
+2021-09-20 23:53:35 +0000  copying file ./Payload/ESPVirtual.app/www/assets/images/interior/mall/displayarea_temp.png ... 
+10690 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/mall/displayarea_temp.png
+2021-09-20 23:53:35 +0000  copying file ./Payload/ESPVirtual.app/www/assets/images/interior/mall/bathroom_temp.png ... 
+2021-09-20 23:53:35 +0000  7940 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/mall/bathroom_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/interior/mall/foodcourt_temp.png ... 
+2021-09-20 23:53:35 +0000  7786 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/mall/foodcourt_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/interior/mall/central_temp.png ... 
+2021-09-20 23:53:35 +0000  12140 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/mall/central_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/interior/mall/intro_mall_temp.png ... 
+2021-09-20 23:53:35 +0000  5879 bytes for ./Payload/ESPVirtual.app/www/assets/images/interior/mall/intro_mall_temp.png
+2021-09-20 23:53:35 +0000  copying file ./Payload/ESPVirtual.app/www/assets/images/building/wattmatters_temp.png ... 
+2021-09-20 23:53:35 +0000  19918 bytes for ./Payload/ESPVirtual.app/www/assets/images/building/wattmatters_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/building/economical_temp.png ... 
+2021-09-20 23:53:35 +0000  21008 bytes for ./Payload/ESPVirtual.app/www/assets/images/building/economical_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/building/game_temp.png ... 
+2021-09-20 23:53:35 +0000  22338 bytes for ./Payload/ESPVirtual.app/www/assets/images/building/game_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/building/Parkinglot_temp.png ... 
+2021-09-20 23:53:35 +0000  19614 bytes for ./Payload/ESPVirtual.app/www/assets/images/building/Parkinglot_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/building/house_temp.png ... 
+2021-09-20 23:53:35 +0000  17284 bytes for ./Payload/ESPVirtual.app/www/assets/images/building/house_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/building/office_temp.png ... 
+2021-09-20 23:53:35 +0000  17184 bytes for ./Payload/ESPVirtual.app/www/assets/images/building/office_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/building/GF_temp.png ... 
+2021-09-20 23:53:35 +0000  14076 bytes for ./Payload/ESPVirtual.app/www/assets/images/building/GF_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/building/mall_temp.png ... 
+2021-09-20 23:53:35 +0000  16166 bytes for ./Payload/ESPVirtual.app/www/assets/images/building/mall_temp.png
+copying file ./Payload/ESPVirtual.app/www/assets/images/building/economic_zone_temp.png ... 
+2021-09-20 23:53:35 +0000  20890 bytes for ./Payload/ESPVirtual.app/www/assets/images/building/economic_zone_temp.png
+2021-09-20 23:53:35 +0000  copying file ./Payload/ESPVirtual.app/www/assets/images/building/cityhall_temp.png ... 
+2021-09-20 23:53:35 +0000  17176 bytes for ./Payload/ESPVirtual.app/www/assets/images/building/cityhall_temp.png
+2021-09-20 23:53:35 +0000  copying file ./Payload/ESPVirtual.app/www/assets/images/building/embassy_temp.png ... 
+2021-09-20 23:53:35 +0000  17924 bytes for ./Payload/ESPVirtual.app/www/assets/images/building/embassy_temp.png
+2021-09-20 23:53:35 +0000  copying file ./Payload/ESPVirtual.app/www/assets/images/building/seaport_temp.png ... 
+2021-09-20 23:53:35 +0000  18237 bytes for ./Payload/ESPVirtual.app/www/assets/images/building/seaport_temp.png
+2021-09-20 23:53:35 +0000  copying file ./Payload/ESPVirtual.app/www/assets/audio/sfx/sfx_generic_button.ogg ... 
+2021-09-20 23:53:35 +0000  5660 bytes for ./Payload/ESPVirtual.app/www/assets/audio/sfx/sfx_generic_button.ogg
+2021-09-20 23:53:35 +0000  copying file ./Payload/ESPVirtual.app/www/assets/audio/sfx/sfx_generic_button.mp3 ... 
+2021-09-20 23:53:35 +0000  4096 bytes for ./Payload/ESPVirtual.app/www/assets/audio/sfx/sfx_generic_button.mp3
+2021-09-20 23:53:35 +0000  copying file ./Payload/ESPVirtual.app/www/assets/fonts/nunito_72.fnt ... 
+2021-09-20 23:53:35 +0000  315114 bytes for ./Payload/ESPVirtual.app/www/assets/fonts/nunito_72.fnt
+copying file ./Payload/ESPVirtual.app/www/assets/fonts/nunito_72_0.png ... 
+2021-09-20 23:53:35 +0000  84186 bytes for ./Payload/ESPVirtual.app/www/assets/fonts/nunito_72_0.png
+2021-09-20 23:53:35 +0000  copying file ./Payload/ESPVirtual.app/main.jsbundle ... 
+2021-09-20 23:53:35 +0000  775390 bytes for ./Payload/ESPVirtual.app/main.jsbundle
+2021-09-20 23:53:35 +0000  copying file ./Payload/ESPVirtual.app/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2021-09-20 23:53:35 +0000  3781 bytes for ./Payload/ESPVirtual.app/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/ESPVirtual.app/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2021-09-20 23:53:35 +0000  896 bytes for ./Payload/ESPVirtual.app/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/ESPVirtual.app/LaunchScreen.storyboardc/Info.plist ... 
+2021-09-20 23:53:35 +0000  258 bytes for ./Payload/ESPVirtual.app/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/ESPVirtual.app/ESPVirtual ... 
+2021-09-20 23:53:35 +0000  19105104 bytes for ./Payload/ESPVirtual.app/ESPVirtual
+2021-09-20 23:53:35 +0000  copying file ./Payload/ESPVirtual.app/Frameworks/libswiftCoreImage.dylib ... 
+2021-09-20 23:53:35 +0000  352368 bytes for ./Payload/ESPVirtual.app/Frameworks/libswiftCoreImage.dylib
+2021-09-20 23:53:35 +0000  copying file ./Payload/ESPVirtual.app/Frameworks/libswiftObjectiveC.dylib ... 
+2021-09-20 23:53:35 +0000  500080 bytes for ./Payload/ESPVirtual.app/Frameworks/libswiftObjectiveC.dylib
+copying file ./Payload/ESPVirtual.app/Frameworks/libswiftCore.dylib ... 
+2021-09-20 23:53:38 +0000  69852800 bytes for ./Payload/ESPVirtual.app/Frameworks/libswiftCore.dylib
+copying file ./Payload/ESPVirtual.app/Frameworks/libswiftCoreGraphics.dylib ... 
+2021-09-20 23:53:38 +0000  1535344 bytes for ./Payload/ESPVirtual.app/Frameworks/libswiftCoreGraphics.dylib
+2021-09-20 23:53:38 +0000  copying file ./Payload/ESPVirtual.app/Frameworks/OpenSSL.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Payload/ESPVirtual.app/Frameworks/OpenSSL.framework/_CodeSignature/CodeResources
+copying file ./Payload/ESPVirtual.app/Frameworks/OpenSSL.framework/OpenSSL ... 
+2021-09-20 23:53:38 +0000  8164032 bytes for ./Payload/ESPVirtual.app/Frameworks/OpenSSL.framework/OpenSSL
+copying file ./Payload/ESPVirtual.app/Frameworks/OpenSSL.framework/Info.plist ... 
+2021-09-20 23:53:38 +0000  716 bytes for ./Payload/ESPVirtual.app/Frameworks/OpenSSL.framework/Info.plist
+copying file ./Payload/ESPVirtual.app/Frameworks/libswiftUIKit.dylib ... 
+2021-09-20 23:53:38 +0000  1200976 bytes for ./Payload/ESPVirtual.app/Frameworks/libswiftUIKit.dylib
+copying file ./Payload/ESPVirtual.app/Frameworks/libswiftMetal.dylib ... 
+2021-09-20 23:53:38 +0000  544912 bytes for ./Payload/ESPVirtual.app/Frameworks/libswiftMetal.dylib
+2021-09-20 23:53:38 +0000  copying file ./Payload/ESPVirtual.app/Frameworks/libswiftDispatch.dylib ... 
+2021-09-20 23:53:38 +0000  2993328 bytes for ./Payload/ESPVirtual.app/Frameworks/libswiftDispatch.dylib
+copying file ./Payload/ESPVirtual.app/Frameworks/libswiftos.dylib ... 
+2021-09-20 23:53:38 +0000  644960 bytes for ./Payload/ESPVirtual.app/Frameworks/libswiftos.dylib
+copying file ./Payload/ESPVirtual.app/Frameworks/libswiftCoreFoundation.dylib ... 
+2021-09-20 23:53:38 +0000  335920 bytes for ./Payload/ESPVirtual.app/Frameworks/libswiftCoreFoundation.dylib
+copying file ./Payload/ESPVirtual.app/Frameworks/libswiftDarwin.dylib ... 
+2021-09-20 23:53:38 +0000  813984 bytes for ./Payload/ESPVirtual.app/Frameworks/libswiftDarwin.dylib
+copying file ./Payload/ESPVirtual.app/Frameworks/libswiftQuartzCore.dylib ... 
+2021-09-20 23:53:38 +0000  355584 bytes for ./Payload/ESPVirtual.app/Frameworks/libswiftQuartzCore.dylib
+copying file ./Payload/ESPVirtual.app/Frameworks/libswiftFoundation.dylib ... 
+2021-09-20 23:53:40 +0000  31957072 bytes for ./Payload/ESPVirtual.app/Frameworks/libswiftFoundation.dylib
+2021-09-20 23:53:40 +0000  copying file ./Payload/ESPVirtual.app/embedded.mobileprovision ... 
+2021-09-20 23:53:40 +0000  14060 bytes for ./Payload/ESPVirtual.app/embedded.mobileprovision
+copying file ./Payload/ESPVirtual.app/Info.plist ... 
+1223 bytes for ./Payload/ESPVirtual.app/Info.plist
+2021-09-20 23:53:40 +0000  copying file ./Payload/ESPVirtual.app/PkgInfo ... 
+8 bytes for ./Payload/ESPVirtual.app/PkgInfo
+2021-09-20 23:53:40 +0000  copying file ./SwiftSupport/iphoneos/libswiftCoreImage.dylib ... 
+2021-09-20 23:53:40 +0000  466448 bytes for ./SwiftSupport/iphoneos/libswiftCoreImage.dylib
+copying file ./SwiftSupport/iphoneos/libswiftObjectiveC.dylib ... 
+2021-09-20 23:53:40 +0000  679568 bytes for ./SwiftSupport/iphoneos/libswiftObjectiveC.dylib
+copying file ./SwiftSupport/iphoneos/libswiftCore.dylib ... 
+2021-09-20 23:53:44 +0000  95497472 bytes for ./SwiftSupport/iphoneos/libswiftCore.dylib
+copying file ./SwiftSupport/iphoneos/libswiftCoreGraphics.dylib ... 
+2021-09-20 23:53:44 +0000  2040928 bytes for ./SwiftSupport/iphoneos/libswiftCoreGraphics.dylib
+copying file ./SwiftSupport/iphoneos/libswiftUIKit.dylib ... 
+2021-09-20 23:53:44 +0000  1608688 bytes for ./SwiftSupport/iphoneos/libswiftUIKit.dylib
+2021-09-20 23:53:44 +0000  copying file ./SwiftSupport/iphoneos/libswiftMetal.dylib ... 
+2021-09-20 23:53:44 +0000  724304 bytes for ./SwiftSupport/iphoneos/libswiftMetal.dylib
+copying file ./SwiftSupport/iphoneos/libswiftDispatch.dylib ... 
+2021-09-20 23:53:44 +0000  4056784 bytes for ./SwiftSupport/iphoneos/libswiftDispatch.dylib
+copying file ./SwiftSupport/iphoneos/libswiftos.dylib ... 
+2021-09-20 23:53:44 +0000  857072 bytes for ./SwiftSupport/iphoneos/libswiftos.dylib
+copying file ./SwiftSupport/iphoneos/libswiftCoreFoundation.dylib ... 
+2021-09-20 23:53:44 +0000  450272 bytes for ./SwiftSupport/iphoneos/libswiftCoreFoundation.dylib
+copying file ./SwiftSupport/iphoneos/libswiftDarwin.dylib ... 
+2021-09-20 23:53:45 +0000  1091328 bytes for ./SwiftSupport/iphoneos/libswiftDarwin.dylib
+copying file ./SwiftSupport/iphoneos/libswiftQuartzCore.dylib ... 
+2021-09-20 23:53:45 +0000  486224 bytes for ./SwiftSupport/iphoneos/libswiftQuartzCore.dylib
+copying file ./SwiftSupport/iphoneos/libswiftFoundation.dylib ... 
+2021-09-20 23:53:46 +0000  43094208 bytes for ./SwiftSupport/iphoneos/libswiftFoundation.dylib
+2021-09-20 23:53:46 +0000  /usr/bin/ditto exited with 0
+2021-09-20 23:53:46 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2021-09-20 23:53:46 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2021-09-20 23:53:46 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2021-09-20 23:53:47 +0000  IDEDistributionItem init <DVTFilePath:0x7fe9c5777290:'/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftFoundation.dylib'>
+2021-09-20 23:53:47 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fe9c5777290:'/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftFoundation.dylib'>
+2021-09-20 23:53:47 +0000  IDEDistributionItem init <DVTFilePath:0x7fe9c577ce20:'/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/OpenSSL.framework'>
+2021-09-20 23:53:47 +0000  IDEDistributionItem init <DVTFilePath:0x7fe9c5775bf0:'/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftDarwin.dylib'>
+2021-09-20 23:53:47 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fe9c5775bf0:'/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftDarwin.dylib'>
+2021-09-20 23:53:47 +0000  IDEDistributionItem init <DVTFilePath:0x7fe9c577df90:'/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCore.dylib'>
+2021-09-20 23:53:47 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fe9c577df90:'/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCore.dylib'>
+2021-09-20 23:53:47 +0000  IDEDistributionItem init <DVTFilePath:0x7fe9c5778d00:'/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftUIKit.dylib'>
+2021-09-20 23:53:47 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fe9c5778d00:'/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftUIKit.dylib'>
+2021-09-20 23:53:47 +0000  IDEDistributionItem init <DVTFilePath:0x7fe9c5787470:'/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCoreGraphics.dylib'>
+2021-09-20 23:53:47 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fe9c5787470:'/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCoreGraphics.dylib'>
+2021-09-20 23:53:47 +0000  IDEDistributionItem init <DVTFilePath:0x7fe9c5773c80:'/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftDispatch.dylib'>
+2021-09-20 23:53:47 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fe9c5773c80:'/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftDispatch.dylib'>
+2021-09-20 23:53:47 +0000  IDEDistributionItem init <DVTFilePath:0x7fe9c5788540:'/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftObjectiveC.dylib'>
+2021-09-20 23:53:47 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fe9c5788540:'/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftObjectiveC.dylib'>
+2021-09-20 23:53:47 +0000  IDEDistributionItem init <DVTFilePath:0x7fe9c5786ac0:'/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCoreImage.dylib'>
+2021-09-20 23:53:47 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fe9c5786ac0:'/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCoreImage.dylib'>
+2021-09-20 23:53:47 +0000  IDEDistributionItem init <DVTFilePath:0x7fe9c5773510:'/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftQuartzCore.dylib'>
+2021-09-20 23:53:47 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fe9c5773510:'/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftQuartzCore.dylib'>
+2021-09-20 23:53:47 +0000  IDEDistributionItem init <DVTFilePath:0x7fe9c5787390:'/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftMetal.dylib'>
+2021-09-20 23:53:47 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fe9c5787390:'/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftMetal.dylib'>
+2021-09-20 23:53:47 +0000  IDEDistributionItem init <DVTFilePath:0x7fe9c5775170:'/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCoreFoundation.dylib'>
+2021-09-20 23:53:47 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fe9c5775170:'/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftCoreFoundation.dylib'>
+2021-09-20 23:53:47 +0000  IDEDistributionItem init <DVTFilePath:0x7fe9c5774750:'/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftos.dylib'>
+2021-09-20 23:53:47 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fe9c5774750:'/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app/Frameworks/libswiftos.dylib'>
+2021-09-20 23:53:47 +0000  IDEDistributionItem init <DVTFilePath:0x7fe9c60e4c80:'/var/folders/m6/bttk65291wvgd9pdxhnjdzb80000gn/T/XcodeDistPipeline.~~~db0Ugc/Root/Payload/ESPVirtual.app'>
+2021-09-20 23:53:47 +0000  Processing step: IDEDistributionCreateManifestStep
+2021-09-20 23:53:47 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so

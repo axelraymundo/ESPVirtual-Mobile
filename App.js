@@ -396,13 +396,13 @@ function MyWebComponent() {
       </SafeAreaView>
     );
   }
-  const scalesPageToFit = Platform.OS === 'android';
 
+  
   return (
-    <View style={{flex: 1}}>
+    <SafeAreaView style={{flex: 1}}>
       <WebView
         source={{uri: url}}
-        scalesPageToFit={scalesPageToFit}
+        scalesPageToFit={true}
         showsHorizontalScrollIndicator={false}
         bounces={false}
         scrollEnabled={false}
@@ -410,7 +410,7 @@ function MyWebComponent() {
         startInLoadingState
         originWhitelist={['*']}
       />
-    </View>
+    </SafeAreaView>
   );
 }
 
