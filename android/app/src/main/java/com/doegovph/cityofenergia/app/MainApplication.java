@@ -1,4 +1,4 @@
-package com.taktylstudios.test.CityofEnergia;
+package com.doegovph.cityofenergia.app;
 
 import android.app.Application;
 import android.content.Context;

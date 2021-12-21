@@ -11,10 +11,10 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		2163774EBB5B6EBDB65E85E2 /* libPods-ESPVirtual.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CCECFC84D8354A43B4A60BCA /* libPods-ESPVirtual.a */; };
 		78EC03CE2724734000327E6D /* www in Resources */ = {isa = PBXBuildFile; fileRef = 78EC03CD2724733F00327E6D /* www */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		EFC62CEB1A5EEB434D6B60C5 /* libPods-ESPVirtual.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B32B73BF0A1EB1E52A11020 /* libPods-ESPVirtual.a */; };
-		F1A9193465515154E6A76BA7 /* libPods-ESPVirtual-ESPVirtualTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 767F90540782DD693C88D014 /* libPods-ESPVirtual-ESPVirtualTests.a */; };
+		F587AF7C1DAA9174D810A2A9 /* libPods-ESPVirtual-ESPVirtualTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F908AE36ABBD6A24467EA99D /* libPods-ESPVirtual-ESPVirtualTests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,15 +37,17 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = ESPVirtual/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = ESPVirtual/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = ESPVirtual/main.m; sourceTree = "<group>"; };
-		15A29315E3D484CA9F6DE1E3 /* Pods-ESPVirtual-ESPVirtualTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ESPVirtual-ESPVirtualTests.debug.xcconfig"; path = "Target Support Files/Pods-ESPVirtual-ESPVirtualTests/Pods-ESPVirtual-ESPVirtualTests.debug.xcconfig"; sourceTree = "<group>"; };
-		3B32B73BF0A1EB1E52A11020 /* libPods-ESPVirtual.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ESPVirtual.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5E43B7E09C1F8DF8D32AAA9D /* Pods-ESPVirtual.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ESPVirtual.release.xcconfig"; path = "Target Support Files/Pods-ESPVirtual/Pods-ESPVirtual.release.xcconfig"; sourceTree = "<group>"; };
-		767F90540782DD693C88D014 /* libPods-ESPVirtual-ESPVirtualTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ESPVirtual-ESPVirtualTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2351361C913549C3259DBDD6 /* Pods-ESPVirtualTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ESPVirtualTests.debug.xcconfig"; path = "Target Support Files/Pods-ESPVirtualTests/Pods-ESPVirtualTests.debug.xcconfig"; sourceTree = "<group>"; };
 		78EC03CD2724733F00327E6D /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; name = www; path = ../www; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = ESPVirtual/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		89FAAAC71638C657CC2BF8AE /* Pods-ESPVirtual-ESPVirtualTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ESPVirtual-ESPVirtualTests.release.xcconfig"; path = "Target Support Files/Pods-ESPVirtual-ESPVirtualTests/Pods-ESPVirtual-ESPVirtualTests.release.xcconfig"; sourceTree = "<group>"; };
-		CEBC6610C3DC2108AA48D242 /* Pods-ESPVirtual.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ESPVirtual.debug.xcconfig"; path = "Target Support Files/Pods-ESPVirtual/Pods-ESPVirtual.debug.xcconfig"; sourceTree = "<group>"; };
+		9C2022CECA76F5AF921343AA /* Pods-ESPVirtual-ESPVirtualTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ESPVirtual-ESPVirtualTests.debug.xcconfig"; path = "Target Support Files/Pods-ESPVirtual-ESPVirtualTests/Pods-ESPVirtual-ESPVirtualTests.debug.xcconfig"; sourceTree = "<group>"; };
+		AA75719B7FB2A4C32DCD8ECC /* Pods-ESPVirtual.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ESPVirtual.debug.xcconfig"; path = "Target Support Files/Pods-ESPVirtual/Pods-ESPVirtual.debug.xcconfig"; sourceTree = "<group>"; };
+		CCECFC84D8354A43B4A60BCA /* libPods-ESPVirtual.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ESPVirtual.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0FD156B10C429546A44F750 /* Pods-ESPVirtualTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ESPVirtualTests.release.xcconfig"; path = "Target Support Files/Pods-ESPVirtualTests/Pods-ESPVirtualTests.release.xcconfig"; sourceTree = "<group>"; };
+		D60924C4AD858242F055C021 /* Pods-ESPVirtual.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ESPVirtual.release.xcconfig"; path = "Target Support Files/Pods-ESPVirtual/Pods-ESPVirtual.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		F5E31B951E8DB4174B51D8D1 /* Pods-ESPVirtual-ESPVirtualTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ESPVirtual-ESPVirtualTests.release.xcconfig"; path = "Target Support Files/Pods-ESPVirtual-ESPVirtualTests/Pods-ESPVirtual-ESPVirtualTests.release.xcconfig"; sourceTree = "<group>"; };
+		F908AE36ABBD6A24467EA99D /* libPods-ESPVirtual-ESPVirtualTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ESPVirtual-ESPVirtualTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,7 +55,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F1A9193465515154E6A76BA7 /* libPods-ESPVirtual-ESPVirtualTests.a in Frameworks */,
+				F587AF7C1DAA9174D810A2A9 /* libPods-ESPVirtual-ESPVirtualTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,7 +63,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EFC62CEB1A5EEB434D6B60C5 /* libPods-ESPVirtual.a in Frameworks */,
+				2163774EBB5B6EBDB65E85E2 /* libPods-ESPVirtual.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -101,10 +103,12 @@
 		261DE239F03F2604B1E6F67F /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				CEBC6610C3DC2108AA48D242 /* Pods-ESPVirtual.debug.xcconfig */,
-				5E43B7E09C1F8DF8D32AAA9D /* Pods-ESPVirtual.release.xcconfig */,
-				15A29315E3D484CA9F6DE1E3 /* Pods-ESPVirtual-ESPVirtualTests.debug.xcconfig */,
-				89FAAAC71638C657CC2BF8AE /* Pods-ESPVirtual-ESPVirtualTests.release.xcconfig */,
+				AA75719B7FB2A4C32DCD8ECC /* Pods-ESPVirtual.debug.xcconfig */,
+				D60924C4AD858242F055C021 /* Pods-ESPVirtual.release.xcconfig */,
+				2351361C913549C3259DBDD6 /* Pods-ESPVirtualTests.debug.xcconfig */,
+				D0FD156B10C429546A44F750 /* Pods-ESPVirtualTests.release.xcconfig */,
+				9C2022CECA76F5AF921343AA /* Pods-ESPVirtual-ESPVirtualTests.debug.xcconfig */,
+				F5E31B951E8DB4174B51D8D1 /* Pods-ESPVirtual-ESPVirtualTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -113,8 +117,8 @@
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				3B32B73BF0A1EB1E52A11020 /* libPods-ESPVirtual.a */,
-				767F90540782DD693C88D014 /* libPods-ESPVirtual-ESPVirtualTests.a */,
+				CCECFC84D8354A43B4A60BCA /* libPods-ESPVirtual.a */,
+				F908AE36ABBD6A24467EA99D /* libPods-ESPVirtual-ESPVirtualTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -158,12 +162,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "ESPVirtualTests" */;
 			buildPhases = (
-				40184F1A03EDC050880F2D73 /* [CP] Check Pods Manifest.lock */,
+				473B6A27C1243988B4116F8B /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
-				78E200F3C10E6F76E8F1D89B /* [CP] Embed Pods Frameworks */,
-				E412C312418BBF4BFE2AC26E /* [CP] Copy Pods Resources */,
+				AE9023F5E858F1E810C6A161 /* [CP] Embed Pods Frameworks */,
+				1EF5D69A4E2073BD62132B69 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -179,14 +183,14 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "ESPVirtual" */;
 			buildPhases = (
-				0E2CB7826E109CA288B07C0A /* [CP] Check Pods Manifest.lock */,
+				382A98EF7D7E0E18ED3AE50C /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				C09A16A62D1DEDB9AF95CF28 /* [CP] Embed Pods Frameworks */,
-				41AAEA7B2D5476C9D8FF60E9 /* [CP] Copy Pods Resources */,
+				BAE0D71B421E663146C231F3 /* [CP] Embed Pods Frameworks */,
+				F697A5C15AA029AE41628A22 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -268,7 +272,24 @@
 			shellPath = /bin/sh;
 			shellScript = "set -e\n\nexport NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh\n";
 		};
-		0E2CB7826E109CA288B07C0A /* [CP] Check Pods Manifest.lock */ = {
+		1EF5D69A4E2073BD62132B69 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ESPVirtual-ESPVirtualTests/Pods-ESPVirtual-ESPVirtualTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ESPVirtual-ESPVirtualTests/Pods-ESPVirtual-ESPVirtualTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ESPVirtual-ESPVirtualTests/Pods-ESPVirtual-ESPVirtualTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		382A98EF7D7E0E18ED3AE50C /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -290,7 +311,7 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		40184F1A03EDC050880F2D73 /* [CP] Check Pods Manifest.lock */ = {
+		473B6A27C1243988B4116F8B /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -312,24 +333,7 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		41AAEA7B2D5476C9D8FF60E9 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-ESPVirtual/Pods-ESPVirtual-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-ESPVirtual/Pods-ESPVirtual-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ESPVirtual/Pods-ESPVirtual-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		78E200F3C10E6F76E8F1D89B /* [CP] Embed Pods Frameworks */ = {
+		AE9023F5E858F1E810C6A161 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -346,7 +350,7 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ESPVirtual-ESPVirtualTests/Pods-ESPVirtual-ESPVirtualTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		C09A16A62D1DEDB9AF95CF28 /* [CP] Embed Pods Frameworks */ = {
+		BAE0D71B421E663146C231F3 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -363,21 +367,21 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ESPVirtual/Pods-ESPVirtual-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		E412C312418BBF4BFE2AC26E /* [CP] Copy Pods Resources */ = {
+		F697A5C15AA029AE41628A22 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-ESPVirtual-ESPVirtualTests/Pods-ESPVirtual-ESPVirtualTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-ESPVirtual/Pods-ESPVirtual-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-ESPVirtual-ESPVirtualTests/Pods-ESPVirtual-ESPVirtualTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-ESPVirtual/Pods-ESPVirtual-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ESPVirtual-ESPVirtualTests/Pods-ESPVirtual-ESPVirtualTests-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ESPVirtual/Pods-ESPVirtual-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -432,7 +436,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 15A29315E3D484CA9F6DE1E3 /* Pods-ESPVirtual-ESPVirtualTests.debug.xcconfig */;
+			baseConfigurationReference = 9C2022CECA76F5AF921343AA /* Pods-ESPVirtual-ESPVirtualTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -459,7 +463,7 @@
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 89FAAAC71638C657CC2BF8AE /* Pods-ESPVirtual-ESPVirtualTests.release.xcconfig */;
+			baseConfigurationReference = F5E31B951E8DB4174B51D8D1 /* Pods-ESPVirtual-ESPVirtualTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
@@ -483,13 +487,14 @@
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CEBC6610C3DC2108AA48D242 /* Pods-ESPVirtual.debug.xcconfig */;
+			baseConfigurationReference = AA75719B7FB2A4C32DCD8ECC /* Pods-ESPVirtual.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = NW6B7DXU6H;
 				ENABLE_BITCODE = NO;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = arm64;
 				INFOPLIST_FILE = ESPVirtual/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -501,7 +506,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.taktylstudios.test.CityofEnergia;
+				PRODUCT_BUNDLE_IDENTIFIER = com.doegovph.cityofenergia.app;
 				PRODUCT_NAME = ESPVirtual;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -511,12 +516,13 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5E43B7E09C1F8DF8D32AAA9D /* Pods-ESPVirtual.release.xcconfig */;
+			baseConfigurationReference = D60924C4AD858242F055C021 /* Pods-ESPVirtual.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = NW6B7DXU6H;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = arm64;
 				INFOPLIST_FILE = ESPVirtual/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -528,7 +534,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.taktylstudios.test.CityofEnergia;
+				PRODUCT_BUNDLE_IDENTIFIER = com.doegovph.cityofenergia.app;
 				PRODUCT_NAME = ESPVirtual;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -568,7 +574,7 @@
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
-				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "arm64 ";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -633,7 +639,7 @@
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "arm64 ";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;

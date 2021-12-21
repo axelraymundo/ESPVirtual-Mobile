@@ -1,4 +1,4 @@
-package com.taktylstudios.test.CityofEnergia;
+package com.doegovph.cityofenergia.app;
 
 import com.facebook.react.ReactActivity;
 
