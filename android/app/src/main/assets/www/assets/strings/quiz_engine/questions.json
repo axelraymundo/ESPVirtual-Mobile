@@ -1,0 +1,796 @@
+{
+    "categories": [
+        {
+            "id": 0,
+            "title": "Category 1",
+            "questions": [
+                {
+                    "id": 1,
+                    "text": "This Act institutionalizes energy efficiency and conservation, enhances the efficient use of energy, and grants incentives to energy efficiency and conservation projects.",
+                    "image": {
+                        "location": "assets/images/quiz_engine/image/image.png",
+                        "key": "key_1"
+                    },
+                    "choices": [
+                        {
+                            "text": "Energy Efficiency and Conservation Act",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Energy Efficiency Program Management Act",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Energy Efficiency and Conservation Program Management Act",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "text": "To lessen the energy consumption of your air-conditioning unit, how often should you clean the filters?",
+                    "image": {
+                        "location": "assets/images/quiz_engine/image/image.png",
+                        "key": "key_1"
+                    },
+                    "choices": [
+                        {
+                            "text": "Only when it is covered with dirt",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "When you receive high electricity bills",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "At Least once a week",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "text": "LED light bulbs or Light Emitting Diode light bulbs last longer than other types of lighting.",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "TRUE",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "FALSE",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "text": "All energy conservation practices require money investment.",
+                    "choices": [
+                        {
+                            "text": "FALSE",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "TRUE",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "text": "Choosing the right size of air-conditioning unit for your room will save you money.",
+                    "image": {
+                        "location": "assets/images/quiz_engine/image/image.png",
+                        "key": "key_5"
+                    },
+                    "choices": [
+                        {
+                            "text": "TRUE",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "FALSE",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "text": "Use of electric vehicles reduces the threat of experiencing fuel supply disruptions and at the same time contributes to solving the problem of climate change.",
+                    "image": {
+                        "location": "assets/images/quiz_engine/image/image.png",
+                        "key": "key_5"
+                    },
+                    "choices": [
+                        {
+                            "text": "TRUE",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "FALSE",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "text": "How often should cooling units in commercial establishments be professionally serviced?",
+                    "image": {
+                        "location": "assets/images/quiz_engine/image/image.png",
+                        "key": "key_3"
+                    },
+                    "choices": [
+                        {
+                            "text": "Once a year",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Twice a year",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Thrice a year",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "text": "How much will you save if you turn-off one light bulb for six hours?",
+                    "image": {
+                        "location": "assets/images/quiz_engine/image/image.png",
+                        "key": "key_2"
+                    },
+                    "choices": [
+                        {
+                            "text": "25 Pesos",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "30 Pesos",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "20 Pesos",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "text": "Smart-meter is used to track energy consumption in real-time.",
+                    "choices": [
+                        {
+                            "text": "TRUE",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "FALSE",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "text": "Setting your refrigerator temperature to the lowest avoids excessive cooling and wasting of energy.",
+                    "choices": [
+                        {
+                            "text": "FALSE",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "TRUE",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Category 2",
+            "questions": [
+                {
+                    "id": 1,
+                    "text": "To be energy efficient, before leaving the office, you must:",
+                    "image": {
+                        "location": "assets/images/quiz_engine/image/image.png",
+                        "key": "key_1"
+                    },
+                    "choices": [
+                        {
+                            "text": "Switch off all the equipment and appliances.",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Keep appliances and equipment plugged in.",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "text": "What does LED stand for?",
+                    "image": {
+                        "location": "assets/images/quiz_engine/image/image.png",
+                        "key": "key_1"
+                    },
+                    "choices": [
+                        {
+                            "text": "Low emitting diode",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Light emitting diode",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Light emission diode",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "text": "What is phantom load?",
+                    "choices": [
+                        {
+                            "text": "Electricity used by turned-off appliances when plugged in.",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Electricity that an appliance gives off.",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "text": "The __ chairs the Inter-Agency Energy Efficiency and Conservation Committee. ",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Department of Energy",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Department of Finance",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Department of Budget and Management",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "text": "What type of lighting equipment is the most energy efficient?",
+                    "choices": [
+                        {
+                            "text": "LED",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "CFL",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "IB",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "text": "When was the Energy Efficiency and Conservation Act signed?",
+                    "image": {
+                        "location": "assets/images/quiz_engine/image/image.png",
+                        "key": "key_5"
+                    },
+                    "choices": [
+                        {
+                            "text": "2019",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "2018",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "2020",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "text": "What is the coverage of the Government Energy Management Program (GEMP)?",
+                    "image": {
+                        "location": "assets/images/quiz_engine/image/image.png",
+                        "key": "key_3"
+                    },
+                    "choices": [
+                        {
+                            "text": "National and local governments",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "GOCCs, SUCs, and Foreign Service Posts",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "All of the above",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "text": "Which contributes to additional 5 to 15% electricity consumption of air-conditioners?",
+                    "image": {
+                        "location": "assets/images/quiz_engine/image/image.png",
+                        "key": "key_2"
+                    },
+                    "choices": [
+                        {
+                            "text": "Dirty filters",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Air-con placed in shady part of the building",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "An additional electric fan in the room",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "text": "What temperature should you set your air conditioner?",
+                    "choices": [
+                        {
+                            "text": "24 °C",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "19 °C",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "30 °C",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "text": "A yellow card or tag attached on appliances to help buyers make an informed purchase decision.",
+                    "choices": [
+                        {
+                            "text": "Energy label",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Electricity label",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Electricity bill",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Category 3",
+            "questions": [
+                {
+                    "id": 1,
+                    "text": "It is an investigation, a survey of WHERE, WHEN and HOW energy is being used",
+                    "image": {
+                        "location": "assets/images/quiz_engine/image/image.png",
+                        "key": "key_1"
+                    },
+                    "choices": [
+                        {
+                            "text": "Energy audit",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Energy label",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Energy consumption",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "text": "A unit of measurement equals to the amount of energy used if a 1,000-watt appliance runs for an hour",
+                    "image": {
+                        "location": "assets/images/quiz_engine/image/image.png",
+                        "key": "key_1"
+                    },
+                    "choices": [
+                        {
+                            "text": "Megawatt hour",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Kilowatt hour",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Kilometer",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "text": "Which of these is an effective way to improve energy efficiency for air conditioners?",
+                    "choices": [
+                        {
+                            "text": "Use inverter-type air conditioners",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Open windows for air circulation",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Set the thermostat to Hi-cool",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "text": "Which is NOT a member of the IAEECC?",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "DENR",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "DPWH",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "DOST",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "text": "Which of the following does NOT contribute to fuel efficiency?",
+                    "choices": [
+                        {
+                            "text": "Observance of idling.",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Change oil and oil filters.",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Regular checking of tires.",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "text": "The higher the energy efficinecy ratio (EER), the more energy-saving the unit is.",
+                    "image": {
+                        "location": "assets/images/quiz_engine/image/image.png",
+                        "key": "key_5"
+                    },
+                    "choices": [
+                        {
+                            "text": "TRUE",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "FALSE",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "text": "Why is an energy label important?",
+                    "image": {
+                        "location": "assets/images/quiz_engine/image/image.png",
+                        "key": "key_3"
+                    },
+                    "choices": [
+                        {
+                            "text": "Helps buyers make an informed purchase decision",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Tells buyers which brands are recommended by the DOE",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Helps buyers find out if the product is made in the Philippines or abroad",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "text": "Where is the best place to install an air-conditioner?",
+                    "image": {
+                        "location": "assets/images/quiz_engine/image/image.png",
+                        "key": "key_2"
+                    },
+                    "choices": [
+                        {
+                            "text": "Shaded area of the building",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Facing direct sunlight",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Near shrubs and bushes",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "text": "Which is NOT an efficient way of using an electric fan?",
+                    "choices": [
+                        {
+                            "text": "Start running the fan from low mode",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Lock the oscillator/restrict side to side movement",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "text": "Which is NOT a proper vehicle maintenance habit?",
+                    "choices": [
+                        {
+                            "text": "Make sure that oil levels are low.",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Regularly tune up the car to ensure best performance.",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Category 4",
+            "questions": [
+                {
+                    "id": 1,
+                    "text": "Choose a description that best fits energy efficiency.",
+                    "image": {
+                        "location": "assets/images/quiz_engine/image/image.png",
+                        "key": "key_1"
+                    },
+                    "choices": [
+                        {
+                            "text": "Uses less energy to perform the same task",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Uses the same energy to perform the same task",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Uses more energy to perform the same task",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "text": "Choose a description that best fits energy conservation.",
+                    "image": {
+                        "location": "assets/images/quiz_engine/image/image.png",
+                        "key": "key_1"
+                    },
+                    "choices": [
+                        {
+                            "text": "Decision and practice of using less energy",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Decision and practice that use energy",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Decision and practice that produce energy",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "text": "A major emitter of greenhouse gas; the largest single source of coal-fired power stations with 20% of GHG.",
+                    "choices": [
+                        {
+                            "text": "Electricity generation and transport",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Deforestation",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Livestock emission",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "text": "Energy efficiency is using technology that requires less energy to perform the same function.",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "TRUE",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "FALSE",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "text": "Covers the benefits of replacing incandescent bulbs with LED bulbs ",
+                    "choices": [
+                        {
+                            "text": "Energy efficiency",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Energy audit",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Energy utilization",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "text": "Discusses how to avoid jack-rabbit starts when driving",
+                    "image": {
+                        "location": "assets/images/quiz_engine/image/image.png",
+                        "key": "key_5"
+                    },
+                    "choices": [
+                        {
+                            "text": "Energy conservation",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Energy audit",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Energy efficiency",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "text": "Which of the following is not part of the energy audit process?",
+                    "image": {
+                        "location": "assets/images/quiz_engine/image/image.png",
+                        "key": "key_3"
+                    },
+                    "choices": [
+                        {
+                            "text": "Analysis",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Recommendation",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Health inspection",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "text": "Which is NOT a type of energy audit?",
+                    "image": {
+                        "location": "assets/images/quiz_engine/image/image.png",
+                        "key": "key_2"
+                    },
+                    "choices": [
+                        {
+                            "text": "Internal audit",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Walk-through",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Investment-grade audit",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "text": "Which of the following is used during an energy audit?",
+                    "choices": [
+                        {
+                            "text": "Both",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Luxmeter",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Infrared non-contact type thermometer",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "text": "Which is an objective of the Energy Efficiency and Conservation Act?",
+                    "choices": [
+                        {
+                            "text": "To safeguard sufficient and stable energy supply",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "To modernize the permitting process of power plants",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

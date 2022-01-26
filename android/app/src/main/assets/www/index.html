@@ -14,7 +14,8 @@
      width=width=device-width, minimal-ui=1"
       name="viewport"
     /> -->
-    <meta name="viewport" content="width=device-width,initial-scale=0.86,maximum-scale=5,minimum-scale=0.86,user-scalable=0">
+    <meta charset="utf-8" name="viewport" content="width=device-width,initial-scale=0.86,maximum-scale=5,minimum-scale=0.86,user-scalable=0">
+
     <!-- <meta
       id="viewport"
       name="viewport"
@@ -24,17 +25,13 @@
     <title>
       ESP-Virtual Showroom
     </title>
+
     <style media="screen" type="text/css">
       @font-face {
         font-family: fontlato;
-        src: url("/assets/fonts/Lato-Regular.ttf");
-        font-weight: 800;
-        font-weight: normal;
-      }
-      @font-face {
-        font-family: fontlatoblack;
-        src: url("/assets/fonts/Lato-Black.ttf");
-        font-weight: 800;
+        src: local("fontlato"),
+          url("./assets/fonts/latoregular.ttf") format("truetype");
+        font-weight: 400;
         font-weight: normal;
       }
     </style>
@@ -45,16 +42,11 @@
     
     <script src="./js/game.js"></script>
     
-    <script src="../js/PlayFabClientApi.js"></script>
+    <!-- <script src="../js/PlayFabClientApi.js"></script> -->
   </head>
 
   <body id="game-body">
-    <div style="font-family: fontlato;
-        position: absolute;
-        left: -1000px;
-        visibility: hidden;">
-      .
-    </div>
     <div id="game-parent"></div>
+    <div style="font-family: fontlato; visibility: hidden">.</div>
   </body>
 </html>

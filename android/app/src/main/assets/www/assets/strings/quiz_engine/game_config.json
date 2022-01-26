@@ -1,0 +1,19 @@
+{
+    "categories": {
+        "count": 2,
+        "choiceCount": 4
+    },
+    "questions": {
+        "maxQuestions": -1,
+        "isRandomOrder": true
+    },
+    "choices": {
+        "maxChoices": 4,
+        "isRandomOrder": true
+    },
+    "score": {
+        "pointsPerCorrectAnswer": 1
+    },
+    "lives": 3,
+    "timePerQuestion": 30000
+}
