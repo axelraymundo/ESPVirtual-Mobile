@@ -1,34 +1,19 @@
 {
 	"items": {
-		"title_txtGameName": {
-			"text": "Title Scene",
-			"font": "font_nunito_72",
-			"size": 72,
-			"color": "0x000000",
-			"align": 1
-		},
-		"preload_txtLoadProgress": {
-			"text": "Loading: %value%%",
-			"font": "font_nunito_72",
-			"size": 72,
-			"color": "0x000000",
-			"align": 1
-		},
-		"title_btnPlay": {
-			"text": "Go To Game",
-			"font": "font_nunito_72",
-			"size": 36,
-			"color": "0xFFFFFF",
-			"align": 1
-		},
 		"title_btnClose": {
 			"text": "",
-			"font": "font_nunito_72",
+			"font": "font_lato_reg",
 			"size": 36,
 			"color": "0xFFFFFF",
 			"align": 1
 		},
-
+		"title_btnToReturn": {
+			"text": "Close",
+			"font": "font_lato_reg",
+			"size": 36,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
 		"title_btnToCity": {
 			"text": "Exit to City",
 			"font": "font_lato_bold",
@@ -36,7 +21,6 @@
 			"color": "0xFFFFFF",
 			"align": 1
 		},
-
 		"title_btnExit": {
 			"text": "Let's exit\nto the city",
 			"font": "font_lato_reg",
@@ -44,7 +28,6 @@
 			"color": "0x879EC7",
 			"align": 1
 		},
-
 		"title_btnNext": {
 			"text": "Next",
 			"font": "font_lato_reg",
@@ -52,7 +35,6 @@
 			"color": "0xFFFFFF",
 			"align": 1
 		},
-
 		"title_btnPrevious": {
 			"text": "Previous",
 			"font": "font_lato_reg",
@@ -60,7 +42,6 @@
 			"color": "0x879EC7",
 			"align": 1
 		},
-
 		"title_btnExplore": {
 			"text": "Let's continue\nexploring!",
 			"font": "font_lato_reg",
@@ -75,7 +56,6 @@
 			"color": "0xFFFFFF",
 			"align": 1
 		},
-
 		"title_btnNoText": {
 			"text": "",
 			"font": "font_nunito_72",
@@ -83,7 +63,6 @@
 			"color": "0xFFFFFF",
 			"align": 1
 		},
-		
 		"title_btnExterior": {
 			"text": "Go to Map",
 			"font": "font_lato_bold",
@@ -91,15 +70,6 @@
 			"color": "0xFFFFFF",
 			"align": 1
 		},
-
-		"title_btnInside": {
-			"text": "Go Inside",
-			"font": "font_lato_bold",
-			"size": 62,
-			"color": "0xFFFFFF",
-			"align": 1
-		},
-
 		"title_btnGoIntro": {
 			"text": "Head back out",
 			"font": "font_lato_bold",
@@ -114,56 +84,841 @@
 			"color": "0xFFFFFF",
 			"align": 1
 		},
-		"game_txtTitle": {
-			"text": "Game Scene",
-			"font": "font_nunito_72",
-			"size": 72,
-			"color": "0x000000",
-			"align": 1
-		},
-
-		"txt_HouseIntroInfo": {
-			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do\nipsum dolor sit amet, consectetur adipiscing elit",
-			"font": "font_lato_bold",
-			"size": 36,
-			"color": "0x79828B",
-			"align": 1
-		},
-		"txt_HouseIntroHeader": {
-			"text": "This is your humbe House",
+		"title_btnAboutUs": {
+			"text": "About Us",
 			"font": "font_lato_bold",
 			"size": 48,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+		"exitPrompt_txtExitNoProgress": {
+			"text": "Do you want to exit the game? Progress will not be saved and will be restarted next time!",
+			"size": 44,
+			"color": "0x884c24",
+			"align": 1
+		},
+		"exitPrompt_txt": {
+			"text": "Do you want to exit the game?",
+			"size": 44,
+			"color": "0x884c24",
+			"align": 1
+		},
+		"quiz_txtKeepQuizzing": {
+			"text": "You still have light bulbs!\nDo you want to keep quizzing?",
+			"font": "font_lato_bold",
+			"size": 42,
+			"color": "0x000000",
+			"align": 0
+		},
+		"quiz_txtExitCity": {
+			"text": "Back to the city?",
+			"font": "font_lato_bold",
+			"size": 42,
+			"color": "0x000000",
+			"align": 2
+		},
+		"exitPrompt_txtExitYes": {
+			"text": "Yes",
+			"font": "font_lato_reg",
+			"size": 30,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+		"exitPrompt_txtExitNo": {
+			"text": "No",
+			"font": "font_lato_reg",
+			"size": 30,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+		"settings_txtCancel": {
+			"text": "CANCEL GAME",
+			"font": "font_lato_reg",
+			"size": 30,
 			"color": "0x79828B",
 			"align": 1
 		},
-
-		"PopupInfo_txtTitle": {
-			"text": "Popup title",
-			"font": "font_nunito_72",
-			"size": 72,
+		"settings_txtLanguage": {
+			"text": "Language",
+			"font": "font_lato_bold",
+			"size": 30,
+			"color": "0x79828B",
+			"align": 1
+		},
+		"settings_txtAudio": {
+			"text": "Audio",
+			"font": "font_lato_reg",
+			"size": 28,
+			"color": "0x79828B",
+			"align": 1
+		},
+		"settings_txtSettings": {
+			"text": "Settings",
+			"font": "font_lato_bold",
+			"size": 48,
+			"color": "0xffffff",
+			"align": 1
+		},
+		"settings_txtReplayTutorial": {
+			"text": "REPLAY TUTORIAL",
+			"font": "font_lato_bold",
+			"size": 30,
+			"color": "0x51E583",
+			"align": 1
+		},
+		"settings_txtSignOut": {
+			"text": "SIGN OUT",
+			"font": "font_lato_bold",
+			"size": 30,
+			"color": "0x51E583",
+			"align": 1
+		},
+		"settings_txtExitGame": {
+			"text": "EXIT QUIZ GAME",
+			"font": "font_lato_bold",
+			"size": 40,
+			"color": "0x51E583",
+			"align": 1
+		},
+		"settings_txtNoInternetWattmattersHeader": {
+			"text": "Oops!",
+			"font": "font_lato_bold",
+			"size": 68,
 			"color": "0xFFFFFF",
 			"align": 1
 		},
-		"game_btnContinue": {
-			"text": "Show Post Game",
-			"font": "font_nunito_72",
-			"size": 36,
-			"color": "0xFFFFFF",
+		"settings_txtNoInternetWattmatters": {
+			"text": "Internet connection required!",
+			"font": "font_lato_bold",
+			"size": 42,
+			"color": "0x79828B",
 			"align": 1
 		},
-		"postGame_txtTitle": {
-			"text": "Post Game Scene",
-			"font": "font_nunito_72",
-			"size": 72,
-			"color": "0x000000",
+		"tutorial_txtTapAnywhere": {
+			"text": "Tap anywhere to continue",
+			"font": "font_lato_black",
+			"size": 48,
+			"color": "0xffffff",
 			"align": 1
+		}
+	},
+	"buildings": {
+		"txt_BuildingOffice": {
+			"info": "Learn all the information pertaining to energy efficient practices at work.",
+			"header": "Business Area"
 		},
-		"postGame_btnContinue": {
-			"text": "Back to Title",
-			"font": "font_nunito_72",
-			"size": 36,
-			"color": "0xFFFFFF",
-			"align": 1
+		"txt_BuildingHouse": {
+			"info": "Learn all the information pertaining to energy efficient practices at home.",
+			"header": "Residential Area"
+		},
+		"txt_BuildingMall": {
+			"info": "Learn all the information pertaining to energy efficient practices in malls and establishments.",
+			"header": "Commercial Area"
+		},
+		"txt_BuildingEconomic": {
+			"info": "Learn all the information pertaining to energy efficient practices in the industrial sector.",
+			"header": "Economic Zone"
+		},
+		"txt_BuildingParking": {
+			"info": "Discover the pride of the City of Energia!",
+			"header": "Transport Hub"
+		},
+		"txt_BuildingEmbassy": {
+			"info": "Know more about the initiative of USAID Energy Secure Philippine Activity, in partnership with the Department of Energy.",
+			"header": "Embassy"
+		},
+		"txt_BuildingGov": {
+			"info": "Find out more about the different government policies pertaining to energy and water efficiency practices.",
+			"header": "Department of Energy Building"
+		},
+		"txt_BuildingSchool": {
+			"info": "Check out the Wattmatters site and learn to calculate your electricity consumption at home!",
+			"header": "School Area"
+		},
+		"txt_BuildingPlaza": {
+			"info": "Test your knowledge in a fun and exciting way! Come on over, join us and let's play.",
+			"header": "Plaza Area"
+		},
+		"txt_BuildingSeaport": {
+			"info": "Explore the country's energy efficient cities through island hopping!",
+			"header": "Seaport"
+		},
+		"txt_BuildingKnowledge": {
+			"info": "Find out more about the different government policies pertaining to energy and water efficiency practices.",
+			"header": "Knowledge Hub"
+		}
+	},
+	"dialogue": {
+		"tutorial_1": {
+			"header": "Tutorial",
+			"header_info": "Welcome to the City of Energia!",
+			"info": "Learn all about the different energy and water practices that can be done whether at home or anywhere else!\n\nWe are your guides to this wonderful place."
+		},
+		"tutorial_2_gener": {
+			"header": "Guide Gener",
+			"info": "I am Gener!"
+		},
+		"tutorial_2_gia": {
+			"header": "Guide Gia",
+			"info": "And I am Gia!"
+		},
+		"tutorial_3": {
+			"header": "Guide Gener",
+			"info": "There are lots of places to explore in this city! Just tap the building to explore it."
+		},
+		"tutorial_4": {
+			"header": "Guide Gener",
+			"info": "Each place has a lot of rooms and locations you can check out."
+		},
+		"tutorial_5": {
+			"header": "Guide Gia",
+			"info": "If you ever get lost, feel free to press     button below your left corner to call us."
+		},
+		"tutorial_6": {
+			"info": "Have fun learning and exploring the City of Energia!"
+		},
+		"idle_1_gener": {
+			"header": "Guide Gener",
+			"info": "Lost? Just tap the icons, arrows, or buildings to explore them. You can always press the red button to exit back to the city."
+		},
+		"idle_1_gia": {
+			"header": "Guide Gia",
+			"info": "Lost? Just tap the icons, arrows, or buildings to explore them. You can always press the red button to exit back to the city."
+		},
+		"doe_reception_female": {
+			"header": "EC Officer",
+			"info": "Hi, I am the Energy Conservation Officer on duty. Welcome to the City of Energia Government Center. Our agency is mandated to lead energy exploration, development, utilization, distribution and conservation. Let me know how I can assist you."
+		},
+		"doe_reception_male": {
+			"header": "E Focal Officer",
+			"info": "Hi, I am the E-focal person. Would you like know more about energy efficiency and conservation?"
+		}
+	},
+	"icons": {
+		"txt_IconParkingGarage": {
+			"left1": "Gas Station",
+			"right1": "Solar Charging Station"
+		},
+		"txt_IconParkingGas": {
+			"left1": "Public Transport",
+			"right1": "Parking Lot"
+		},
+		"txt_IconParkingGreenTransport": {
+			"left1": "Solar Charging Station"
+		},
+		"txt_IconParkingSolar": {
+			"left1": "Parking Lot",
+			"right1": "Green Public Transport"
+		},
+		"txt_IconParkingTransport": {
+			"right1": "Gas Station"
+		},
+		"txt_IconGovernmentFrontdesk": {
+			"right1": "Library",
+			"left1": "Offices"
+		},
+		"txt_IconGovernmentLibrary": {
+			"left1": "Reception"
+		},
+		"txt_IconGovernmentOffice": {
+			"right1": "Reception",
+			"left1": "Parking"
+		},
+		"txt_IconGovernmentParking": {
+			"right1": "Offices"
+		},
+		"txt_IconMallCentral": {
+			"left1": "Display Area"
+		},
+		"txt_IconMallDisplay": {
+			"right1": "Central Open Area",
+			"left1": "Food Court"
+		},
+		"txt_IconMallFoodCourt": {
+			"right1": "Display Area",
+			"left1": "Restroom"
+		},
+		"txt_IconMallBathroom": {
+			"right1": "Food Court"
+		},
+		"txt_IconHouseLiving": {
+			"right1": "Kitchen",
+			"left1": "Bedroom"
+		},
+		"txt_IconHouseBedroom": {
+			"right1": "Living Room",
+			"left1": "Bathroom"
+		},
+		"txt_IconHouseBathroom": {
+			"right1": "Bedroom"
+		},
+		"txt_IconHouseGarden": {
+			"left1": "Kitchen"
+		},
+		"txt_IconHouseKitchen": {
+			"right1": "Garden",
+			"left1": "Living Room"
+		},
+		"txt_IconSchoolClassroom": {
+			"right1": "Library"
+		},
+		"txt_IconSchoolLibrary": {
+			"left1": "Classroom"
+		},
+		"txt_IconOfficeConference": {
+			"right1": "Pantry"
+		},
+		"txt_IconOfficeCubicle": {
+			"right1": "Reception",
+			"left1": "Personal Office"
+		},
+		"txt_IconOfficeElevator": {
+			"right1": "Restroom",
+			"left1": "Reception"
+		},
+		"txt_IconOfficePantry": {
+			"right1": "Personal Office",
+			"left1": "Conference Room"
+		},
+		"txt_IconOfficePersonal": {
+			"right1": "Cubicle",
+			"left1": "Pantry"
+		},
+		"txt_IconOfficeReception": {
+			"right1": "Elevators",
+			"left1": "Cubicle"
+		},
+		"txt_IconOfficeRestroom": {
+			"left1": "Elevators"
+		},
+		"txt_IconEcoZoneEcoPart": {
+			"right1": "Warehouse"
+		},
+		"txt_IconEcoZoneGarage": {
+			"right1": "Processing Hub",
+			"left1": "Warehouse"
+		},
+		"txt_IconEcoZoneMechHub": {
+			"right1": "Pump Room/Booster",
+			"left1": "Waste Disposal"
+		},
+		"txt_IconEcoZoneOffice": {
+			"right1": "Eco-Park"
+		},
+		"txt_IconEcoZoneProcessHub": {
+			"right1": "Waste Disposal",
+			"left1": "Charging Station"
+		},
+		"txt_IconEcoZonePumpZone": {
+			"left1": "Mechanical Hub"
+		},
+		"txt_IconEcoZoneWarehouse": {
+			"right1": "Charging Station",
+			"left1": "Eco-Park"
+		},
+		"txt_IconEcoZoneWasteDisposal": {
+			"right1": "Mechanical Hub",
+			"left1": "Processing Hub"
+		},
+		"txt_IconSeaportMManila": {
+			"right1": "Head North",
+			"left1": "Head South"
+		},
+		"txt_IconEnerhiyangAtinFrontdesk": {
+			"right1": "Library",
+			"left1": "Offices"
+		},
+		"txt_IconEnerhiyangAtinLibrary": {
+			"left1": "Front Desk"
+		},
+		"txt_IconEnerhiyangAtinOffice": {
+			"right1": "Front Desk"
+		}
+	},
+	"interiors": {
+		"txt_InteriorWattmatters": {
+			"info": "This is the Wattmatters site. Feel free to use it.",
+			"header": "Wattmatters"
+		},
+		"txt_InteriorQuestion": {
+			"info": "You are currently exploring the [PANELINFO].\nUse the                 to navigate the place. You can also press the icons to learn more about \n\n       Energy Efficiency                           Water Conservation",
+			"header": "Hello There?"
+		},
+		"txt_InteriorParkingIntro": {
+			"info": "Learn all the information pertaining to energy and water practices in relation to transport, commuting, and similar options.",
+			"header": "This is the Transport Hub"
+		},
+		"txt_InteriorParkingGarageSolar": {
+			"info": "Use of solar powered lighting systems significantly reduces carbon footprint and electricity expenses.",
+			"header": "Solar Powered Lighting"
+		},
+		"txt_InteriorParkingGaragePlants": {
+			"info": "Adding plants around the area contributes to the mitigation of climate change.",
+			"header": "Plants"
+		},
+		"txt_InteriorParkingGasLighting": {
+			"info": "Upgrade lighting fixtures by using light emitting diode (LED) light bulbs which are energy efficient and can last 10 times longer than the usual bulbs.",
+			"header": "Lighting"
+		},
+		"txt_InteriorParkingGreenTransportSolar": {
+			"info": "Using solar panels significantly reduces carbon footprint and helps save money.",
+			"header": "Solar Panels"
+		},
+		"txt_InteriorParkingGreenTransportCharger": {
+			"info": "Battery low? Solar-powered charging stations like this can charge multiple mobile devices using less energy.",
+			"header": "Charger for mobile devices"
+		},
+		"txt_InteriorParkingGreenTransportWaiting": {
+			"info": "Plants around waiting areas can help reduce carbon emissions and minimize air pollution while waiting for your next ride.",
+			"header": "Waiting Areas"
+		},
+		"txt_InteriorParkingSolarLighting": {
+			"info": "Welcome to the city's solar charging station. Energia has been implementing an ordinance to promote the use of e-vehicles in the public and private sector. In line with this, solar energy, which is very much available and environmentally friendly, will be utilized to charge EVs by constructing solar charging stations.",
+			"header": "Lighting"
+		},
+		"txt_InteriorParkingSolarCharging": {
+			"info": "Using electric vehicles (EVs) reduces the threat of experiencing fuel supply disruptions and contributes to mitigate climate change.",
+			"header": "Charging Stations for EVs"
+		},
+		"txt_InteriorParkingSolarSolar": {
+			"info": "Using solar panels significantly reduces carbon footprint and helps save money. Going solar means using electricity will help conserve the environment.",
+			"header": "Solar Panels"
+		},
+		"txt_InteriorParkingTransportWaiting": {
+			"info": "Plants around waiting areas can help reduce carbon emissions and minimize air pollution while waiting for your next ride.",
+			"header": "Waiting Areas"
+		},
+		"txt_InteriorEmbassyIntro": {
+			"info": "This energy efficiency virtual showroom is made possible by the generous support of the American people through the United States Agency for International Development (USAID). The contents are the responsibility of the Philippine Department of Energy and RTI International and do not necessarily reflect the views of USAID or the United States Government.",
+			"header": "This is the Embassy Zone"
+		},
+		"txt_InteriorGovernmentIntro": {
+			"info": "This is the birthplace of all our energy efficiency initiatives. Our energy efficiency best practices are guided by policies and frameworks that are written and implemented by our local government unit with support from the national government. Read about these policies in the library.",
+			"header": "Welcome to the Department of Energy"
+		},
+		"txt_InteriorGovernmentLibraryLighting": {
+			"info": "Upgrade lighting fixtures by using light emitting diode (LED) light bulbs which are energy efficient and can last 10 times longer than the usual bulbs.",
+			"header": "Lighting"
+		},
+		"txt_InteriorGovernmentLibraryComputer": {
+			"info": "In partnership with the Department of Energy, this energy efficiency virtual showroom is produced by the United States Agency for International Development through the Energy Secure Philippines Activity. USAID ESP Activity supports the Philippine Government in improving the country's energy resilience through utilization of advanced technologies.\n\nEnergy Utilization Management Bureau\ndoe.eumb@gmail.com\n(02) 8840-2289",
+			"header": "Department of Energy Partnership"
+		},
+		"txt_InteriorGovernmentOfficeLighting": {
+			"info": "Upgrade lighting fixtures by using LED light bulbs which are energy efficient and can last 10x longer than the usual bulbs.",
+			"header": "Lighting"
+		},
+		"txt_InteriorMallIntro": {
+			"info": "We're here to learn about the energy savings in shopping centers.",
+			"header": "This is the Commercial Area"
+		},
+		"txt_InteriorMallCentralLighting": {
+			"info": "Energy efficient malls take advantage of the natural light during daytime to reduce operational costs and electricity consumption.",
+			"header": "Natural Light"
+		},
+		"txt_InteriorMallCentralAir": {
+			"info": "Aside from shopping, Filipinos go to malls to enjoy its cool and relaxing temperature. Cooling units of commercial establishments should be professionally serviced at least once a year to ensure its efficient performance.",
+			"header": "Air Conditioning"
+		},
+		"txt_InteriorMallCentralWindow": {
+			"info": "Windows bring natural light. Natural light not only conserves energy, it is perfect for your selfies too!",
+			"header": "Windows (Natural Light)"
+		},
+		"txt_InteriorMallCentralAirCurtain": {
+			"info": "These are air curtains which keep the temperature in control. Air curtain keeps unfiltered air outside and filtered air in.",
+			"header": "Air Curtains"
+		},
+		"txt_InteriorMallCentralDoor": {
+			"info": "Double doors or vestibules limit the warm air that enters the building. Air conditioning units in malls consume less electricity when temperature, humidity and air circulation are controlled.",
+			"header": "Double Door"
+		},
+		"txt_InteriorMallDisplayLighting": {
+			"info": "Upgrade lighting fixtures by using LED light bulbs which are energy efficient and can last 10x longer than the usual bulbs.",
+			"header": "Lighting"
+		},
+		"txt_InteriorMallDisplayWindow": {
+			"info": "Energy efficient malls take advantage of the natural light during daytime to reduce operational costs and electricity consumption.",
+			"header": "Windows (Natural Light)"
+		},
+		"txt_InteriorMallFoodCourtLighting": {
+			"info": "Upgrade lighting fixtures by using LED light bulbs which are energy efficient and can last 10x longer than the usual bulbs.",
+			"header": "Lighting"
+		},
+		"txt_InteriorMallFoodCourtWindows": {
+			"info": "Windows bring natural light. Natural light not only conserves energy, it is perfect for your selfies too!",
+			"header": "Windows (Natural Light)"
+		},
+		"txt_InteriorMallFoodCourtWater": {
+			"info": "Waste water in the drinking station is used in flushing the toilet.",
+			"header": "Drinking Station"
+		},
+		"txt_InteriorMallFoodCourtFoodStall": {
+			"info": "Induction stoves are 90% more energy efficient compared with other types of stoves.",
+			"header": "Food Stall"
+		},
+		"txt_InteriorMallFoodCourtDirtyDishes": {
+			"info": "If you wash dishes and food trays by hand, turn off the running water when not rinsing.",
+			"header": "Dirty Dishes"
+		},
+		"txt_InteriorMallBathroomLighting": {
+			"info": "This uses motion detectors on light and bathroom fixtures to decrease electricity consumption.",
+			"header": "Lighting"
+		},
+		"txt_InteriorMallBathroomFaucet": {
+			"info": "This faucet uses motion detectors to save water.",
+			"header": "Faucet (Water Efficiency)"
+		},
+		"txt_InteriorMallBathroomVentilation": {
+			"info": "Aside from windows and doors, installing exhaust fans improves air circulation in the restroom.",
+			"header": "Ventilation"
+		},
+		"txt_InteriorHouseIntro": {
+			"info": "Like all the houses in the neighborhood, your house is powered by solar-energy and is enrolled in a net metering system.\n\nNet metering partly satisfies your electricity demand through the solar panels installed on your house.",
+			"header": "This is your humble abode"
+		},
+		"txt_InteriorHouseLivingLight": {
+			"info": "Light Emitting Diode or LED light bulbs last longer than other types of lighting. Plus, it saves as much as 50% of electricity consumption.\n\nSo, switch to LED!",
+			"header": "Lighting"
+		},
+		"txt_InteriorHouseLivingElectric": {
+			"info": "Clean your fans regularly. Dust and dirt can reduce the wind flow generated by fans.",
+			"header": "Electric Fan"
+		},
+		"txt_InteriorHouseLivingTelevision": {
+			"info": "When you watch TV together, you consume less energy and spend more time with your family.",
+			"header": "Television"
+		},
+		"txt_InteriorHouseLivingComputer": {
+			"info": "The truth is, screensavers do not really save anything. So, it's better not to use screensavers on your computer. Instead, you can turn off your monitor if you will be away for more than 15 minutes. ",
+			"header": "Computer"
+		},
+		"txt_InteriorHouseLivingWindows": {
+			"info": "Windows bring natural light into your home during the daytime.\n\nPlus, natural light is good for your selfies too!",
+			"header": "Windows (Natural Light)"
+		},
+		"txt_InteriorHouseLivingExtension": {
+			"info": "Unplug extension cord when not in use to avoid phantom loading.\n\nPhantom loading is like a leaky faucet. These are usually plugged appliances that you think are turned off, but still consuming electricity.",
+			"header": "Extension Cord/Outlet"
+		},
+		"txt_InteriorHouseBedroomLighting": {
+			"info": "Light Emitting Diode (LED) light bulbs last longer than other types of lighting. Plus, it saves as much as 50% of electricity consumption.",
+			"header": "Lighting"
+		},
+		"txt_InteriorHouseBedroomPlants": {
+			"info": "Indoor plants reduce heat and act as natural humidifiers. No wonder why plantitas and plantitos have plants inside their bedrooms too.",
+			"header": "Plants"
+		},
+		"txt_InteriorHouseBedroomAircon": {
+			"info": "Did you know that cleaning the filters and condensers of air conditioning units can save 100 pesos monthly?\n\nSo, make sure to maintain your air conditioning unit.",
+			"header": "Air Conditioning"
+		},
+		"txt_InteriorHouseBedroomCharger": {
+			"info": "Never leave your devices charging overnight as it consumes electricity when left plugged.",
+			"header": "Charger (for mobile devices)"
+		},
+		"txt_InteriorHouseBedroomWindow": {
+			"info": "Install curtains or blinds on windows to reduce solar heat from outside.",
+			"header": "Windows (when aircon is on)"
+		},
+		"txt_InteriorHouseBedroomDoor": {
+			"info": "Close all the windows and doors when the air conditioning unit is turned on to keep the cool air inside.",
+			"header": "Door (when aircon is on)"
+		},
+		"txt_InteriorHouseBathroomLighting": {
+			"info": "Do not forget to turn off the lights after using the bathroom.",
+			"header": "Lighting"
+		},
+		"txt_InteriorHouseBathroomFaucet": {
+			"info": "Did you know you could save at least 6 gallons of water per day when you turn off the faucet while scrubbing your hands with soap?",
+			"header": "Faucet (Water Efficiency)"
+		},
+		"txt_InteriorHouseBathroomShower": {
+			"info": "Which do you think could save more water? Taking a shower or taking a bath using a dipper and pail?\n\nTaking shorter showers conserve more water and lower your utility costs.",
+			"header": "Shower (Water Efficiency)"
+		},
+		"txt_InteriorHouseBathroomVentilation": {
+			"info": "Aside from doors and windows, installing exhaust fans in the bathroom will help in air circulation.",
+			"header": "Ventilation"
+		},
+		"txt_InteriorHouseGardenWater": {
+			"info": "Try reusing some of the water from your bath in your garden.",
+			"header": "Water Efficiency"
+		},
+		"txt_InteriorHouseKitchenWater": {
+			"info": "If you wash dishes, turn off the running water when not rinsing.",
+			"header": "Water Efficiency"
+		},
+		"txt_InteriorHouseKitchenRef": {
+			"info": "Chill!\n\nSetting your refrigerator temperature to the manufacturer's recommendation avoids excessive cooling and wasting of energy.\n\nDon't forget to defrost your refrigerators regularly. While other refrigerators are frost-free, old refrigerators and freezers need to be defrosted once in a while to work efficiently.",
+			"header": "Refrigerator"
+		},
+		"txt_InteriorHouseKitchenMicrowave": {
+			"info": "Did you know that using a microwave when reheating food consumes less time and electricity?",
+			"header": "Microwave"
+		},
+		"txt_InteriorHouseKitchenStove": {
+			"info": "We can save energy by turning off the gas stove during the last minute of cooking.\n\nKeep your heating appliances away from cooling appliances like your refrigerator.",
+			"header": "Gas Stove"
+		},
+		"txt_InteriorHouseKitchenPlant": {
+			"info": "Did you know that plants in your kitchen contribute to healthy air filtration? And they also sequester carbon which is one of the many ways to mitigate climate change.",
+			"header": "Plants"
+		},
+		"txt_InteriorSchoolIntro": {
+			"info": "It is our goal to share our existing knowledge and best practices with hopes to achieve a ripple effect in the rest of the country.",
+			"header": "Welcome to the Energia Academy!"
+		},
+		"txt_InteriorSchoolClassroomLighting": {
+			"info": "Choose energy efficient light bulbs such as light emitting diode (LED) light bulbs.",
+			"header": "Lighting"
+		},
+		"txt_InteriorSchoolClassroomAircon": {
+			"info": "Set your air conditioning units to standard temperature point of 24°c to conserve energy.",
+			"header": "Air Conditioning"
+		},
+		"txt_InteriorSchoolClassroomStair": {
+			"info": "Taking the stairs maintains your health and saves energy. So, take the stairs if you are able.",
+			"header": "Stair Use"
+		},
+		"txt_InteriorOfficeIntro": {
+			"info": "Through the implementation of a Green Building Code, our buildings are designed to reduce the use of energy with due regard to the cost effectiveness, building function, comfort, health, safety, and productivity of occupants. Just like your home, our offices are equipped with energy efficient technologies!",
+			"header": "This is your workplace!"
+		},
+		"txt_InteriorOfficeConferenceLighting": {
+			"info": "Choose energy efficient light bulbs. You can replace existing bulbs with light emitting diode (LED) lights.",
+			"header": "Lighting"
+		},
+		"txt_InteriorOfficeConferenceProjector": {
+			"info": "Before leaving the office, do not forget to switch off and unplug unnecessary appliances and devices.",
+			"header": "Projector/Big Screen"
+		},
+		"txt_InteriorOfficeCubicleLighting": {
+			"info": "Choose energy efficient light bulbs. You can replace existing bulbs with light emitting diode (LED) lights.",
+			"header": "Lighting"
+		},
+		"txt_InteriorOfficeCubicleCentralAir": {
+			"info": "To make cooling more efficient, consider the size of the place before installing air conditioning units.",
+			"header": "Central Air Conditioning"
+		},
+		"txt_InteriorOfficeCubicleWindow": {
+			"info": "Glass walls and doors bring natural light and reduce electricity consumption.",
+			"header": "Windows (Natural Light)"
+		},
+		"txt_InteriorOfficeCubicleComputers": {
+			"info": "Off to a meeting?\n\nSet your personal computers on Sleep Mode if you will be away for more than 15 minutes.",
+			"header": "Computer"
+		},
+		"txt_InteriorOfficeCubicleCharger": {
+			"info": "Energy efficient charging stations for mobile devices can provide value addition to all employees and help encourage them to be more conscious in using electricity efficiently.",
+			"header": "Charger for mobile devices"
+		},
+		"txt_InteriorOfficeCubicleLarge": {
+			"info": "Only print your documents when necessary. Remember that choosing to read it on your phone or tablet will reduce your paper and electricity consumption.",
+			"header": "Large machine (Photocopier)"
+		},
+		"txt_InteriorOfficeElevatorElevator": {
+			"info": "Take the stairs if you are going fewer than two floors up or down. It's good for your health too!",
+			"header": "Elevators"
+		},
+		"txt_InteriorOfficeElevatorWindow": {
+			"info": "Glass walls and doors bring natural light and reduce electricity consumption.",
+			"header": "Windows (Natural Light)"
+		},
+		"txt_InteriorOfficePantryFaucet": {
+			"info": "If you wash dishes by hand, turn off the running water when not rinsing.",
+			"header": "Faucet (Water Efficiency)"
+		},
+		"txt_InteriorOfficePantryKettle": {
+			"info": "Coffee break with officemates? Boiling the kettle only once produces five or six beverages rather than six times individually.",
+			"header": "Electric Kettle"
+		},
+		"txt_InteriorOfficePantryVentilation": {
+			"info": "Take advantage of the natural air flowing through the building by directing the air towards the ceiling vents and exterior doors.",
+			"header": "Ventilation"
+		},
+		"txt_InteriorOfficePersonalLighting": {
+			"info": "Choose energy efficient light bulbs. You can replace existing bulbs with light emitting diode (LED) lights.",
+			"header": "Lighting"
+		},
+		"txt_InteriorOfficePersonalCentralAir": {
+			"info": "Set your air conditioning units to standard temperature points of 24-25°C to conserve electricity.",
+			"header": "Central Air Conditioning"
+		},
+		"txt_InteriorOfficePersonalWindow": {
+			"info": "During daytime, your office switches off artificial lights and uses natural light.",
+			"header": "Windows (Natural Light)"
+		},
+		"txt_InteriorOfficePersonalComputers": {
+			"info": "Don't forget to turn off your computer/laptop or hibernate/sleep your PC when not in use.",
+			"header": "Computer"
+		},
+		"txt_InteriorOfficePersonalChargers": {
+			"info": "Unplug your charger once your device is on full battery.",
+			"header": "Charger for mobile devices"
+		},
+		"txt_InteriorOfficePersonalExtension": {
+			"info": "Do not overload your extension cord by plugging in device beyond its capacity.",
+			"header": "Extension Cord/Outlet"
+		},
+		"txt_InteriorOfficeReceptionLighting": {
+			"info": "During daytime, your office switches off artificial lights and uses natural light.",
+			"header": "Lighting"
+		},
+		"txt_InteriorOfficeReceptionAircon": {
+			"info": "Room size is important when choosing the right air conditioning unit for your workplace. Install the air conditioning unit in the coolest part of the room, if possible, on a shady side where maximum air circulation is available.",
+			"header": "Air Conditioning"
+		},
+		"txt_InteriorOfficeReceptionWindow": {
+			"info": "Modern and energy efficient buildings take advantage of natural ighting to conserve electricity consumption.",
+			"header": "Windows (Natural Light)"
+		},
+		"txt_InteriorOfficeRestroomLighting": {
+			"info": "This restroom has automatic lighting controls specifically, occupancy sensors, which save energy by automatically turning the lights off when not in use.",
+			"header": "Lighting"
+		},
+		"txt_InteriorOfficeRestroomFaucet": {
+			"info": "Fix leaky faucets, toilets, appliances, and sprinklers. Leaks vary in amount, but they can account for a lot of wasted water over time.",
+			"header": "Faucet (Water Efficiency)"
+		},
+		"txt_InteriorOfficeRestroomVentilation": {
+			"info": "Aside from windows and doors, installing exhaust fans in the comfort room will improve air circulation and avoid moisture.",
+			"header": "Ventilation"
+		},
+		"txt_InteriorEcoZoneIntro": {
+			"info": "Welcome to the City of Energia Economic Zone. This part of the city will show you the energy efficiency in the industrial sector. Let's take the tour!",
+			"header": "This is the Economic Zone"
+		},
+		"txt_InteriorEcoZoneEcoPartLighting": {
+			"info": "This light is solar powered! Solar panels installed on the roof store energy during daylight to illuminate the park at night.",
+			"header": "Lighting"
+		},
+		"txt_InteriorEcoZoneEcoPartWater": {
+			"info": "Reuse water where applicable for watering plants and cleaning designated areas.\n\nExample: Water from fountains can be reused for watering plants instead of just draining it.",
+			"header": "Water Efficiency"
+		},
+		"txt_InteriorEcoZoneEcoPartVentilation": {
+			"info": "Openings facing the sky, street courtyard, or air well shall be considered as acceptable sources of natural lighting and ventilation.",
+			"header": "Ventilation"
+		},
+		"txt_InteriorEcoZoneGarageParking": {
+			"info": "In case of public garages, two or more sides of the garage shall have an opening for cross ventilation and the area opening will be at least 50% of the area of the wall where it is located.",
+			"header": "Parking Space"
+		},
+		"txt_InteriorEcoZoneGarageCharging": {
+			"info": "Installing charging stations in the parking area is more accessible and convenient for recharging electric vehicles (EVs).",
+			"header": "Charging Stations for EVs"
+		},
+		"txt_InteriorEcoZoneGarageSolar": {
+			"info": "Using solar panels significantly reduces carbon footprint and helps save money.",
+			"header": "Solar Panels"
+		},
+		"txt_InteriorEcoZoneMechHubLighting": {
+			"info": "Make sure to use energy efficient lighting such as light emitting diode (LED) bulbs. This can both help save money on your monthly electricity bills and also help conserve our environment!",
+			"header": "Lighting"
+		},
+		"txt_InteriorEcoZoneMechHubVentilation": {
+			"info": "Adequate ventilation maintains the temperature, humidity, and energy consumption in industrial establishments.",
+			"header": "Ventilation"
+		},
+		"txt_InteriorEcoZoneMechHubWindows": {
+			"info": "During daytime, switch off lights and maximize the use of sunlight, especially in offices with big surrounding windows - using blinds or curtains can help regulate temperature and sun exposure.",
+			"header": "Windows (Natural Light)"
+		},
+		"txt_InteriorEcoZoneOfficeLighting": {
+			"info": "Make sure to use energy efficient light such as fluorescent lamps, CFL lamps and LED lamps - this can both help save money on yourmonthly electricity bills and also help conserve the environment!",
+			"header": "Lighting"
+		},
+		"txt_InteriorEcoZoneOfficeCentralAir": {
+			"info": "Air conditioning maintenance should be set regularly to ensure that it's working properly at its best without wastage on electricity consumption.",
+			"header": "Air Conditioning"
+		},
+		"txt_InteriorEcoZoneOfficeWindow": {
+			"info": "During daytime, switch off lights and maximize the use of sunlight, especially in offices with big surrounding windows -using blinds or curtains can help regulate temperature and sun exposure.",
+			"header": "Windows (Natural Light)"
+		},
+		"txt_InteriorEcoZoneOfficeComputers": {
+			"info": "Unplug electronic devices including computers when not in use. Make it a habit to unplug before leaving your work areas.",
+			"header": "Computer"
+		},
+		"txt_InteriorEcoZoneOfficeCharger": {
+			"info": "Energy efficient charging stations for mobile devices can provide value addition to all employees and help encourage them to be more conscious in using electricity efficiently.",
+			"header": "Charger for mobile devices"
+		},
+		"txt_InteriorEcoZoneProcessHubLighting": {
+			"info": "Make sure to use energy efficient lighting such as light emitting diode (LED) bulbs. This can both help save money on your monthly electricity bills and also help conserve our environment!",
+			"header": "Lighting"
+		},
+		"txt_InteriorEcoZoneProcessHubVentilation": {
+			"info": "Installing exhaust systems maintains the air quality of the factories by removing contaminated indoor air.",
+			"header": "Ventilation"
+		},
+		"txt_InteriorEcoZoneProcessHubCooling": {
+			"info": "Electricity consumption of air conditioning systems can be significantly reduced by minimizing the heat from buildings through the use of cooling systems.",
+			"header": "Cooling Systems"
+		},
+		"txt_InteriorEcoZoneProcessHubBoiling1": {
+			"info": "For generation of steam, use a boiler with an efficiency rating of 85% and above.",
+			"header": "Boiler"
+		},
+		"txt_InteriorEcoZoneProcessHubBoiling2": {
+			"info": "Hot water systems shall be equipped with effective automatic temperature controls.",
+			"header": "Boiler"
+		},
+		"txt_InteriorEcoZonePumpzoneVentilation": {
+			"info": "Use sustainable architecture and interior design to make sure there's proper ventilation in the processing hub.",
+			"header": "Ventilation"
+		},
+		"txt_InteriorEcoZonePumpzoneSteam": {
+			"info": "Steam is more economical compared with electricity. Where steam is available, use steam to generate hot water instead of electricity.",
+			"header": "Steam and Hot Water System(Pipelines)"
+		},
+		"txt_InteriorEcoZonePumpzoneGenerator": {
+			"info": "In the absence of steam, use a direct-fired hot water generator with an efficiency rating of 85% and above.",
+			"header": "Generator"
+		},
+		"txt_InteriorEcoZoneWarehouseLighting": {
+			"info": "Make sure to use energy efficient lighting such as light emitting diode (LED) bulbs. This can both help save money on your monthly electricity bills and also help conserve our environment!",
+			"header": "Lighting"
+		},
+		"txt_InteriorEcoZoneWarehouseVentilation": {
+			"info": "Use sustainable architecture and interior design to make sure there's proper ventilation in the processing hub.",
+			"header": "Ventilation"
+		},
+		"txt_InteriorEcoZoneWastedDisposalWaterDispoal": {
+			"info": "Waste disposal systems should be implemented with processes in place. Designated crew in-charge must have regular monitoring and reporting on water quality and usage.",
+			"header": "Waste Disposal Systems"
+		},
+		"txt_InteriorEcoZoneWastedDisposalWaterTreatment": {
+			"info": "As part of the water treatment facility, all water should be treated carefully and be at an acceptable level of quality before disposal.",
+			"header": "Water Treatment"
+		},
+		"txt_InteriorPlazaIntro": {
+			"info": "You are here at the City Plaza. Let's take a break from our tour and play a game! How well do you know about energy efficiency?",
+			"header": "This is the Plaza"
+		},
+		"txt_InteriorSeaportIntro": {
+			"info": "Welcome to the Seaport, the gateway to Energia's partner cities and municipalities!\n\nEnergia and its sister local government units (LGUs) learn from each other by sharing energy efficiency best practices that are feasible and applicable to other LGUs.\nWhich LGU would you like to visit first?",
+			"header": "This is the Seaport"
+		},
+		"txt_InteriorEnerhiyangAtinIntro": {
+			"info": "This is the birthplace of all our energy efficiency initiatives. Our energy efficiency best practices are guided by policies and frameworks that are written and implemented by our local government unit with support from the national government. Read about these policies in the library.",
+			"header": "This is the Knowledge Hub"
+		},
+		"txt_InteriorEnerhiyangAtinDeskAircon": {
+			"info": "According to Inter-Agency Energy Efficiency and Conservation Committee (IAEECC) No. 1 and No. 3, all government offices are directed to use energy efficient inverter-type air-conditioning units or similar equivalent technologies. Moreover, air conditioners in government offices should be set to standard temperature points of 24-25°C to conserve energy.",
+			"header": "Air Conditioning"
+		},
+		"txt_InteriorEnerhiyangAtinDeskStairUse": {
+			"info": "Taking the stairs maintains your health and saves energy. So, take the stairs if you are able. ",
+			"header": "Stair Use"
+		},
+		"txt_InteriorEnerhiyangAtinDeskLighting": {
+			"info": "Upgrade lighting fixtures by using light emitting diode (LED) light bulbs which are energy efficient and can last 10 times longer than the usual bulbs.",
+			"header": "Lighting"
+		},
+		"txt_InteriorEnerhiyangAtinOfficeLighting": {
+			"info": "Upgrade lighting fixtures by using light emitting diode (LED) light bulbs which are energy efficient and can last 10 times longer than the usual bulbs.",
+			"header": "Lighting"
 		}
 	}
 }

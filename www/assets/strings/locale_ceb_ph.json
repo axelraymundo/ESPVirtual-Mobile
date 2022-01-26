@@ -1,0 +1,937 @@
+{
+	"items": {
+		"title_btnClose": {
+			"text": "",
+			"font": "font_lato_reg",
+			"size": 36,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+		"title_btnToReturn": {
+			"text": "Isira",
+			"font": "font_lato_reg",
+			"size": 36,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+		"title_btnToCity": {
+			"text": "Adto sa lungsod",
+			"font": "font_lato_bold",
+			"size": 36,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+		"title_btnExit": {
+			"text": "Balik ta\nsa lungsod",
+			"font": "font_lato_reg",
+			"size": 35,
+			"color": "0x879EC7",
+			"align": 1
+		},
+		"title_btnNext": {
+			"text": "Tuloy",
+			"font": "font_lato_reg",
+			"size": 35,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+		"title_btnPrevious": {
+			"text": "Previous",
+			"font": "font_lato_reg",
+			"size": 35,
+			"color": "0x879EC7",
+			"align": 1
+		},
+		"title_btnExplore": {
+			"text": "Padayon ta\nsa pagsuhid!",
+			"font": "font_lato_reg",
+			"size": 35,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+		"title_btnToExplore": {
+			"text": "Continue Exploring",
+			"font": "font_lato_bold",
+			"size": 36,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+		"title_btnNoText": {
+			"text": "",
+			"font": "font_nunito_72",
+			"size": 36,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+		"title_btnExterior": {
+			"text": "Mapa",
+			"font": "font_lato_bold",
+			"size": 36,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+		"title_btnGoIntro": {
+			"text": "Head back out",
+			"font": "font_lato_bold",
+			"size": 36,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+		"title_btnInterior": {
+			"text": "Sulod",
+			"font": "font_lato_bold",
+			"size": 62,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+		"title_btnAboutUs": {
+			"text": "Mahitungod namo",
+			"font": "font_lato_bold",
+			"size": 48,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+		"exitPrompt_txtExitNoProgress": {
+			"text": "Gusto na ka undangon ang duwa?",
+			"size": 44,
+			"color": "0x884c24",
+			"align": 1
+		},
+		"exitPrompt_txt": {
+			"text": "Gusto na ka undangon ang duwa?",
+			"size": 44,
+			"color": "0x884c24",
+			"align": 1
+		},
+		"quiz_txtKeepQuizzing": {
+			"text": "May bombilya ka pa!\nGusto pa ba nimong magpadayon sa pasulit?",
+			"font": "font_lato_bold",
+			"size": 42,
+			"color": "0x000000",
+			"align": 0
+		},
+		"quiz_txtExitCity": {
+			"text": "Balik sa Lungsod?",
+			"font": "font_lato_bold",
+			"size": 42,
+			"color": "0x000000",
+			"align": 2
+		},
+		"exitPrompt_txtExitYes": {
+			"text": "Oo",
+			"font": "font_lato_bold",
+			"size": 30,
+			"color": "0xFFFFFF",
+			"align": 10
+		},
+		"exitPrompt_txtExitNo": {
+			"text": "Dili",
+			"font": "font_lato_bold",
+			"size": 30,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+		"settings_txtCancel": {
+			"text": "KANSELAHON ANG DULA",
+			"font": "font_lato_reg",
+			"size": 30,
+			"color": "0x79828B",
+			"align": 1
+		},
+		"settings_txtLanguage": {
+			"text": "Pinulongan",
+			"font": "font_lato_bold",
+			"size": 30,
+			"color": "0x79828B",
+			"align": 1
+		},
+		"settings_txtAudio": {
+			"text": "Tingog",
+			"font": "font_lato_reg",
+			"size": 28,
+			"color": "0x79828B",
+			"align": 1
+		},
+		"settings_txtSettings": {
+			"text": "Mga Setting",
+			"font": "font_lato_bold",
+			"size": 48,
+			"color": "0xffffff",
+			"align": 1
+		},
+		"settings_txtReplayTutorial": {
+			"text": "I-REPLAY ANG TUTORIAL",
+			"font": "font_lato_bold",
+			"size": 30,
+			"color": "0x51E583",
+			"align": 1
+		},
+		"settings_txtSignOut": {
+			"text": "PAG-SIGN OUT",
+			"font": "font_lato_bold",
+			"size": 30,
+			"color": "0x51E583",
+			"align": 1
+		},
+		"settings_txtExitGame": {
+			"text": "EXIT QUIZ GAME",
+			"font": "font_lato_bold",
+			"size": 40,
+			"color": "0x51E583",
+			"align": 1
+		},
+		"settings_txtNoInternetWattmattersHeader": {
+			"text": "Oops!",
+			"font": "font_lato_bold",
+			"size": 68,
+			"color": "0xFFFFFF",
+			"align": 1
+		},
+		"settings_txtNoInternetWattmatters": {
+			"text": "Kinahanglan ang koneksyon sa internet!",
+			"font": "font_lato_bold",
+			"size": 42,
+			"color": "0x79828B",
+			"align": 1
+		},
+		"tutorial_txtTapAnywhere": {
+			"text": "Pag-tap bisan asa aron magpadayon.",
+			"font": "font_lato_black",
+			"size": 48,
+			"color": "0xffffff",
+			"align": 1
+		}
+	},
+	"buildings": {
+		"txt_BuildingOffice": {
+			"info": "Kat-ona diri tanang impormasyon nga may kalabotan sa mga gawi nga episyente sa enerhiya sa trabahoan.",
+			"header": "Lugar sa Negosyo"
+		},
+		"txt_BuildingHouse": {
+			"info": "Kat-ona diri ang tanang impormasyon nga may kalabotan sa kusog nga mga gawi sa balay.",
+			"header": "Lugar Puloy-anan"
+		},
+		"txt_BuildingMall": {
+			"info": "Kat-ona diri tanang impormasyon kalabot sa mga praktises sa episyente nga enerhiya sa mga malls ug mga establisemento.",
+			"header": "Lugar pangkomersyal"
+		},
+		"txt_BuildingEconomic": {
+			"info": "Kat-ona diri tanang impormasyon nga may kalabotan sa mga gawi nga episyente sa enerhiya sa sektor sa industriya.",
+			"header": "Ekonomikanhong Lugar"
+		},
+		"txt_BuildingParking": {
+			"info": "Diskobreha ang garbo sa Lungsod sa Energia!",
+			"header": "Hub sa Transportasyon"
+		},
+		"txt_BuildingEmbassy": {
+			"info": "Kat-ona diri tanang impormasyon mahitungod sa Lungsod sa Energia!",
+			"header": "Embahada"
+		},
+		"txt_BuildingGov": {
+			"info": "Susiha ang dugang bahin sa lainlain nga mga palisiya sa gobyerno bahin sa maayong praktises sa enerhiya ug tubig.",
+			"header": "Gusali sa Department of Energy"
+		},
+		"txt_BuildingSchool": {
+			"info": "Tan-awa ang Wattmatters site ug pagkat-on sa pagkalkular sa imong konsumo sa kuryente sa balay!",
+			"header": "Lugar Eskwelahan"
+		},
+		"txt_BuildingPlaza": {
+			"info": "Pagduwa ug pasulit aron makaangkon ug dugang kahibalo mahitungod sa pagdaginot sa enerhiya ug uban pa.",
+			"header": "Plaza nga dapit"
+		},
+		"txt_BuildingSeaport": {
+			"info": "Pagkat-on og dugang kahibalo mahitungod sa lain-laing mga sugilon sa LGU ug unsa nga mga kalampusang nahimo alang sa enerhiya ug tubig nga episyente.",
+			"header": "Pantalan"
+		},
+		"txt_BuildingKnowledge": {
+			"info": "Hibal-i ang dugang bahin sa lainlain nga mga palisiya sa gobyerno bahin sa mga gawi sa pagkaayo sa enerhiya ug tubig.",
+			"header": "Knowledge Hub"
+		}
+	},
+	"dialogue": {
+		"tutorial_1": {
+			"header": "Tutorial",
+			"header_info": "Malipayong Pag-abot sa Lungsod sa Energia!",
+			"info": "Kat-ona diri tanan ang nagkalain-laing mga pamaagi sa enerhiya ug tubig nga mabuhat sa balay o bisan asa pa!\n\nKami ang imong mga giya sa niining nindot nga lugar."
+		},
+		"tutorial_2_gener": {
+			"header": "Giya nga si Gener",
+			"info": "Ako si Gener!"
+		},
+		"tutorial_2_gia": {
+			"header": "Giya nga si Gia",
+			"info": "Ug ako si Gia!"
+		},
+		"tutorial_3": {
+			"header": "Giya nga si Gener",
+			"info": "Adunay daghang mga lugar nga masuhid niining siyudad! Pag-tap lang sa bilding aron masusi kini."
+		},
+		"tutorial_4": {
+			"header": "Giya nga si Gener",
+			"info": "Ang matag lugar adunay daghang mga kwarto ug lokasyon nga mahimo nimong susihon."
+		},
+		"tutorial_5": {
+			"header": "Giya nga si Gia",
+			"info": "Kung mawala ka, ayaw pagduha-duha sa pagpindot sa       buton sa ubos sa imong wala nga suok aron tawagan kami."
+		},
+		"tutorial_6": {
+			"info": "Paglingaw sa pagkat-on ug pagsuhid sa Lungsod sa Energia!"
+		},
+		"idle_1_gener": {
+			"header": "Giya nga si Gener",
+			"info": "Nawala? I-tap lang ang mga icon, arrow, o mga bilding aron masusi kini. Mahimo nimo nga pindoton ang pula nga button aron makagawas balik sa lungsod."
+		},
+		"idle_1_gia": {
+			"header": "Giya nga si Gia",
+			"info": "Nawala? I-tap lang ang mga icon, arrow, o mga bilding aron masusi kini. Mahimo nimo nga pindoton ang pula nga button aron makagawas balik sa lungsod."
+		},
+		"doe_reception_female": {
+			"header": "EC Officer",
+			"info": "Kumusta, ako ang opisyal sa Energy Conservation nga nag-duty. Malipayon nga pag-abot sa City of Energia Government Center. Ang among ahensya gimanduan nga manguna sa pagsuhid sa enerhiya, pagpalambo, paggamit, pag-apod-apod ug pagkonserba. Pahibaloa ko kon unsa akong maikaalagad kanimo."
+		},
+		"doe_reception_male": {
+			"header": "E Focal Officer",
+			"info": "Hi, ako ang E-focal person. Gusto ba nimong mahibal-an ang dugang bahin sa pagkaepisyente sa enerhiya ug pagkonserba?"
+		}
+	},
+	"icons": {
+		"txt_IconParkingGarage": {
+			"left1": "Gasolinahan",
+			"right1": "Istasyon sa Solar Charger"
+		},
+		"txt_IconParkingGas": {
+			"left1": "Pampublikong Transportasyon",
+			"right1": "Paradahan"
+		},
+		"txt_IconParkingGreenTransport": {
+			"left1": "Istasyon sa Solar Charger"
+		},
+		"txt_IconParkingSolar": {
+			"left1": "Paradahan",
+			"right1": "Alternatibong Pampublikong Transportasyon"
+		},
+		"txt_IconParkingTransport": {
+			"right1": "Gasolinahan"
+		},
+		"txt_IconGovernmentFrontdesk": {
+			"right1": "Librarya",
+			"left1": "Mga Opisina"
+		},
+		"txt_IconGovernmentLibrary": {
+			"left1": "Dawatanan"
+		},
+		"txt_IconGovernmentOffice": {
+			"right1": "Dawatanan",
+			"left1": "Paradahan"
+		},
+		"txt_IconGovernmentParking": {
+			"right1": "Mga Opisina"
+		},
+		"txt_IconMallCentral": {
+			"left1": "Atubangang bahin"
+		},
+		"txt_IconMallDisplay": {
+			"right1": "Dakung Luna",
+			"left1": "Lugar Kaonan"
+		},
+		"txt_IconMallFoodCourt": {
+			"right1": "Atubangang bahin",
+			"left1": "Banyo"
+		},
+		"txt_IconMallBathroom": {
+			"right1": "Lugar Kaonan"
+		},
+		"txt_IconHouseLiving": {
+			"right1": "Kusina",
+			"left1": "Kwarto"
+		},
+		"txt_IconHouseBedroom": {
+			"right1": "Sala",
+			"left1": "Banyo"
+		},
+		"txt_IconHouseBathroom": {
+			"right1": "Kwarto"
+		},
+		"txt_IconHouseGarden": {
+			"left1": "Kusina"
+		},
+		"txt_IconHouseKitchen": {
+			"right1": "Tanaman",
+			"left1": "Sala"
+		},
+		"txt_IconSchoolClassroom": {
+			"right1": "Librarya"
+		},
+		"txt_IconSchoolLibrary": {
+			"left1": "Klasehanan"
+		},
+		"txt_IconOfficeConference": {
+			"right1": "Kaonanan"
+		},
+		"txt_IconOfficeCubicle": {
+			"right1": "Dawatanan nga dapit",
+			"left1": "Kaugalingon nga Opisina"
+		},
+		"txt_IconOfficeElevator": {
+			"right1": "Kasilyas",
+			"left1": "Dawatanan nga dapit"
+		},
+		"txt_IconOfficePantry": {
+			"right1": "Kaugalingon nga Opisina",
+			"left1": "Komperensya sa Kapulongan"
+		},
+		"txt_IconOfficePersonal": {
+			"right1": "Lugar sa mga Cubicle",
+			"left1": "Kaonanan"
+		},
+		"txt_IconOfficeReception": {
+			"right1": "Mga Elevator",
+			"left1": "Lugar sa mga Cubicle"
+		},
+		"txt_IconOfficeRestroom": {
+			"left1": "Mga Elevator"
+		},
+		"txt_IconEcoZoneEcoPart": {
+			"right1": "Bodega",
+			"left1": "Mga Opisina"
+		},
+		"txt_IconEcoZoneGarage": {
+			"right1": "Processing Hub",
+			"left1": "Bodega"
+		},
+		"txt_IconEcoZoneMechHub": {
+			"right1": "Pump Room/Booster",
+			"left1": "Labayanan ug basura"
+		},
+		"txt_IconEcoZoneOffice": {
+			"right1": "Eco-Park"
+		},
+		"txt_IconEcoZoneProcessHub": {
+			"right1": "Pagtatapon ng Basura",
+			"left1": "Garahe/Paradahan"
+		},
+		"txt_IconEcoZonePumpZone": {
+			"left1": "Mechanical Hub"
+		},
+		"txt_IconEcoZoneWarehouse": {
+			"right1": "Garahe/Paradahan",
+			"left1": "Eco-Park"
+		},
+		"txt_IconEcoZoneWasteDisposal": {
+			"right1": "Mechanical Hub",
+			"left1": "Processing Hub"
+		},
+		"txt_IconSeaportMManila": {
+			"right1": "Padulong sa Amihanan",
+			"left1": "Padulong sa Habagatan"
+		},
+		"txt_IconEnerhiyangAtinFrontdesk": {
+			"right1": "Librarya",
+			"left1": "Mga Opisina"
+		},
+		"txt_IconEnerhiyangAtinLibrary": {
+			"left1": "Front Desk"
+		},
+		"txt_IconEnerhiyangAtinOffice": {
+			"right1": "Front Desk"
+		}
+	},
+	"interiors": {
+		"txt_InteriorWattmatters": {
+			"info": "This is the Wattmatters site. Feel free to use it.",
+			"header": "Wattmatters"
+		},
+		"txt_InteriorQuestion": {
+			"info": "Kasamtangan ka nga gasuhid sa [PANELINFO].\nGamita ang               sa paglawig sa lugar. Mahimo usab nimo pindoton ang mga icon aron mahibal-an ang \n\n       Episyente sa Enerhiya                    Pagkonserba sa Tubig",
+			"header": "Kumusta?"
+		},
+		"txt_InteriorParkingIntro": {
+			"info": "Kat-ona diri ang tanang impormasyon sa mga maayong praktises sa enerhiya ug tubig nga may kalabutan sa transportasyon, pag-commute, ug susamang mga kapilian.",
+			"header": "Diri ang paradahan"
+		},
+		"txt_InteriorParkingGarageSolar": {
+			"info": "Ang paggamit sa solar powered nga mga sistema sa suga dako kaayo ug tabang paminos sa carbon footprint ug gasto sa kuryente.",
+			"header": "Suga de Solar"
+		},
+		"txt_InteriorParkingGaragePlants": {
+			"info": "Ang pagdugang sa mga tanum sa palibot sa lugar makatampo sa pagpagaan sa pagbag-o sa klima.",
+			"header": "Mga Tanum"
+		},
+		"txt_InteriorParkingGasLighting": {
+			"info": "Pag-upgrade sa mga suga pinaagi sa paggamit sa light emitting diode (LED) nga mga bombilya nga episyente sa enerhiya ug mahimong molungtad og 10 ka beses nga mas taas kaysa sa naandan nga mga bombilya.",
+			"header": "Pasiga"
+		},
+		"txt_InteriorParkingGreenTransportSolar": {
+			"info": "Ang paggamit sa mga solar panel makapakunhod pag-ayo sa carbon footprint ug makatabang sa pagtipig sa salapi.",
+			"header": "Solar Panels"
+		},
+		"txt_InteriorParkingGreenTransportCharger": {
+			"info": "Ubos ang baterya? Ang solar-powered charging stations nga sama niini maka-charge sa daghang mga mobile device gamit ang gamay nga enerhiya.",
+			"header": "Charger para sa mga elektronikong gamit"
+		},
+		"txt_InteriorParkingGreenTransportWaiting": {
+			"info": "Ang mga tanum sa mga lugar huwatanan makatabang sa pagpakunhod sa carbon emissions ug pagminos sa polusyon sa hangin samtang naghulat sa imong sunod nga biyahe.",
+			"header": "Lugar Huwatanan"
+		},
+		"txt_InteriorParkingSolarLighting": {
+			"info": "Malipayong pag-abot sa Solar Charging station sa syudad. Ang Energia nag-implementar og ordinansa sa pagpasiugda sa paggamit sa de-kuryenteng mga sakyanan sa publiko ug pribadong sektor. Subay niini, ang solar energy, nga anaa kaayo ug mahigalaon sa kinaiyahan, gamiton sa pag-charge sa mga EVs pinaagi sa pagtukod og solar charging stations.",
+			"header": "Pasiga"
+		},
+		"txt_InteriorParkingSolarCharging": {
+			"info": "Ang paggamit sa mga de-kuryenteng sakyanan (EVs) makapaminos sa hulga nga makasinatig pagkabalda sa suplay sa gasolina ug makatampo sa pagpaminos sa kausaban sa klima.",
+			"header": "Istasyon sa pag-charge para sa mga EV"
+		},
+		"txt_InteriorParkingSolarSolar": {
+			"info": "Ang paggamit sa mga solar panel makapakunhod pag-ayo sa carbon footprint ug makatabang sa pagtipig sa salapi. Ang paggamit sa solar isip elektrisidad makatabang sa pagkonserbar sa kinaiyahan.",
+			"header": "Solar Panels"
+		},
+		"txt_InteriorParkingTransportWaiting": {
+			"info": "Ang mga tanum sa mga lugar huwatanan makatabang sa pagpakunhod sa carbon emissions ug pagminos sa polusyon sa hangin samtang naghulat sa imong sunod nga biyahe.",
+			"header": "Lugar Huwatanan"
+		},
+		"txt_InteriorEmbassyIntro": {
+			"info": "Kini nga energy efficiency virtual showroom nahimong posible pinaagi sa ubay-ubay nga suporta sa mga Amerikano pinaagi sa United States Agency for International Development (USAID). Ang mga sulod mao ang responsibilidad sa Department of Energy sa Pilipinas ug RTI International ug dili kinahanglan nga nagpakita sa mga panglantaw sa USAID o sa Gobyerno sa Estados Unidos.",
+			"header": "Mao ni ang Embahada"
+		},
+		"txt_InteriorGovernmentIntro": {
+			"info": "Kini ang lugar nga natawhan sa tanan namong mga inisyatibo sa pagpaayo sa enerhiya. Ang among labing maayo nga mga gawi sa kahusayan sa enerhiya gigiyahan sa mga palisiya ug balangkas nga gisulat ug gipatuman sa atong local government unit uban ang suporta gikan sa nasudnong kagamhanan.",
+			"header": "Malipayong Pag-abot sa Department of Energy"
+		},
+		"txt_InteriorGovernmentLibraryLighting": {
+			"info": "I-upgrade ang mga fixtures sa suga pinaagi sa paggamit sa LED light bulbs nga episyente sa enerhiya ug mahimong molungtad og 10x nga mas taas kaysa sa naandan nga mga bombilya.",
+			"header": "Pasiga"
+		},
+		"txt_InteriorGovernmentLibraryComputer": {
+			"info": "Sa pakigtambayayong sa Department of Energy, kining energy efficiency virtual showroom gihimo sa United States Agency for International Development pinaagi sa Energy Secure Philippines Activity. Ang USAID ESP Activity nagsuporta sa Gobyerno sa Pilipinas sa pagpalambo sa kalig-on sa enerhiya sa nasud pinaagi sa paggamit sa mga advanced nga teknolohiya.\n\nEnergy Utilization Management Bureau\ndoe.eumb@gmail.com\n(02) 8840-2289",
+			"header": "Pakig-uban sa Department of Energy"
+		},
+		"txt_InteriorGovernmentOfficeLighting": {
+			"info": "I-upgrade ang mga fixtures sa suga pinaagi sa paggamit sa LED light bulbs nga episyente sa enerhiya ug mahimong molungtad og 10x nga mas taas kaysa sa naandan nga mga bombilya.",
+			"header": "Pasiga"
+		},
+		"txt_InteriorMallIntro": {
+			"info": "Ania kita diri aron atong masayran ang bahin sa pagdaginot sa enerhiya sa mga shopping center.",
+			"header": "Lugar pangkomersyal"
+		},
+		"txt_InteriorMallCentralLighting": {
+			"info": "Ang mga malls nga episyente sa enerhiya nagpahimulos sa natural nga kahayag sa adlaw aron makunhuran ang gasto sa operasyon ug konsumo sa kuryente.",
+			"header": "Natural nga Kahayag"
+		},
+		"txt_InteriorMallCentralAir": {
+			"info": "Gawas sa pagpamalit, ang mga Pilipino moadto sa mga mall aron matagamtam ang bugnaw ug makapahayahay nga temperatura. Ang mga cooling unit sa mga komersyal nga establisemento kinahanglan propesyonal nga serbisyohan labing minos kausa sa usa ka tuig aron masiguro ang episyente nga paggana niini.",
+			"header": "Air conditioning"
+		},
+		"txt_InteriorMallCentralWindow": {
+			"info": "Ang mga bintana nagdala ug natural nga kahayag. Ang natural nga kahayag dili lamang makatipig sa enerhiya, kini perpekto usab alang sa imong mga selfie!",
+			"header": "Bintana"
+		},
+		"txt_InteriorMallCentralAirCurtain": {
+			"info": "Kini ang mga kurtina sa hangin nga nagkontrol sa temperatura. Ang kurtina sa hangin nagpugong sa wala masala nga hangin sa gawas ug nasala nga hangin sa sulod.",
+			"header": "Air Curtains"
+		},
+		"txt_InteriorMallCentralDoor": {
+			"info": "Ang dobleng pultahan o vestibules naglimit sa init nga hangin nga mosulod sa bilding. Ang mga air conditioning unit sa mga mall mukonsumo og gamay nga kuryente kung kontrolado ang temperatura, humidity ug sirkulasyon sa hangin.",
+			"header": "Doble nga pultahan"
+		},
+		"txt_InteriorMallDisplayLighting": {
+			"info": "I-upgrade ang mga fixtures sa suga pinaagi sa paggamit sa LED light bulbs nga episyente sa enerhiya ug mahimong molungtad og 10x nga mas taas kaysa sa naandan nga mga bombilya.",
+			"header": "Pasiga"
+		},
+		"txt_InteriorMallDisplayWindow": {
+			"info": "Ang mga malls nga episyente sa enerhiya nagpahimulos sa natural nga kahayag sa adlaw aron makunhuran ang gasto sa operasyon ug konsumo sa kuryente.",
+			"header": "Bintana"
+		},
+		"txt_InteriorMallFoodCourtLighting": {
+			"info": "I-upgrade ang mga fixtures sa suga pinaagi sa paggamit sa LED light bulbs nga episyente sa enerhiya ug mahimong molungtad og 10x nga mas taas kaysa sa naandan nga mga bombilya.",
+			"header": "Pasiga"
+		},
+		"txt_InteriorMallFoodCourtWindows": {
+			"info": "Ang mga bintana nagdala ug natural nga kahayag. Ang natural nga kahayag dili lamang makatipig sa enerhiya, kini perpekto usab alang sa imong mga selfie!",
+			"header": "Bintana"
+		},
+		"txt_InteriorMallFoodCourtWater": {
+			"info": "Ang ginamitang tubig sa istasyon maoy ginagamit usab sa pag.hinlo sa kasilyas.",
+			"header": "Istasyon sa Imnanan"
+		},
+		"txt_InteriorMallFoodCourtFoodStall": {
+			"info": "Ang induction stoves 90 porsyento nga mas episyente sa enerhiya kumpara sa ubang klase sa stoves.",
+			"header": "Kan-anan"
+		},
+		"txt_InteriorMallFoodCourtDirtyDishes": {
+			"info": "Kung manghugas ka sa mga plato ug mga tray sa pagkaon pinaagi sa kamot, patya ang nag-agas nga tubig kung dili pa magwaswas.",
+			"header": "Hugaw nga mga plato"
+		},
+		"txt_InteriorMallBathroomLighting": {
+			"info": "Gigamit niini ang mga motion detector sa suga ug kaligoanan aron makunhuran ang konsumo sa kuryente.",
+			"header": "Pasiga"
+		},
+		"txt_InteriorMallBathroomFaucet": {
+			"info": "Kini nga gripo naggamit sa mga motion detector aron makadaginot sa tubig.",
+			"header": "Gripo"
+		},
+		"txt_InteriorMallBathroomVentilation": {
+			"info": "Gawas sa mga bintana ug pultahan, ang pagbutang ug mga exhaust fan makapaayo sa sirkulasyon sa hangin sulod sa kasilyas.",
+			"header": "Bentilasyon"
+		},
+		"txt_InteriorHouseIntro": {
+			"info": "Sama sa tanang balay sa kasilinganan, ang imoha gipaandar sa enerhiyang de solar ug nalista sa power monitoring system. Nakadungog ka ba bahin sa sistema sa pagmonitor sa kuryente? Usa ka sistema sa pagmonitor sa kuryente ang nagkontrol ug nagmonitor sa imong konsumo sa enerhiya kada adlaw. Makatabang kini kanimo nga makunhuran ang imong mga nausik ug gasto sa enerhiya.",
+			"header": "Kini ang imong mapaubsanong puloy-anan"
+		},
+		"txt_InteriorHouseLivingLight": {
+			"info": "Ang Light Emitting Diode o LED nga mga bombilya sa suga molungtad og dugay kaysa ubang mga klase sa suga. Dugang pa, makadaginot kini ug 50% sa konsumo sa kuryente. Busa, balhin sa LED!",
+			"header": "Pasiga"
+		},
+		"txt_InteriorHouseLivingElectric": {
+			"info": "Limpyohi kanunay imong fan. Ang abog ug hugaw makapakunhod sa hangin nga giboga sa fan.",
+			"header": "Bentilador"
+		},
+		"txt_InteriorHouseLivingTelevision": {
+			"info": "Gamay ra ang makonsumo sa enerhiya ug mas dakung oras magahin nimo sa pamilya kung kuyog mo magtan-aw ug TV.",
+			"header": "Telebisyon"
+		},
+		"txt_InteriorHouseLivingComputer": {
+			"info": "And tinuod, ang mga screensaver dili gyud makatipig maski gamay. Busa, mas maayo nga dili mogamit og mga screensaver sa imong kompyuter. Mas maayo, mahimo nimong i-off ang imong monitor kung d ka maggamit sa sobra sa 15 minutos.",
+			"header": "Kompyuter"
+		},
+		"txt_InteriorHouseLivingWindows": {
+			"info": "Ang mga bintana nagdala ug natural nga kahayag. Ang natural nga kahayag dili lamang makatipig sa enerhiya, kini perpekto usab alang sa imong mga selfie!",
+			"header": "Bintana"
+		},
+		"txt_InteriorHouseLivingExtension": {
+			"info": "Tangtanga ang extension cord kung dili gamiton aron malikayan ang phantom loading.\n\nAng phantom loading sama sa usa ka nagtulo nga gripo. Kasagaran kini ang mga nakasaksak nga mga appliances nga sa imong hunahuna nakapalong, apan naggamit gihapon ug kuryente.",
+			"header": "Saksakanan"
+		},
+		"txt_InteriorHouseBedroomLighting": {
+			"info": "Ang Light Emitting Diode (LED) nga mga bombilya mas molungtad kay sa ubang matang sa suga. Dugang pa, makadaginot kini ug 50% sa konsumo sa kuryente.",
+			"header": "Pasiga"
+		},
+		"txt_InteriorHouseBedroomPlants": {
+			"info": "Ang mga tanum sa sulod makapaminos sa kainit ug nagsilbing natural nga humidifier. Dili ikatingala ngano nga ang mga plantitas ug plantitos aduna usab mga tanum sa sulod sa ilang mga kwarto.",
+			"header": "Mga Tanum"
+		},
+		"txt_InteriorHouseBedroomAircon": {
+			"info": "Kahibalo ba mo nga ang paglimpyo sa mga filter ug condenser sa mga air conditioning unit makadaginot ug 100 pesos kada buwan? Busa, siguruha nga mamintinar ang imong mga AC.",
+			"header": "Erkon"
+		},
+		"txt_InteriorHouseBedroomCharger": {
+			"info": "Ayaw biyai ang imong mga device nga nag-charge sa tibuok gabii tungod kay mokonsumo kini og elektrisidad kung gibiyaan nga nakasaksak.",
+			"header": "Charger para sa mga mobile device"
+		},
+		"txt_InteriorHouseBedroomWindow": {
+			"info": "Pagbutang ug mga kurtina o mga blinds sa mga bintana aron makunhuran ang kainit sa adlaw gikan sa gawas.",
+			"header": "Bintana (kung nag-andar ang aircon)"
+		},
+		"txt_InteriorHouseBedroomDoor": {
+			"info": "Isira tanang bintana ug pultahan kung maggamit sa air conditioning unit aron magpabilin ang bugnaw nga hangin sa sud.",
+			"header": "Pultahan (kung nag-andar ang aircon)"
+		},
+		"txt_InteriorHouseBathroomLighting": {
+			"info": "Ayaw kalimot sa pagpalong sa mga suga pagkahuman ug gamit sa banyo.",
+			"header": "Pasiga"
+		},
+		"txt_InteriorHouseBathroomFaucet": {
+			"info": "Nasayod ka ba nga makadaginot ka ug labing minos 6 ka galon nga tubig kada adlaw kon imong palongon ang gripo samtang nanabon pa ka sa imong mga kamot?",
+			"header": "Gripo"
+		},
+		"txt_InteriorHouseBathroomShower": {
+			"info": "Unsa sa imong tan-aw ang makadaginot ug daghang tubig? Maligo gamit shower o maligo gamit ang kabo ug balde?\n\nAng mas mugbo nga pagligo dili lamang makadaginot ug daghang tubig, makadaginot usab kini ug dugang enerhiya ug gasto.",
+			"header": "Ligoanan"
+		},
+		"txt_InteriorHouseBathroomVentilation": {
+			"info": "Gawas sa mga pultahan ug mga bintana, ang pagbutang ug mga exhaust fan sa banyo makatabang sa sirkulasyon sa hangin.",
+			"header": "Bentilasyon"
+		},
+		"txt_InteriorHouseGardenWater": {
+			"info": "Suwayi paggamit ug usab sa kinaligoang tubig sa imong tanaman.",
+			"header": "Saktong paggamit sa tubig"
+		},
+		"txt_InteriorHouseKitchenWater": {
+			"info": "Mas maayong maggamit ug baldeng tubig imbis nga nag-agas nga tubig kon maghugas ug prutas ug utanon.",
+			"header": "Saktong paggamit sa tubig"
+		},
+		"txt_InteriorHouseKitchenRef": {
+			"info": "Kabugnaw!\n\nAng pagtuman sa rekomendadong temperatura sa tiggama makalikay sa sobrang kabugnaw ug pagkausik sa enerhiya. Ayaw kalimot sa regular nga pag-defrost sa refrigerator. Samtang ang ubang mga refrigerator wala'y katugnaw, ang daan nga mga refrigerator ug mga freezer kinahanglan nga ma-defrost matag karon ug unya aron padayon ang pagka-epektibo.",
+			"header": "Pabugnawan"
+		},
+		"txt_InteriorHouseKitchenMicrowave": {
+			"info": "Nasayod ba ka nga gamay ra nga oras ug kuryente ang makonsumo kung mogamit ka ug microwave sa pag-init pag-usab sa pagkaon?",
+			"header": "Microwave"
+		},
+		"txt_InteriorHouseKitchenStove": {
+			"info": "Makadaginot kita og enerhiya pinaagi sa pagpalong sa gas stove atol sa katapusang minuto sa pagluto sa imong pagkaon.",
+			"header": "Kalan"
+		},
+		"txt_InteriorHouseKitchenPlant": {
+			"info": "Kahibalo ba ka nga ang mga tanum sa imong kusina nakatampo sa himsog nga pagsala sa hangin? Ug sila usab nag-sequester sa carbon nga usa sa daghang mga paagi aron maminosan ang pagbag-o sa klima.",
+			"header": "Mga Tanum"
+		},
+		"txt_InteriorSchoolIntro": {
+			"info": "Kini ang among tumong nga ipaambit ang among kasamtangan nga kahibalo ug labing maayo nga mga gawi uban ang paglaum nga makab-ot ang usa ka ripple effect sa ubang bahin sa nasud.",
+			"header": "Malipayong pag-abot sa Energia Academy!"
+		},
+		"txt_InteriorSchoolLibraryLighting": {
+			"info": "Pilia ang mga bombilya nga episyente sa enerhiya. Mahimo nimong ilisan ug LED ang kasamtangan nga mga bombilya.",
+			"header": "Pasiga"
+		},
+		"txt_InteriorSchoolLibraryComputer": {
+			"info": "And tinuod, ang mga screensaver dili gyud makatipig maski gamay. Busa, mas maayo nga dili mogamit og mga screensaver sa imong kompyuter. Mas maayo, mahimo nimong i-off ang imong monitor kung d ka maggamit sa sobra sa 15 minutos.",
+			"header": "Kompyuter"
+		},
+		"txt_InteriorSchoolClassroomLighting": {
+			"info": "Pilia ang episyente sa enerhiya nga mga bombilya sama sa light-emitting diode (LED) nga mga bombilya.",
+			"header": "Pasiga"
+		},
+		"txt_InteriorSchoolClassroomAircon": {
+			"info": "I-set ang imong air conditioning units sa sumbanan nga temperatura nga 24°c para makadaginot og enerhiya.",
+			"header": "Air Conditioning"
+		},
+		"txt_InteriorSchoolClassroomStair": {
+			"info": "Ang paggamit sa hagdanan makamintinar sa maayong panglawas ug makadaginot sa enerhiya. Busa, gamita ang hagdanan kung mahimo nimo.",
+			"header": "Gamit sa Hagdan"
+		},
+		"txt_InteriorOfficeIntro": {
+			"info": "Pinaagi sa pagpatuman sa usa ka Green Building Code, ang atong mga bilding gidesinyo aron makunhuran ang paggamit sa enerhiya nga may kalabotan sa pagkaepektibo sa gasto, pagpaandar sa bilding, kaharuhay, kahimsog, kaluwasan, ug produktibidad sa mga nagpuyo. Sama sa imong balay, ang among mga opisina nasangkapan sa mga teknolohiya nga episyente sa enerhiya!",
+			"header": "Imong lugar trabahoan!"
+		},
+		"txt_InteriorOfficeConferenceLighting": {
+			"info": "Pilia ang mga bombilya nga episyente sa enerhiya. Mahimo nimong ilisan ang kasamtangan nga mga bombilya gamit ang light-emitting diode (LED) nga mga suga.",
+			"header": "Pasiga"
+		},
+		"txt_InteriorOfficeConferenceProjector": {
+			"info": "Sa dili pa mobiya sa opisina, ayaw kalimot sa pagpalong ug pagtangtang sa wala kinahanglan nga mga appliances ug device.",
+			"header": "Projektor"
+		},
+		"txt_InteriorOfficeCubicleLighting": {
+			"info": "Pilia ang mga bombilya nga episyente sa enerhiya. Mahimo nimong ilisan ang kasamtangan nga mga bombilya gamit ang light emitting diode (LED) nga mga suga.",
+			"header": "Pasiga"
+		},
+		"txt_InteriorOfficeCubicleCentralAir": {
+			"info": "Aron mas episyente ang pagpabugnaw, tan-awa ang gidak-on sa lugar sa dili pa magbutang ug air conditioning units.",
+			"header": "Sentro sa Air Conditioning"
+		},
+		"txt_InteriorOfficeCubicleWindow": {
+			"info": "Ang bildo nga mga bungbong ug mga pultahan nagdala ug natural nga kahayag og makapaminos sa konsumo sa kuryente.",
+			"header": "Bintana (Natural nga Kahayag)"
+		},
+		"txt_InteriorOfficeCubicleComputers": {
+			"info": "Moadto sa usa ka pulong?\n\nI-set ang imong personal nga kompyuter sa Sleep Mode kung wala ka sobra sa 15 minutos.",
+			"header": "Kompyuter"
+		},
+		"txt_InteriorOfficeCubicleCharger": {
+			"info": "Ang mga estasyon nga episyente sa enerhiya alang sa mga elektronikong gamit makahatag ug dugang bili sa tanang empleyado ug makatabang sa pagdasig kanila nga mahimong mas mahunahunaon sa paggamit sa elektrisidad nga episyente.",
+			"header": "Charger para sa mga mobile device"
+		},
+		"txt_InteriorOfficeCubicleLarge": {
+			"info": "I-print lang ang imong mga dokumento kung gikinahanglan. Hinumdomi nga ang pagpili sa pagbasa niini sa imong telepono o tablet makapaminos sa imong papel ug konsumo sa kuryente.",
+			"header": "Dakung Makinarya (Photocopier)"
+		},
+		"txt_InteriorOfficeElevatorElevator": {
+			"info": "Paggamit sa hagdanan kon ikaw mosaka o mokanaog kon dili molapas sa duha ka andana. Maayo sab ni sa imong panglawas!",
+			"header": "Mga elevator"
+		},
+		"txt_InteriorOfficeElevatorWindow": {
+			"info": "Ang pultahan ug mga bungbong nga bildo makahatag ug natural nga kahayag nga makapaminos sa konsumo sa kuryente.",
+			"header": "Bintana"
+		},
+		"txt_InteriorOfficePantryLighting": {
+			"info": "Balhin sa low-heat LED nga suga.",
+			"header": "Pasiga"
+		},
+		"txt_InteriorOfficePantryFaucet": {
+			"info": "Kung maghugas ug plato, palonga ang nagdagan nga tubig kung dili mang-waswas.",
+			"header": "Gripo"
+		},
+		"txt_InteriorOfficePantryKettle": {
+			"info": "Mangape kuyog mga ka-opisina? Ang kausang pagpabukal sa takure makahimo ug lima o unom ka ilimnon kaysa ka-unom ka beses kung tagsa-tagsa.",
+			"header": "Dekuryenteng Takure"
+		},
+		"txt_InteriorOfficePantryVentilation": {
+			"info": "Pahimusli ang natural nga hangin nga nagdagayday sa bilding pinaagi sa pagdirekta sa hangin padulong sa mga buho sa kisame ug mga pultahan sa gawas.",
+			"header": "Bentilasyon"
+		},
+		"txt_InteriorOfficePersonalLighting": {
+			"info": "Pilia ang mga bombilya nga episyente sa enerhiya. Mahimo nimong ilisan ang kasamtangan nga mga bombilya gamit ang light-emitting diode (LED) nga mga suga.",
+			"header": "Pasiga"
+		},
+		"txt_InteriorOfficePersonalCentralAir": {
+			"info": "Ibutang ang temperatura sa air-conditioner sa 24-25°C sa husto nga sumbanan aron makadaginot sa enerhiya.",
+			"header": "Sentro sa Air Conditioning"
+		},
+		"txt_InteriorOfficePersonalWindow": {
+			"info": "Kung adlawan, ang imong opisina magpalong sa artipisyal nga suga ug maggamit sa natural nga kahayag.",
+			"header": "Bintana"
+		},
+		"txt_InteriorOfficePersonalComputers": {
+			"info": "Ayaw kalimot sa pagpalong sa imong kompyuter/laptop o pagkatulog sa imong PC kon dili gamiton.",
+			"header": "Kompyuter"
+		},
+		"txt_InteriorOfficePersonalChargers": {
+			"info": "Tangtanga ang imong charger kung puno na ang baterya sa imong device.",
+			"header": "Charger para sa mga mobile device"
+		},
+		"txt_InteriorOfficePersonalExtension": {
+			"info": "Ayaw pag-overload sa imong extension cord pinaagi sa pagsaksak sa device nga labaw sa kapasidad niini.",
+			"header": "Saksakan"
+		},
+		"txt_InteriorOfficeReceptionLighting": {
+			"info": "Kung adlawan, ang imong opisina magpalong sa artipisyal nga suga ug maggamit sa natural nga kahayag.",
+			"header": "Pasiga"
+		},
+		"txt_InteriorOfficeReceptionAircon": {
+			"info": "Importante ang gidak-on sa lawak sa pagpili sa air-conditioning unit para sa imong lugar trabahoan. Itaud ang air-conditioning unit sa pinakabugnaw nga bahin sa kwarto, kung mahimo, didto sa landong nga bahin diin ang pinakalabing maayo ang sirkulasyon sa hangin.",
+			"header": "Air condition"
+		},
+		"txt_InteriorOfficeReceptionWindow": {
+			"info": "Ang mga moderno ug episyente sa enerhiya nga mga bilding nagpahimulos sa natural nga kahayag aron makatipig sa konsumo sa kuryente.",
+			"header": "Bintana"
+		},
+		"txt_InteriorOfficeRestroomLighting": {
+			"info": "Kini nga kasilyas adunay mga awtomatik nga pagkontrol sa suga ilabi na, mga occupancy sensors, nga makadaginot sa enerhiya pinaagi sa awtomatikong pagpalong sa mga suga kon dili gamiton.",
+			"header": "Pasiga"
+		},
+		"txt_InteriorOfficeRestroomFaucet": {
+			"info": "Ayuhon ang mga naay tuloh nga gripo, kasilyas, tubo, ug sprinkler. Ang mga pagtulo managlahi sa gidaghanon, apan kini mahimong hinungdan sa daghang nausik nga tubig sa paglabay sa panahon.",
+			"header": "Gripo"
+		},
+		"txt_InteriorOfficeRestroomVentilation": {
+			"info": "Gawas sa mga bintana ug pultahan, ang pagbutang ug mga exhaust fan sa comfort room makapaayo sa sirkulasyon sa hangin ug makalikay sa kaumog.",
+			"header": "Bentilasyon"
+		},
+		"txt_InteriorEcoZoneIntro": {
+			"info": "Malipayong pag-abot sa Lungsod sa Energia Economic Zone. Kini nga bahin sa siyudad magpakita kanimo sa episyente nga enerhiya sa sektor sa industriya. Magsuroy-suroy ta!",
+			"header": "Mao ni ang Economikanhong lugar"
+		},
+		"txt_InteriorEcoZoneEcoPartLighting": {
+			"info": "Ang kining suga kay solar-powered! Ang mga solar panel nga gitaod sa atop nagpundo og enerhiya sa panahon sa kahayag sa adlaw aron sa pagdan-ag sa parke sa gabii.",
+			"header": "Pasiga"
+		},
+		"txt_InteriorEcoZoneEcoPartWater": {
+			"info": "Gamita pag-usab ang tubig kung angay alang sa pagbisbis sa mga tanum ug paglimpyo sa designated nga mga lugar. Pananglitan: Ang tubig gikan sa mga fountain mahimong gamiton pag-usab sa pagbisbis sa mga tanom imbes nga iyabo lang kini.",
+			"header": "Saktong paggamit sa tubig"
+		},
+		"txt_InteriorEcoZoneEcoPartVentilation": {
+			"info": "Ang mga abli nga nag-atubang sa langit, sawang sa dalan, o atabay sa hangin pagaisipon nga madawat nga tinubdan sa natural nga kahayag ug bentilasyon.",
+			"header": "Bentilasyon"
+		},
+		"txt_InteriorEcoZoneGarageParking": {
+			"info": "Sa kaso sa mga pampublikong garahe, duha o daghan pa nga kilid sa garahe kinahanglan adunay usa ka pag-abli alang sa cross ventilation ug ang pag-abli sa lugar labing minos 50% sa lugar sa dingding diin kini nahimutang.",
+			"header": "Paradahan"
+		},
+		"txt_InteriorEcoZoneGarageCharging": {
+			"info": "Ang pag-instalar sa mga istasyon sa pag-charge sa parking area mas dali ug sayon nalang sa pag-recharge sa mga electric vehicle (EVs).",
+			"header": "Istasyon sa pag-charge para sa mga EV"
+		},
+		"txt_InteriorEcoZoneGarageSolar": {
+			"info": "Ang paggamit sa mga solar panel makapakunhod pag-ayo sa carbon footprint ug makatabang sa pagtipig sa salapi.",
+			"header": "Solar Panels"
+		},
+		"txt_InteriorEcoZoneMechHubLighting": {
+			"info": "Siguruha nga mogamit ug episyente sa enerhiya sama sa light emitting diode (LED) bulbs. Makatabang kini nga makadaginot sa imong binuwan nga bayronon sa kuryente ug makatabang usab sa pagkonserbar sa atong kinaiyahan!",
+			"header": "Pasiga"
+		},
+		"txt_InteriorEcoZoneMechHubVentilation": {
+			"info": "Ang igong bentilasyon nagmintinar sa temperatura, humidity, ug konsumo sa enerhiya sa mga industriyal nga establisamento.",
+			"header": "Bentilasyon"
+		},
+		"txt_InteriorEcoZoneMechHubWindows": {
+			"info": "Kung adlawan, patya ang mga suga ug ipasilabi ang paggamit sa kahayag sa adlaw, labi na sa mga opisina nga adunay dagkong mga bintana sa palibot - ang paggamit sa mga blind o mga kurtina makatabang sa pagkontrol sa temperatura ug pagkaladlad sa adlaw.",
+			"header": "Bintana"
+		},
+		"txt_InteriorEcoZoneOfficeLighting": {
+			"info": "Siguruha nga mogamit og kusog nga kahayag sama sa fluorescent lamp, CFL lamp ug LED lamp - kini makatabang sa pagdaginot sa imong binuwan nga bayranan sa kuryente ug makatabang usab sa pagkonserbar sa kinaiyahan!",
+			"header": "Pasiga"
+		},
+		"txt_InteriorEcoZoneOfficeCentralAir": {
+			"info": "Ang pagmentinar sa air conditioning kinahanglang itakda kanunay aron maseguro nga kini nagtrabaho sa husto sa iyang pinakamaayo nga walay pag-usik sa konsumo sa kuryente.",
+			"header": "Sentro sa Air Conditioning"
+		},
+		"txt_InteriorEcoZoneOfficeWindow": {
+			"info": "Kung adlawan, patya ang mga suga ug ipasilabi ang paggamit sa kahayag sa adlaw, labi na sa mga opisina nga adunay dagkong mga bintana sa palibot - ang paggamit sa mga blind o mga kurtina makatabang sa pagkontrol sa temperatura ug pagkaladlad sa adlaw.",
+			"header": "Bintana"
+		},
+		"txt_InteriorEcoZoneOfficeComputers": {
+			"info": "Tangtangon ang mga elektronikong gamit lakip na ang mga kompyuter kung dili gamiton. Batasana ang pag-tangtang sa dili pa mobiya sa imong lugar trabahoan.",
+			"header": "Kompyuter"
+		},
+		"txt_InteriorEcoZoneOfficeCharger": {
+			"info": "Ang mga estasyon nga episyente sa enerhiya alang sa mga elektronikong gamit makahatag ug dugang bili sa tanang empleyado ug makatabang sa pagdasig kanila nga mahimong mas mahunahunaon sa paggamit sa elektrisidad nga episyente.",
+			"header": "Charger para sa mga mobile device"
+		},
+		"txt_InteriorEcoZoneProcessHubLighting": {
+			"info": "Siguruha nga mogamit og episyente nga suga sama sa light-emitting diode (LED) nga mga bombilya. Makatabang kini nga makadaginot sa imong binuwan nga bayronon sa kuryente ug makatabang usab sa pagkonserbar sa atong kinaiyahan!",
+			"header": "Pasiga"
+		},
+		"txt_InteriorEcoZoneProcessHubVentilation": {
+			"info": "Ang pagtaod sa mga exhaust systems nagmintinar sa kalidad sa hangin sa mga pabrika pinaagi sa pagtangtang sa kontaminado nga hangin sa sulod.",
+			"header": "Bentilasyon"
+		},
+		"txt_InteriorEcoZoneProcessHubCooling": {
+			"info": "Ang pagkonsumo sa elektrisidad sa mga air conditioning systems mahimong makunhuran pinaagi sa pagminos sa kainit gikan sa mga bilding pinaagi sa paggamit sa mga sistema sa paglamig.",
+			"header": "Mga systema ng pangpalamig"
+		},
+		"txt_InteriorEcoZoneProcessHubBoiling1": {
+			"info": "Alang sa paghimo sa alisngaw, gamita ang boiler nga adunay rating sa kahusayan nga 85% pataas.",
+			"header": "Boiler"
+		},
+		"txt_InteriorEcoZoneProcessHubBoiling2": {
+			"info": "Ang mga sistema sa init nga tubig kinahanglan nga adunay epektibo nga awtomatikong pagkontrol sa temperatura.",
+			"header": "Boiler"
+		},
+		"txt_InteriorEcoZonePumpzoneVentilation": {
+			"info": "Gamita ang malungtarong arkitektura ug pag-disenyo sa sulod aron masiguro nga adunay saktong bentilasyon sa processing hub.",
+			"header": "Bentilasyon"
+		},
+		"txt_InteriorEcoZonePumpzoneSteam": {
+			"info": "Ang singaw mas ekonomikanhon kon itandi sa elektrisidad. Kung adunay alisngaw, gamita ang alisngaw aron makamugna og init nga tubig imbes nga kuryente.",
+			"header": "Steam at Hot Water System(Pipelines)"
+		},
+		"txt_InteriorEcoZonePumpzoneGenerator": {
+			"info": "Kung wala ang alisngaw, gamita ang direct-fired hot water generator nga adunay rating sa kahusayan nga 85% ug pataas.",
+			"header": "Generator"
+		},
+		"txt_InteriorEcoZoneWarehouseLighting": {
+			"info": "Siguruha nga mogamit og kusog nga kahayag sama sa fluorescent lamp, CFL lamp ug LED lamp - kini makatabang sa pagdaginot sa imong binuwan nga bayranan sa kuryente ug makatabang usab sa pagkonserbar sa kinaiyahan!",
+			"header": "Pasiga"
+		},
+		"txt_InteriorEcoZoneWarehouseVentilation": {
+			"info": "Gamita ang malungtarong arkitektura ug pag-disenyo sa sulod aron masiguro nga adunay saktong bentilasyon sa processing hub.",
+			"header": "Bentilasyon"
+		},
+		"txt_InteriorEcoZoneWastedDisposalWaterDispoal": {
+			"info": "Ang mga sistema sa paglabay sa basura kinahanglan nga ipatuman nga adunay mga proseso sa lugar. Ang tripulante gi-assign kinahanglan adunay regular nga pagmonitor ug pagreport sa kalidad ug paggamit sa tubig.",
+			"header": "Sistema sa Paglabay sa Tubig"
+		},
+		"txt_InteriorEcoZoneWastedDisposalWaterTreatment": {
+			"info": "Isip kabahin sa pasilidad sa pagtambal sa tubig, ang tanang tubig kinahanglang atimanon pag-ayo ug dapat anaa sa madawat nga lebel sa kalidad sa dili pa ilabay.",
+			"header": "Pagtambal sa tubig"
+		},
+		"txt_InteriorPlazaIntro": {
+			"info": "Naa ka diri sa City Plaza. Mopahulay ta sa atong pagsuroy ug magdula! Unsa ka maayo ang imong nahibal-an bahin sa kahusayan sa enerhiya?",
+			"header": "Mao ni ang Plaza"
+		},
+		"txt_InteriorSeaportIntro": {
+			"info": "Malipayong pag-abot sa Pantalan, ang ganghaan sa mga kaubang siyudad ug munisipyo sa Energia!\nAng Energia ug ang igsuon niini nga local government units (LGUs) nakakat-on gikan sa usag-usa pinaagi sa pagpaambit sa mga labing maayo nga kahanas sa pagpauswag sa enerhiya nga mahimo ug magamit sa ubang LGUs.\nUnsa nga LGU ang gusto nimo sa unahon pagbisita?",
+			"header": "Mao ni ang Pantalan"
+		},
+		"txt_InteriorEnerhiyangAtinIntro": {
+			"info": "Kini ang lugar nga natawhan sa tanan namong mga inisyatibo sa pagpaayo sa enerhiya. Ang among labing maayo nga mga gawi sa kahusayan sa enerhiya gigiyahan sa mga palisiya ug balangkas nga gisulat ug gipatuman sa atong local government unit uban ang suporta gikan sa nasudnong kagamhanan. Basaha ang bahin niini nga mga palisiya sa librarya.",
+			"header": "Mao ni ang Knowledge Hub"
+		},
+		"txt_InteriorEnerhiyangAtinDeskAircon": {
+			"info": "Sumala sa Inter-Agency Energy Efficiency and Conservation Committee (IAEECC) No. 1 ug No. 3, ang tanang buhatan sa gobyerno gimandoan sa paggamit sa episyente sa enerhiya nga inverter-type air-conditioning units o susamang mga teknolohiya. Dugang pa, ang mga air-conditioner sa mga opisina sa gobyerno kinahanglan nga ibutang sa sumbanan nga mga punto sa temperatura 24-25°C aron makadaginot sa enerhiya.",
+			"header": "Air Conditioning"
+		},
+		"txt_InteriorEnerhiyangAtinDeskStairUse": {
+			"info": "Ang paggamit sa hagdanan makamintinar sa maayong panglawas ug makadaginot sa enerhiya. Busa, gamita ang hagdanan kung mahimo nimo.",
+			"header": "Gamit sa Hagdan"
+		},
+		"txt_InteriorEnerhiyangAtinDeskLighting": {
+			"info": "Pag-upgrade sa mga suga pinaagi sa paggamit sa light emitting diode (LED) nga mga bombilya nga episyente sa enerhiya ug mahimong molungtad og 10 ka beses nga mas taas kaysa sa naandan nga mga bombilya.",
+			"header": "Lighting"
+		},
+		"txt_InteriorEnerhiyangAtinOfficeLighting": {
+			"info": "Pag-upgrade sa mga suga pinaagi sa paggamit sa light emitting diode (LED) nga mga bombilya nga episyente sa enerhiya ug mahimong molungtad og 10 ka beses nga mas taas kaysa sa naandan nga mga bombilya.",
+			"header": "Lighting"
+		}
+	}
+}
