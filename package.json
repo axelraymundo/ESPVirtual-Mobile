@@ -8,6 +8,7 @@
     "start": "react-native start",
     "cleanAndroid": "cd ./android && ./gradlew clean",
     "assembleAndroid": "cd ./android && ./gradlew assembleRelease",
+    "bundleAndroid": "cd ./android && ./gradlew bundleRelease",
     "bundleJs": "npx react-native bundle --dev false --platform android --entry-file index.js --bundle-output ./android/app/src/main/assets/index.android.bundle --assets-dest ./android/app/src/main/res",
     "test": "jest",
     "lint": "eslint ."
