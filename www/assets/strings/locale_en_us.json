@@ -202,6 +202,16 @@
 			"align": 1
 		}
 	},
+	"login": {
+		"txt_Terms": {
+			"info": "TERMS OF SERVICE",
+			"header": "Terms of Service"
+		},
+		"txt_Privacy": {
+			"info": "DATA PRIVACY POLICY\nPLEASE READ CAREFULLY\n1 Privacy Statement\n\nThe Department of Energy (DOE) is fully committed to comply with the Republic Act No. 10173 or the Data Privacy Act of 2012 and uphold the rights of the data subjects and to process data according to the privacy principles of transparency, legitimate purpose, and proportionality. It also aims to maintain confidentiality, integrity, and availability of the personal data in its custody.\n\n2 Know your Data Privacy Rights\n\n1. Right to Request Special Privacy Protections. You have the right to request restrictions on certain uses and disclosures of your personal data by a written request, specifying the reason, what information you want to limit, and what limitations on our use or disclosure of that information you wish to impose. If you tell us not to disclose your information, we will abide by your request, unless we must disclose the information for legal reasons or as may be required under the terms of our contract. We reserve the right to accept or reject any other request and will notify you of our decision.\n\n2. Right to Inspect and Copy. You have the right to inspect and request for a copy of your personal data, with limited exceptions. To access your personal data and/or your other personal information, you must submit a written request, including your reason, detailing what information you want to access, whether you want to inspect, and/or if you want a copy of your preferred form and format http://www.doe.gov.ph/dataprivacy/subjdataaccessform . We will provide copies of your request according to its conventional format or the same acceptable alternative format. If there is dispute, we maintain the record in an electronic format, your choice of a readable electronic or hardcopy format. If you wish to send a copy to any other person, there must be a written authorization, which must be duly notarized. We may deny your request under limited circumstances. If we deny your request to access your personal data, or the records of a client you are representing because we believe allowing access would be reasonably likely to cause substantial harm to the client, you will have a right to appeal the denial of the request to the Head of the Bureau, Service or Office concerned.\n\n3. Right to Request Confidential Communications. You have the right to request that you receive your personal data in a specific way or at a specific location; i.e., you may ask that we send data to a particular e-mail account or to your work address. We will comply with all reasonable requests submitted in writing specifying your reason and how or where you wish to receive these communications.\n4. Right to Amend or Supplement. You have the right to request that we amend your personal data that you believe is inaccurate or incomplete. You must make a request for the information to be amended in writing and include the reason of its inaccuracy and incompleteness. We may deny your request if the data is not available, the data is not created by DOE, the request is vexatious or otherwise unreasonable, or the data is accurate and complete as it is. All information related to any request to amend will be maintained and disclosed in conjunction with any subsequent disclosure of the disputed information.\n\n5. Right to Revoke Authorization/Consent. The personal data we collect are used for documentation purposes, research within the control of DOE, for internal use to improve our services, policy decisions and processing of your application or request in accordance with the provisions of R.A. No. 7638 or the Department of Energy Act of 1992 and other DOE policies.\n You may request for the withdrawal, removal, or destruction of your personal data from the DOE's filing system, subject to the provisions of the Data Privacy Act of 2012, the Rules and Regulations of the DOE and National Archives of the Philippines. You may do so by submitting the duly accomplished Personal Data Correction/Erasure Request Form indicating the personal information to be withdrawn, removed, or destroyed and the purpose/s thereof.\n\n6. Right to Erasure or Blocking. You have the right to suspend, withdraw or order the blocking, removal, or destruction of your personal data. You can exercise this right upon discovery and substantial proof of any of the following:\ni. Your personal data is incomplete, outdated, false, or unlawfully obtained; \nii. It is being used for purposes you did not authorize;\niii. The personal data is no longer necessary for the purposes for which they were collected\niv. You requested to withdraw consent, or objected to the sharing of personal information provided that there is no overriding legal ground for personal data processing;nv. The personal data collected concerns information prejudicial to clients unless justified by freedom of speech, of expression, or of the press; or otherwise authorized by law;\nvi. The processing is unlawful; or \nvii. DOE or its personal information processor/s violated your rights as a data subject.\n7. Right to be Informed. You have the right to be informed whether your personal data are being, or have been processed, including the existence of automated decision-making and profiling, if there are any.\nYou shall be notified of the following:\na. Description of the personal data to be entered into the DOE's data processing system;\nb. Purposes for which they are being or will be processed; \nc. Basis of processing, when processing is not based on the consent of the data subject;\nd. Scope and method of the personal data processing; \ne. The recipients or classes of recipients to whom the personal data are or may be disclosed; nf. Methods utilized for automated access, if the same is allowed by the data subject, and the extent to which such access is authorized, including meaningful information about the logic involved, as well as the significance and the envisaged consequences of such processing for the data subject;\nng. The identity and contact details of the personal data controller or its representative;\nh. The period for which the data will be stored; \ni. The existence of their rights as data subjects, including the right to access, correction, and object to the processing, as well as the right to lodge a complaint before the National Privacy Commission.\n\n8. Right to Object. You have the right to object to the processing of your personal data, including processing for direct marketing, automated processing, or profiling. You shall be notified and given an opportunity to withhold consent to the processing in case of changes or any amendment to the data supplied or declared to the data subject in the preceding paragraph. When you object or withhold consent, DOE shall no longer process the personal data, unless:\na. The personal data is needed pursuant to a subpoena and/or is a requirement for processing of documents as fulfillment or performance of constitutionally or statutorily mandated functions;\nb. The collection and processing are for obvious purposes, including, when it is necessary for the performance of or in relation to a contract or service to which the data subject is a party, or when necessary or desirable in the context of an employer-employee relationship between the employer and the data subject; or\nc. The information is being collected and processed because of a legal obligation.\nd. Such other grounds as provided in the Data Privacy Act, its IRR, and other relevant issuances.\n\n9. Right to Be Notified of a Breach. You have the right to receive notifications of breaches of your personal data, as may be required by law. Aside from protecting you against unfair means of personal data collection, this right also requires DOE to notify you in a timely manner if your personal data has been compromised. If you have provided us with a valid e-mail address, we may use e-mail to communicate information related to the breach.\n\n10. Right to Claim Compensation. You may claim compensation if you suffered actual and duly documented damages due to inaccurate, incomplete, outdated, false, unlawfully obtained, or unauthorized use of your personal data, considering any violation of your rights and freedom as data subject.\n\n11. Right to File a Complaint with the National Privacy Commission (NPC). If you feel that your personal data has been unlawfully processed, maliciously disclosed, or improperly disposed, or that any of your data privacy rights have been violated, you have a right to file a complaint with the NPC. Formal complaints are made by filing a complaint-affidavit, together with copies of any evidence and affidavits of any witnesses at any NPC office. Complaints can also be made by electronic filing, by:\na. attaching these documents in a specific e-mail sent to complaints@privacy.gov.ph; or\nb. submitting a portable electronic data storage device to any NPC office. Electronic documents must be digitally signed and in PDF format (if practicable), on page sizes compliant with the Efficient Use of Paper Rule. If submitted in this digital format, the NPC may charge fees for printing. If submitting through a portable electronic data storage device, similar portable data storage devices containing the same files must also be given to any opposing party so named. One portable data storage device is equivalent to one copy. If the portable data storage device is infected with malware, the documents will not be considered as having been filed.\n\n12. Right to a Paper or Electronic Copy of this Notice. You have a right to be notified of our legal duties and privacy practices with respect to your personal data, including a right to a paper copy of this Privacy Notice, even if you have previously requested its receipt by e-mail.\n\nIf you would like to have further information regarding your rights as data subject or how these rights may be exercised, you may refer to the DOE Privacy Policy available in the website or you may contact our Data Protection Officer listed in Section 3 of this Privacy Notice.\n\n3 The Personal Data we Collect\n\nDOE collects personal data about you such as name, contact number, email address and other necessary details to serve your requirement and stores it in a computer system application and/or filing folders. This is your record. The record is the property of the DOE, but the personal data in the record belongs to you. To the extent reasonably necessary to affect the relevant purpose, we may collect data from the following sources:",
+			"header": "Privacy Policy"
+		}
+	},
 	"buildings": {
 		"txt_BuildingOffice": {
 			"info": "Learn all the information pertaining to energy efficient practices at work.",
@@ -220,7 +230,7 @@
 			"header": "Economic Zone"
 		},
 		"txt_BuildingParking": {
-			"info": "Discover the pride of the City of Energia!",
+			"info": "Discover the city's energy efficient practices in the transport sector!",
 			"header": "Transport Hub"
 		},
 		"txt_BuildingEmbassy": {
@@ -232,7 +242,7 @@
 			"header": "Department of Energy Building"
 		},
 		"txt_BuildingSchool": {
-			"info": "Check out the Wattmatters site and learn to calculate your electricity consumption at home!",
+			"info": "Check out the Wattmatters site and learn to calculate your electricity consumption!",
 			"header": "School Area"
 		},
 		"txt_BuildingPlaza": {
@@ -248,6 +258,45 @@
 			"header": "Knowledge Hub"
 		}
 	},
+	"Seaport": {
+		"txt_Seaport_Iloilo": {
+			"header": "Iloilo City",
+			"info": "Iloilo City has passed an ordinance providing an incentive of 20% discount on real estate taxes to households using renewable energy.\nThis has attracted more than 20 households, with two having availed of the net-metering scheme where they can offset the incoming kWh consumption by the electricity produced by the solar home system.\nAdditionally, the Iloilo City Hall is referred to as the first Green Building in the Visayas region. With a rooftop equipped with solar panels which assist air conditioning units at all offices at the 7th floor, the city saves roughly USD 1,200 in electricity cost and estimated carbon dioxide equivalent avoided is placed at 36 metric tons monthly.\n\nEnergy Efficiency and Conservation Best Practices:\n\n*Lobbied for the support of the private sector and external stakeholders to also adopt the program.\n*Demonstrated capacity building activities and energy audits and techno-financial assessments for the private sector, power utilities, and the academe, with support from USAID.\n*loilo City’s EEC best practices were adopted by schools and a commercial establishment.\nSources: Iloilo Today, Iloilo City Environment and Natural Resources Office            "
+		},
+		"txt_Seaport_LapuLapu": {
+			"header": "Lapu Lapu City",
+			"info": "Lapu-lapu City distributed solar panels to 80 households in Caohagan, an islet barangay belonging to the Olango Island Group. Residents of the island used to depend on generators for electricity, and had candles and gas lamps as alternative sources of  light. With solar panels installed, residents now have their own clean and reliable energy supply to light their houses.\n\nSource: Philippine News Agency"
+		},
+		"txt_Seaport_Cagayan": {
+			"header": "Cagayan De Oro City",
+			"info": "Cagayan de Oro City has received an “A” rating in Energy Audit 2021. \n\nThe City has implemented measures estimated to generate 8,383.68 kWh/ year savings or equivalent to Php 83,836.80. The estimated total investment cost is 20,700.00 which has a payback period of about 2.11 years.\n\nEnergy Efficiency and Conservation Best Practices\n*The City Mayor designated an Energy Conservation Officer through an executive order that strengthened their EEC programs and plans for the CDO-LGU. \n* Windows are being utilized by the office to provide natural daylight to improve illumination level but heat infiltration should also be considered in the afternoon.\n* Used efficient LED bulbs for the facility.\n*Cagayan De Oro City – LGU utilizes energy efficient inverter-type ACUs in their facility.\n\nSource: Department of Energy."
+		},
+		"txt_Seaport_Tagum": {
+			"header": "Tagum City",
+			"info": "The Tagum City LGU has received an “A” rating in Energy Audit 2021.\n\nThe City has implemented measures estimated to generate 161,792.11 kWh/ year savings or equivalent to Php 1,635,718.26. The estimated investment cost is Php 5,912,060.00 which has a payback period of about 4.68 years.\n\nEnergy Efficiency and Conservation Best Practices: \n*The City released Executive Order no. 2020-052 issued on the 30th day of June 2020, an order establishing the Energy Efficiency and Conservation Officer (EECO) of the City Government of Tagum. The City of Tagum implements energy conservation measures in their facilities as included in the Memorandum Order dated January 15, 2020, with the Subject “Reiteration and Amendments on the Adoption of Financial Policy & Guidelines of the City Government of Tagum”. The City Mayor's Office also made a public announcement of the Energy Conservation implementation through Memorandum Order No. 229 s. 2020. \n*Installation of energy efficient technologies like Inverter type ACUs\n*Use of Light Emitting Diode (LED) lightings for facilities\n\nSource: Department of Energy"
+		},
+		"txt_Seaport_Tacurong": {
+			"header": "Tacurong City",
+			"info": "With support from the Department of Finance and the Department of Budget and  Management, Tacurong City has replaced its high energy-consuming sodium-vapor lamps with solar-powered LED lights along national roads.\n\nSource: Business Mirror"
+		},
+		"txt_Seaport_BARMM": {
+			"header": "BARMM",
+			"info": "50 solar-powered houses will be built in Maguindanao through the “Kapayapaan sa Pamayanan (KAPYANAN)” project of the Office of the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM). \n\nSource: Philippine News Agency"
+		},
+		"txt_Seaport_Albay": {
+			"header": "Province of Albay",
+			"info": "50 solar-powered houses will be built in Maguindanao through the “Kapayapaan sa Pamayanan (KAPYANAN)” project of the Office of the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM). \n\nSource: Philippine News Agency"
+		},
+		"txt_Seaport_Baguio": {
+			"header": "Baguio City",
+			"info": "Baguio City passed a city ordinance in 2018 which mandates the use of energy conservation technologies in all government facilities and projects. The city ordinance aims to reduce energy consumption of the city and balance its expenditure growth.  \n\nSource: Baguio City Government"
+		},
+		"txt_Seaport_Batangas": {
+			"header": "Batangas City",
+			"info": "In 2019, the Batangas City government in partnership with the Department of Energy (DOE), United States Agency for International Development (USAID), and Manila Electric Company (Meralco), switched-on the First Solar Micro Grid System, a community electrification project for Barangay San Agapito, Isla Verde, Batangas City that provided electricity access to around 40 households.\n\nSource: Batangas City Government "
+		}
+	},
+
 	"dialogue": {
 		"tutorial_1": {
 			"header": "Tutorial",
@@ -286,12 +335,12 @@
 			"info": "Lost? Just tap the icons, arrows, or buildings to explore them. You can always press the red button to exit back to the city."
 		},
 		"doe_reception_female": {
-			"header": "EC Officer",
+			"header": "Energy Conservation (EC) Officer",
 			"info": "Hi, I am the Energy Conservation Officer on duty. Welcome to the City of Energia Government Center. Our agency is mandated to lead energy exploration, development, utilization, distribution and conservation. Let me know how I can assist you."
 		},
 		"doe_reception_male": {
 			"header": "E Focal Officer",
-			"info": "Hi, I am the E-focal person. Would you like know more about energy efficiency and conservation?"
+			"info": "Hi, I am the E-focal person. Feel free to explore our office!"
 		}
 	},
 	"icons": {
@@ -381,12 +430,12 @@
 			"left1": "Conference Room"
 		},
 		"txt_IconOfficePersonal": {
-			"right1": "Cubicle",
+			"right1": "Cubicles",
 			"left1": "Pantry"
 		},
 		"txt_IconOfficeReception": {
 			"right1": "Elevators",
-			"left1": "Cubicle"
+			"left1": "Cubicles"
 		},
 		"txt_IconOfficeRestroom": {
 			"left1": "Elevators"
@@ -424,6 +473,16 @@
 			"right1": "Head North",
 			"left1": "Head South"
 		},
+		"txt_IconSeaportBoardNorthSouth": {
+			"right1": "Head North",
+			"left1": "Head South"
+		},
+		"txt_IconSeaportBoardNorth": {
+			"right1": "Head North"
+		},
+		"txt_IconSeaportBoardSouth": {
+			"left1": "Head South"
+		},
 		"txt_IconEnerhiyangAtinFrontdesk": {
 			"right1": "Library",
 			"left1": "Offices"
@@ -442,7 +501,7 @@
 		},
 		"txt_InteriorQuestion": {
 			"info": "You are currently exploring the [PANELINFO].\nUse the                 to navigate the place. You can also press the icons to learn more about \n\n       Energy Efficiency                           Water Conservation",
-			"header": "Hello There?"
+			"header": "Hello There!"
 		},
 		"txt_InteriorParkingIntro": {
 			"info": "Learn all the information pertaining to energy and water practices in relation to transport, commuting, and similar options.",
@@ -456,16 +515,32 @@
 			"info": "Adding plants around the area contributes to the mitigation of climate change.",
 			"header": "Plants"
 		},
+		"txt_InteriorParkingGarageCar1": {
+			"info": "Try carpooling or ride sharing whenever possible.",
+			"header": "Fuel and Safety Driving Tips"
+		},
+		"txt_InteriorParkingGarageCar2": {
+			"info": "Plan your journey before leaving. Avoid congested routes and roads that are under construction.",
+			"header": "Fuel and Safety Driving Tips"
+		},
+		"txt_InteriorParkingGarageCar3": {
+			"info": "Adding plants around the area contributes to the mitigation of climate change.",
+			"header": "Fuel and Safety Driving Tips"
+		},
 		"txt_InteriorParkingGasLighting": {
 			"info": "Upgrade lighting fixtures by using light emitting diode (LED) light bulbs which are energy efficient and can last 10 times longer than the usual bulbs.",
 			"header": "Lighting"
+		},
+		"txt_InteriorParkingGasGasStation": {
+			"info": "Gas up wisely! Buy gasoline during the coolest time of the day during early morning or late in the afternoon.",
+			"header": "Gasoline Station"
 		},
 		"txt_InteriorParkingGreenTransportSolar": {
 			"info": "Using solar panels significantly reduces carbon footprint and helps save money.",
 			"header": "Solar Panels"
 		},
 		"txt_InteriorParkingGreenTransportCharger": {
-			"info": "Battery low? Solar-powered charging stations like this can charge multiple mobile devices using less energy.",
+			"info": "Battery low? Solar powered charging stations like this can charge multiple mobile devices using less energy.",
 			"header": "Charger for mobile devices"
 		},
 		"txt_InteriorParkingGreenTransportWaiting": {
@@ -493,7 +568,7 @@
 			"header": "This is the Embassy Zone"
 		},
 		"txt_InteriorGovernmentIntro": {
-			"info": "This is the birthplace of all our energy efficiency initiatives. Our energy efficiency best practices are guided by policies and frameworks that are written and implemented by our local government unit with support from the national government. Read about these policies in the library.",
+			"info": "This is the birthplace of all our energy efficiency initiatives. Our energy efficiency best practices are guided by policies and frameworks that are written and implemented by our local government unit with support from the national government.",
 			"header": "Welcome to the Department of Energy"
 		},
 		"txt_InteriorGovernmentLibraryLighting": {
@@ -518,7 +593,7 @@
 		},
 		"txt_InteriorMallCentralAir": {
 			"info": "Aside from shopping, Filipinos go to malls to enjoy its cool and relaxing temperature. Cooling units of commercial establishments should be professionally serviced at least once a year to ensure its efficient performance.",
-			"header": "Air Conditioning"
+			"header": "Central Air Conditioning"
 		},
 		"txt_InteriorMallCentralWindow": {
 			"info": "Windows bring natural light. Natural light not only conserves energy, it is perfect for your selfies too!",
@@ -573,7 +648,7 @@
 			"header": "Ventilation"
 		},
 		"txt_InteriorHouseIntro": {
-			"info": "Like all the houses in the neighborhood, your house is powered by solar-energy and is enrolled in a net metering system.\n\nNet metering partly satisfies your electricity demand through the solar panels installed on your house.",
+			"info": "Like all the houses in the neighborhood, your house is powered by solar energy and is enrolled in a net metering system.\n\nNet metering partly satisfies your electricity demand through the solar panels installed on your house.",
 			"header": "This is your humble abode"
 		},
 		"txt_InteriorHouseLivingLight": {
@@ -661,11 +736,11 @@
 			"header": "Gas Stove"
 		},
 		"txt_InteriorHouseKitchenPlant": {
-			"info": "Did you know that plants in your kitchen contribute to healthy air filtration? And they also sequester carbon which is one of the many ways to mitigate climate change.",
+			"info": "Did you know that plants in your kitchen contribute to healthy air filtration? And they also sequester carbon, which is one of the many ways to mitigate climate change.",
 			"header": "Plants"
 		},
 		"txt_InteriorSchoolIntro": {
-			"info": "It is our goal to share our existing knowledge and best practices with hopes to achieve a ripple effect in the rest of the country.",
+			"info": "It is our goal to share our existing knowledge and best practices with hopes to achieve a ripple effect to the rest of the country.",
 			"header": "Welcome to the Energia Academy!"
 		},
 		"txt_InteriorSchoolClassroomLighting": {
@@ -673,7 +748,7 @@
 			"header": "Lighting"
 		},
 		"txt_InteriorSchoolClassroomAircon": {
-			"info": "Set your air conditioning units to standard temperature point of 24°c to conserve energy.",
+			"info": "Set your air conditioning units to standard temperature points of 24-25°C to conserve energy.",
 			"header": "Air Conditioning"
 		},
 		"txt_InteriorSchoolClassroomStair": {
@@ -681,7 +756,7 @@
 			"header": "Stair Use"
 		},
 		"txt_InteriorOfficeIntro": {
-			"info": "Through the implementation of a Green Building Code, our buildings are designed to reduce the use of energy with due regard to the cost effectiveness, building function, comfort, health, safety, and productivity of occupants. Just like your home, our offices are equipped with energy efficient technologies!",
+			"info": "Through the implementation of a Green Building Code, our buildings are designed to reduce energy use with due regard to the cost effectiveness, building function, comfort, health, safety, and productivity of occupants.\n\nJust like your home, our offices are equipped with energy efficient technologies!",
 			"header": "This is your workplace!"
 		},
 		"txt_InteriorOfficeConferenceLighting": {
@@ -696,8 +771,12 @@
 			"info": "Choose energy efficient light bulbs. You can replace existing bulbs with light emitting diode (LED) lights.",
 			"header": "Lighting"
 		},
-		"txt_InteriorOfficeCubicleCentralAir": {
+		"txt_InteriorOfficeCubicleCentralAir_Old": {
 			"info": "To make cooling more efficient, consider the size of the place before installing air conditioning units.",
+			"header": "Central Air Conditioning"
+		},
+		"txt_InteriorOfficeCubicleCentralAir": {
+			"info": "Set your air conditioning units to standard temperature point of 24-25°C to conserve electricity.",
 			"header": "Central Air Conditioning"
 		},
 		"txt_InteriorOfficeCubicleWindow": {
@@ -709,7 +788,7 @@
 			"header": "Computer"
 		},
 		"txt_InteriorOfficeCubicleCharger": {
-			"info": "Energy efficient charging stations for mobile devices can provide value addition to all employees and help encourage them to be more conscious in using electricity efficiently.",
+			"info": "Energy-efficient charging stations for mobile devices can provide value addition to all employees and encourage them to be more conscious in using electricity efficiently.",
 			"header": "Charger for mobile devices"
 		},
 		"txt_InteriorOfficeCubicleLarge": {
@@ -801,7 +880,7 @@
 			"header": "Ventilation"
 		},
 		"txt_InteriorEcoZoneGarageParking": {
-			"info": "In case of public garages, two or more sides of the garage shall have an opening for cross ventilation and the area opening will be at least 50% of the area of the wall where it is located.",
+			"info": "Enclosed parking garage ventilation systems shall automatically detect contaminant levels by using supervisory control and data acquisition (SCADA) of building management systems (BMS).",
 			"header": "Parking Space"
 		},
 		"txt_InteriorEcoZoneGarageCharging": {
@@ -901,7 +980,7 @@
 			"header": "This is the Seaport"
 		},
 		"txt_InteriorEnerhiyangAtinIntro": {
-			"info": "This is the birthplace of all our energy efficiency initiatives. Our energy efficiency best practices are guided by policies and frameworks that are written and implemented by our local government unit with support from the national government. Read about these policies in the library.",
+			"info": "This is the birthplace of all our energy efficiency initiatives. Our energy efficiency best practices are guided by policies and frameworks that are written and implemented by our local government unit with support from the national government.",
 			"header": "This is the Knowledge Hub"
 		},
 		"txt_InteriorEnerhiyangAtinDeskAircon": {

@@ -202,6 +202,16 @@
 			"align": 1
 		}
 	},
+	"login": {
+		"txt_Terms": {
+			"info": "TERMS OF SERVICE",
+			"header": "Terms of Service"
+		},
+		"txt_Privacy": {
+			"info": "DATA PRIVACY POLICY",
+			"header": "Privacy Policy"
+		}
+	},
 	"buildings": {
 		"txt_BuildingOffice": {
 			"info": "Kat-ona diri tanang impormasyon nga may kalabotan sa mga gawi nga episyente sa enerhiya sa trabahoan.",
@@ -220,7 +230,7 @@
 			"header": "Ekonomikanhong Lugar"
 		},
 		"txt_BuildingParking": {
-			"info": "Diskobreha ang garbo sa Lungsod sa Energia!",
+			"info": "Diskobreha ang mga gawi nga episyente sa enerhiya sa syudad sa sektor sa transportasyon!",
 			"header": "Hub sa Transportasyon"
 		},
 		"txt_BuildingEmbassy": {
@@ -286,12 +296,12 @@
 			"info": "Nawala? I-tap lang ang mga icon, arrow, o mga bilding aron masusi kini. Mahimo nimo nga pindoton ang pula nga button aron makagawas balik sa lungsod."
 		},
 		"doe_reception_female": {
-			"header": "EC Officer",
-			"info": "Kumusta, ako ang opisyal sa Energy Conservation nga nag-duty. Malipayon nga pag-abot sa City of Energia Government Center. Ang among ahensya gimanduan nga manguna sa pagsuhid sa enerhiya, pagpalambo, paggamit, pag-apod-apod ug pagkonserba. Pahibaloa ko kon unsa akong maikaalagad kanimo."
+			"header": "Energy Conservation (EC) Officer",
+			"info": "Kumusta, ako ang nag-duty nga opisyal sa Energy Conservation. Malipayon nga pag-abot sa City of Energia Government Center. Ang among ahensya gimanduan nga manguna sa pagsuhid sa enerhiya, pagpalambo, paggamit, pag-apod-apod ug pagkonserba. Pahibaloa ko kon unsa akong maikaalagad kanimo."
 		},
 		"doe_reception_male": {
 			"header": "E Focal Officer",
-			"info": "Hi, ako ang E-focal person. Gusto ba nimong mahibal-an ang dugang bahin sa pagkaepisyente sa enerhiya ug pagkonserba?"
+			"info": "Hi, ako ang E-focal nga tawo. Gusto ba nimong mahibal-an ang dugang bahin sa kahusayan og pagkonserba sa enerhiya?"
 		}
 	},
 	"icons": {
@@ -392,8 +402,7 @@
 			"left1": "Mga Elevator"
 		},
 		"txt_IconEcoZoneEcoPart": {
-			"right1": "Bodega",
-			"left1": "Mga Opisina"
+			"right1": "Bodega"
 		},
 		"txt_IconEcoZoneGarage": {
 			"right1": "Processing Hub",
@@ -457,9 +466,25 @@
 			"info": "Ang pagdugang sa mga tanum sa palibot sa lugar makatampo sa pagpagaan sa pagbag-o sa klima.",
 			"header": "Mga Tanum"
 		},
+		"txt_InteriorParkingGarageCar1": {
+			"info": "Kon mahimo sulayi ang carpooling o pagpaambit sa pagsakay.",
+			"header": "Fuel and Safety Driving Tips"
+		},
+		"txt_InteriorParkingGarageCar2": {
+			"info": "Planoha ang imong lakaw sa dili pa mobiya. Paglikay sa naghuot nga mga ruta ug mga dalan nga ginabuhat pa.",
+			"header": "Fuel and Safety Driving Tips"
+		},
+		"txt_InteriorParkingGarageCar3": {
+			"info": "Ang pagdugang ug mga tanum sa palibot sa lugar makatampo sa pagpagaan sa pagbag-o sa klima.",
+			"header": "Fuel and Safety Driving Tips"
+		},
 		"txt_InteriorParkingGasLighting": {
 			"info": "Pag-upgrade sa mga suga pinaagi sa paggamit sa light emitting diode (LED) nga mga bombilya nga episyente sa enerhiya ug mahimong molungtad og 10 ka beses nga mas taas kaysa sa naandan nga mga bombilya.",
 			"header": "Pasiga"
+		},
+		"txt_InteriorParkingGasGasStation": {
+			"info": "Mahimong maalamon sa pagpa-gas! Pagpalit og gasolina sa pinakabugnaw nga oras sa adlaw sa sayong buntag o sa hapon.",
+			"header": "Gasolinahan"
 		},
 		"txt_InteriorParkingGreenTransportSolar": {
 			"info": "Ang paggamit sa mga solar panel makapakunhod pag-ayo sa carbon footprint ug makatabang sa pagtipig sa salapi.",
@@ -482,7 +507,7 @@
 			"header": "Istasyon sa pag-charge para sa mga EV"
 		},
 		"txt_InteriorParkingSolarSolar": {
-			"info": "Ang paggamit sa mga solar panel makapakunhod pag-ayo sa carbon footprint ug makatabang sa pagtipig sa salapi. Ang paggamit sa solar isip elektrisidad makatabang sa pagkonserbar sa kinaiyahan.",
+			"info": "Ang paggamit sa mga solar panel makapakunhod pag-ayo sa carbon footprint ug makatabang sa pagtipig sa salapi.",
 			"header": "Solar Panels"
 		},
 		"txt_InteriorParkingTransportWaiting": {
@@ -519,7 +544,7 @@
 		},
 		"txt_InteriorMallCentralAir": {
 			"info": "Gawas sa pagpamalit, ang mga Pilipino moadto sa mga mall aron matagamtam ang bugnaw ug makapahayahay nga temperatura. Ang mga cooling unit sa mga komersyal nga establisemento kinahanglan propesyonal nga serbisyohan labing minos kausa sa usa ka tuig aron masiguro ang episyente nga paggana niini.",
-			"header": "Air conditioning"
+			"header": "Air Conditioner"
 		},
 		"txt_InteriorMallCentralWindow": {
 			"info": "Ang mga bintana nagdala ug natural nga kahayag. Ang natural nga kahayag dili lamang makatipig sa enerhiya, kini perpekto usab alang sa imong mga selfie!",
@@ -578,7 +603,7 @@
 			"header": "Kini ang imong mapaubsanong puloy-anan"
 		},
 		"txt_InteriorHouseLivingLight": {
-			"info": "Ang Light Emitting Diode o LED nga mga bombilya sa suga molungtad og dugay kaysa ubang mga klase sa suga. Dugang pa, makadaginot kini ug 50% sa konsumo sa kuryente. Busa, balhin sa LED!",
+			"info": "Ang Light Emitting Diode o LED nga mga bombilya sa suga molungtad og dugay kaysa ubang mga klase sa suga. Dugang pa, makadaginot kini ug 50% sa konsumo sa kuryente.\n\nBusa, balhin sa LED!",
 			"header": "Pasiga"
 		},
 		"txt_InteriorHouseLivingElectric": {
@@ -610,7 +635,7 @@
 			"header": "Mga Tanum"
 		},
 		"txt_InteriorHouseBedroomAircon": {
-			"info": "Kahibalo ba mo nga ang paglimpyo sa mga filter ug condenser sa mga air conditioning unit makadaginot ug 100 pesos kada buwan? Busa, siguruha nga mamintinar ang imong mga AC.",
+			"info": "Kahibalo ba ka nga ang paglimpyo sa mga filter ug condenser sa mga air conditioning unit makadaginot ug 100 pesos kada buwan? Busa, siguruha nga mamintinar ang imong mga air conditioning unit.",
 			"header": "Erkon"
 		},
 		"txt_InteriorHouseBedroomCharger": {
@@ -683,10 +708,10 @@
 		},
 		"txt_InteriorSchoolClassroomAircon": {
 			"info": "I-set ang imong air conditioning units sa sumbanan nga temperatura nga 24°c para makadaginot og enerhiya.",
-			"header": "Air Conditioning"
+			"header": "Air Conditioner"
 		},
 		"txt_InteriorSchoolClassroomStair": {
-			"info": "Ang paggamit sa hagdanan makamintinar sa maayong panglawas ug makadaginot sa enerhiya. Busa, gamita ang hagdanan kung mahimo nimo.",
+			"info": "Ang paggamit sa hagdanan makamintinar sa maayong panglawas ug makadaginot sa enerhiya. Busa, kung mahimo gamita ang hagdanan.",
 			"header": "Gamit sa Hagdan"
 		},
 		"txt_InteriorOfficeIntro": {
@@ -718,7 +743,7 @@
 			"header": "Kompyuter"
 		},
 		"txt_InteriorOfficeCubicleCharger": {
-			"info": "Ang mga estasyon nga episyente sa enerhiya alang sa mga elektronikong gamit makahatag ug dugang bili sa tanang empleyado ug makatabang sa pagdasig kanila nga mahimong mas mahunahunaon sa paggamit sa elektrisidad nga episyente.",
+			"info": "Ang mga estasyon nga episyente sa enerhiya alang sa mga elektronikong gamit makahatag ug dugang bili sa tanang empleyado sa pagdasig kanila nga mahimong mas mahunahunaon sa paggamit sa elektrisidad nga episyente.",
 			"header": "Charger para sa mga mobile device"
 		},
 		"txt_InteriorOfficeCubicleLarge": {
@@ -750,7 +775,7 @@
 			"header": "Bentilasyon"
 		},
 		"txt_InteriorOfficePersonalLighting": {
-			"info": "Pilia ang mga bombilya nga episyente sa enerhiya. Mahimo nimong ilisan ang kasamtangan nga mga bombilya gamit ang light-emitting diode (LED) nga mga suga.",
+			"info": "Pilia ang mga bombilya nga episyente sa enerhiya. Mahimo nimong ilisan ang kasamtangan nga mga bombilya gamit ang light emitting diode (LED) nga mga suga.",
 			"header": "Pasiga"
 		},
 		"txt_InteriorOfficePersonalCentralAir": {
@@ -778,8 +803,8 @@
 			"header": "Pasiga"
 		},
 		"txt_InteriorOfficeReceptionAircon": {
-			"info": "Importante ang gidak-on sa lawak sa pagpili sa air-conditioning unit para sa imong lugar trabahoan. Itaud ang air-conditioning unit sa pinakabugnaw nga bahin sa kwarto, kung mahimo, didto sa landong nga bahin diin ang pinakalabing maayo ang sirkulasyon sa hangin.",
-			"header": "Air condition"
+			"info": "Importante nga lantawon ang air-conditioning unit nga gamiton base sa kadak-on sa kwarto o trabahoan. Itaud ang air-conditioning unit sa pinakabugnaw na dapit sa kwarto. Kung mahimo, didto sa landong na dapit diin pinakalabing maayo ang sirkulasyon sa hangin.",
+			"header": "Air Conditioner"
 		},
 		"txt_InteriorOfficeReceptionWindow": {
 			"info": "Ang mga moderno ug episyente sa enerhiya nga mga bilding nagpahimulos sa natural nga kahayag aron makatipig sa konsumo sa kuryente.",
@@ -814,11 +839,11 @@
 			"header": "Bentilasyon"
 		},
 		"txt_InteriorEcoZoneGarageParking": {
-			"info": "Sa kaso sa mga pampublikong garahe, duha o daghan pa nga kilid sa garahe kinahanglan adunay usa ka pag-abli alang sa cross ventilation ug ang pag-abli sa lugar labing minos 50% sa lugar sa dingding diin kini nahimutang.",
+			"info": "Sa kaso sa mga pampublikong garahi-an, ang duha o uban pa nga kilid sa garahi-an kinahanglan adunay usa pa ka abli alang sa cross ventilation ug ang ablihanan nga lugar labing menos 50% sa lugar sa dingding diin kini nahimutang.",
 			"header": "Paradahan"
 		},
 		"txt_InteriorEcoZoneGarageCharging": {
-			"info": "Ang pag-instalar sa mga istasyon sa pag-charge sa parking area mas dali ug sayon nalang sa pag-recharge sa mga electric vehicle (EVs).",
+			"info": "Ang pag instalar sa mga istasyon sa pagcharge sa parking area mas dali ug sayon nalang alang sa mga electric vehicles.",
 			"header": "Istasyon sa pag-charge para sa mga EV"
 		},
 		"txt_InteriorEcoZoneGarageSolar": {
@@ -866,7 +891,7 @@
 			"header": "Bentilasyon"
 		},
 		"txt_InteriorEcoZoneProcessHubCooling": {
-			"info": "Ang pagkonsumo sa elektrisidad sa mga air conditioning systems mahimong makunhuran pinaagi sa pagminos sa kainit gikan sa mga bilding pinaagi sa paggamit sa mga sistema sa paglamig.",
+			"info": "Ang pagkonsumo sa elektridad sa air conditioning systems mahimong makunhuran pinaagi sa paggamit sa saktong sistema sa pagpabugnaw.",
 			"header": "Mga systema ng pangpalamig"
 		},
 		"txt_InteriorEcoZoneProcessHubBoiling1": {
@@ -919,10 +944,10 @@
 		},
 		"txt_InteriorEnerhiyangAtinDeskAircon": {
 			"info": "Sumala sa Inter-Agency Energy Efficiency and Conservation Committee (IAEECC) No. 1 ug No. 3, ang tanang buhatan sa gobyerno gimandoan sa paggamit sa episyente sa enerhiya nga inverter-type air-conditioning units o susamang mga teknolohiya. Dugang pa, ang mga air-conditioner sa mga opisina sa gobyerno kinahanglan nga ibutang sa sumbanan nga mga punto sa temperatura 24-25°C aron makadaginot sa enerhiya.",
-			"header": "Air Conditioning"
+			"header": "Air Conditioner"
 		},
 		"txt_InteriorEnerhiyangAtinDeskStairUse": {
-			"info": "Ang paggamit sa hagdanan makamintinar sa maayong panglawas ug makadaginot sa enerhiya. Busa, gamita ang hagdanan kung mahimo nimo.",
+			"info": "Ang paggamit sa hagdanan makamintinar sa maayong panglawas ug makadaginot sa enerhiya. Busa, kung mahimo gamita ang hagdanan.",
 			"header": "Gamit sa Hagdan"
 		},
 		"txt_InteriorEnerhiyangAtinDeskLighting": {

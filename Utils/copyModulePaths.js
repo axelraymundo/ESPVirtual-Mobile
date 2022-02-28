@@ -32,6 +32,13 @@ export const copyModulePaths = async () => {
     await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/school`);
     await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport`);
     await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport/clip`);
+    await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu`);
+    await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/batangas`);
+    await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/batangascity`);
+    await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/cagayan`);
+    await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/iloilo`);
+    await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/tagum`);
+
     await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${images}/quiz_engine/bg`);
     await RNFS.mkdir(
       RNFS.DocumentDirectoryPath + `${images}/quiz_engine/image`,
@@ -157,7 +164,7 @@ export const copyModulePaths = async () => {
       `${images2}/building/labels/residential_button.png`,
       `${images2}/building/labels/school_button.png`,
       `${images2}/building/labels/seaport_button.png`,
-      `${images2}/building/labels/transport_area_button.png`,
+      `${images2}/building/labels/transport_hub_button.png`,
 
       //building
       `${images2}/building/bgblack_Circle.png`,
@@ -318,6 +325,29 @@ export const copyModulePaths = async () => {
       //interior seaport clip
       `${interior2}/seaport/clip/cliptemp.png`,
 
+      //interior seaport lgu batangas
+      `${interior2}/seaport/lgu/batangas/content.png`,
+      `${interior2}/seaport/lgu/batangas/preview.png`,
+
+      //batangascity
+      `${interior2}/seaport/lgu/batangascity/Screenshot 2022-02-09 100159.png`,
+    
+      //cagayan
+      `${interior2}/seaport/lgu/cagayan/CDO Photo 1 - GEMP Awarding.png`,
+      `${interior2}/seaport/lgu/cagayan/content.png`,
+      `${interior2}/seaport/lgu/cagayan/preview.png`,
+
+      //iloilo
+      `${interior2}/seaport/lgu/iloilo/content.png`,
+      `${interior2}/seaport/lgu/iloilo/Picture1.png`,
+      `${interior2}/seaport/lgu/iloilo/Picture2.png`,
+      `${interior2}/seaport/lgu/iloilo/preview.png`,
+
+      //tagum
+      `${interior2}/seaport/lgu/tagum/content.png`,
+      `${interior2}/seaport/lgu/tagum/preview.png`,
+      `${interior2}/seaport/lgu/tagum/Tagum City Photo 1 - GEMP Awarding.png`,
+
       //interior seaport
       `${interior2}/seaport/corkboard_1.jpg`,
       `${interior2}/seaport/corkboard_2.jpg`,
@@ -461,6 +491,8 @@ export const copyModulePaths = async () => {
       `${images2}/ui/login/green_arrow_left.png`,
       `${images2}/ui/login/green_arrow.png`,
       `${images2}/ui/login/logo.png`,
+      `${images2}/ui/login/markoff.png`,
+      `${images2}/ui/login/markon.png`,
       `${images2}/ui/login/scroll_bar_dragger.png`,
       `${images2}/ui/login/scroll_bar.png`,
       `${images2}/ui/login/smaller_logo.png`,

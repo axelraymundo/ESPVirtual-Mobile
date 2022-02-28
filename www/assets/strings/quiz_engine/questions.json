@@ -8,8 +8,8 @@
                     "id": 1,
                     "text": "This Act institutionalizes energy efficiency and conservation, enhances the efficient use of energy, and grants incentives to energy efficiency and conservation projects.",
                     "image": {
-                        "location": "assets/images/quiz_engine/image/image.png",
-                        "key": "key_1"
+                        "location": "",
+                        "key": ""
                     },
                     "choices": [
                         {
@@ -30,8 +30,8 @@
                     "id": 2,
                     "text": "To lessen the energy consumption of your air-conditioning unit, how often should you clean the filters?",
                     "image": {
-                        "location": "assets/images/quiz_engine/image/image.png",
-                        "key": "key_1"
+                        "location": "",
+                        "key": ""
                     },
                     "choices": [
                         {
@@ -84,8 +84,8 @@
                     "id": 5,
                     "text": "Choosing the right size of air-conditioning unit for your room will save you money.",
                     "image": {
-                        "location": "assets/images/quiz_engine/image/image.png",
-                        "key": "key_5"
+                        "location": "",
+                        "key": ""
                     },
                     "choices": [
                         {
@@ -102,8 +102,8 @@
                     "id": 6,
                     "text": "Use of electric vehicles reduces the threat of experiencing fuel supply disruptions and at the same time contributes to solving the problem of climate change.",
                     "image": {
-                        "location": "assets/images/quiz_engine/image/image.png",
-                        "key": "key_5"
+                        "location": "",
+                        "key": ""
                     },
                     "choices": [
                         {
@@ -120,8 +120,8 @@
                     "id": 7,
                     "text": "How often should cooling units in commercial establishments be professionally serviced?",
                     "image": {
-                        "location": "assets/images/quiz_engine/image/image.png",
-                        "key": "key_3"
+                        "location": "",
+                        "key": ""
                     },
                     "choices": [
                         {
@@ -142,8 +142,8 @@
                     "id": 8,
                     "text": "How much will you save if you turn-off one light bulb for six hours?",
                     "image": {
-                        "location": "assets/images/quiz_engine/image/image.png",
-                        "key": "key_2"
+                        "location": "",
+                        "key": ""
                     },
                     "choices": [
                         {
@@ -198,8 +198,8 @@
                     "id": 1,
                     "text": "To be energy efficient, before leaving the office, you must:",
                     "image": {
-                        "location": "assets/images/quiz_engine/image/image.png",
-                        "key": "key_1"
+                        "location": "",
+                        "key": ""
                     },
                     "choices": [
                         {
@@ -216,8 +216,8 @@
                     "id": 2,
                     "text": "What does LED stand for?",
                     "image": {
-                        "location": "assets/images/quiz_engine/image/image.png",
-                        "key": "key_1"
+                        "location": "",
+                        "key": ""
                     },
                     "choices": [
                         {
@@ -292,8 +292,8 @@
                     "id": 6,
                     "text": "When was the Energy Efficiency and Conservation Act signed?",
                     "image": {
-                        "location": "assets/images/quiz_engine/image/image.png",
-                        "key": "key_5"
+                        "location": "",
+                        "key": ""
                     },
                     "choices": [
                         {
@@ -314,8 +314,8 @@
                     "id": 7,
                     "text": "What is the coverage of the Government Energy Management Program (GEMP)?",
                     "image": {
-                        "location": "assets/images/quiz_engine/image/image.png",
-                        "key": "key_3"
+                        "location": "",
+                        "key": ""
                     },
                     "choices": [
                         {
@@ -336,8 +336,8 @@
                     "id": 8,
                     "text": "Which contributes to additional 5 to 15% electricity consumption of air-conditioners?",
                     "image": {
-                        "location": "assets/images/quiz_engine/image/image.png",
-                        "key": "key_2"
+                        "location": "",
+                        "key": ""
                     },
                     "choices": [
                         {
@@ -400,8 +400,8 @@
                     "id": 1,
                     "text": "It is an investigation, a survey of WHERE, WHEN and HOW energy is being used",
                     "image": {
-                        "location": "assets/images/quiz_engine/image/image.png",
-                        "key": "key_1"
+                        "location": "",
+                        "key": ""
                     },
                     "choices": [
                         {
@@ -422,8 +422,8 @@
                     "id": 2,
                     "text": "A unit of measurement equals to the amount of energy used if a 1,000-watt appliance runs for an hour",
                     "image": {
-                        "location": "assets/images/quiz_engine/image/image.png",
-                        "key": "key_1"
+                        "location": "",
+                        "key": ""
                     },
                     "choices": [
                         {
@@ -502,8 +502,8 @@
                     "id": 6,
                     "text": "The higher the energy efficinecy ratio (EER), the more energy-saving the unit is.",
                     "image": {
-                        "location": "assets/images/quiz_engine/image/image.png",
-                        "key": "key_5"
+                        "location": "",
+                        "key": ""
                     },
                     "choices": [
                         {
@@ -520,8 +520,8 @@
                     "id": 7,
                     "text": "Why is an energy label important?",
                     "image": {
-                        "location": "assets/images/quiz_engine/image/image.png",
-                        "key": "key_3"
+                        "location": "",
+                        "key": ""
                     },
                     "choices": [
                         {
@@ -542,8 +542,8 @@
                     "id": 8,
                     "text": "Where is the best place to install an air-conditioner?",
                     "image": {
-                        "location": "assets/images/quiz_engine/image/image.png",
-                        "key": "key_2"
+                        "location": "",
+                        "key": ""
                     },
                     "choices": [
                         {
@@ -598,8 +598,8 @@
                     "id": 1,
                     "text": "Choose a description that best fits energy efficiency.",
                     "image": {
-                        "location": "assets/images/quiz_engine/image/image.png",
-                        "key": "key_1"
+                        "location": "",
+                        "key": ""
                     },
                     "choices": [
                         {
@@ -620,8 +620,8 @@
                     "id": 2,
                     "text": "Choose a description that best fits energy conservation.",
                     "image": {
-                        "location": "assets/images/quiz_engine/image/image.png",
-                        "key": "key_1"
+                        "location": "",
+                        "key": ""
                     },
                     "choices": [
                         {
@@ -696,8 +696,8 @@
                     "id": 6,
                     "text": "Discusses how to avoid jack-rabbit starts when driving",
                     "image": {
-                        "location": "assets/images/quiz_engine/image/image.png",
-                        "key": "key_5"
+                        "location": "",
+                        "key": ""
                     },
                     "choices": [
                         {
@@ -718,8 +718,8 @@
                     "id": 7,
                     "text": "Which of the following is not part of the energy audit process?",
                     "image": {
-                        "location": "assets/images/quiz_engine/image/image.png",
-                        "key": "key_3"
+                        "location": "",
+                        "key": ""
                     },
                     "choices": [
                         {
@@ -740,8 +740,8 @@
                     "id": 8,
                     "text": "Which is NOT a type of energy audit?",
                     "image": {
-                        "location": "assets/images/quiz_engine/image/image.png",
-                        "key": "key_2"
+                        "location": "",
+                        "key": ""
                     },
                     "choices": [
                         {

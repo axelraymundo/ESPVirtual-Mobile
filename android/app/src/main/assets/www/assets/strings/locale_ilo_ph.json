@@ -202,49 +202,59 @@
 			"align": 1
 		}
 	},
+	"login": {
+		"txt_Terms": {
+			"info": "TERMS OF SERVICE",
+			"header": "Terms of Service"
+		},
+		"txt_Privacy": {
+			"info": "DATA PRIVACY POLICY\nPLEASE READ CAREFULLY\n1 Privacy Statement\n\nThe Department of Energy (DOE) is fully committed to comply with the Republic Act No. 10173 or the Data Privacy Act of 2012 and uphold the rights of the data subjects and to process data according to the privacy principles of transparency, legitimate purpose, and proportionality. It also aims to maintain confidentiality, integrity, and availability of the personal data in its custody.\n\n2 Know your Data Privacy Rights\n\n 1. Right to Request Special Privacy Protections. You have the right to request restrictions on certain uses and disclosures of your personal data by a written request, specifying the reason, what information you want to limit, and what limitations on our use or disclosure of that information you wish to impose. If you tell us not to disclose your information, we will abide by your request, unless we must disclose the information for legal reasons or as may be required under the terms of our contract. We reserve the right to accept or reject any other request and will notify you of our decision.\n2. Right to Inspect and Copy. You have the right to inspect and request for a copy of your personal data, with limited exceptions. To access your personal data and/or your other personal information, you must submit a written request, including your reason, detailing what information you want to access, whether you want to inspect, and/or if you want a copy of your preferred form and format http://www.doe.gov.ph/dataprivacy/subjdataaccessform . We will provide copies of your request according to its conventional format or the same acceptable alternative format. If there is dispute, we maintain the record in an electronic format, your choice of a readable electronic or hardcopy format. If you wish to send a copy to any other person, there must be a written authorization, which must be duly notarized. We may deny your request under limited circumstances. If we deny your request to access your personal data, or the records of a client you are representing because we believe allowing access would be reasonably likely to cause substantial harm to the client, you will have a right to appeal the denial of the request to the Head of the Bureau, Service or Office concerned.\n 3. Right to Request Confidential Communications. You have the right to request that you receive your personal data in a specific way or at a specific location; i.e., you may ask that we send data to a particular e-mail account or to your work address. We will comply with all reasonable requests submitted in writing specifying your reason and how or where you wish to receive these communications.\n 4. Right to Amend or Supplement. You have the right to request that we amend your personal data that you believe is inaccurate or incomplete. You must make a request for the information to be amended in writing and include the reason of its inaccuracy and incompleteness. We may deny your request if the data is not available, the data is not created by DOE, the request is vexatious or otherwise unreasonable, or the data is accurate and complete as it is. All information related to any request to amend will be maintained and disclosed in conjunction with any subsequent disclosure of the disputed information.\n 5. Right to Revoke Authorization/Consent. The personal data we collect are used for documentation purposes, research within the control of DOE, for internal use to improve our services, policy decisions and processing of your application or request in accordance with the provisions of R.A. No. 7638 or the Department of Energy Act of 1992 and other DOE policies.\n You may request for the withdrawal, removal, or destruction of your personal data from the DOE's filing system, subject to the provisions of the Data Privacy Act of 2012, the Rules and Regulations of the DOE and National Archives of the Philippines. You may do so by submitting the duly accomplished Personal Data Correction/Erasure Request Form indicating the personal information to be withdrawn, removed, or destroyed and the purpose/s thereof.\n6. Right to Erasure or Blocking. You have the right to suspend, withdraw or order the blocking, removal, or destruction of your personal data. You can exercise this right upon discovery and substantial proof of any of the following:\ni. Your personal data is incomplete, outdated, false, or unlawfully obtained; \nii. It is being used for purposes you did not authorize;\niii. The personal data is no longer necessary for the purposes for which they were collected\niv. You requested to withdraw consent, or objected to the sharing of personal information provided that there is no overriding legal ground for personal data processing;nv. The personal data collected concerns information prejudicial to clients unless justified by freedom of speech, of expression, or of the press; or otherwise authorized by law;\nvi. The processing is unlawful; or \nvii. DOE or its personal information processor/s violated your rights as a data subject.\n7. Right to be Informed. You have the right to be informed whether your personal data are being, or have been processed, including the existence of automated decision-making and profiling, if there are any.\nYou shall be notified of the following:\na. Description of the personal data to be entered into the DOE's data processing system;\nb. Purposes for which they are being or will be processed; \nc. Basis of processing, when processing is not based on the consent of the data subject;\nd. Scope and method of the personal data processing; \ne. The recipients or classes of recipients to whom the personal data are or may be disclosed; nf. Methods utilized for automated access, if the same is allowed by the data subject, and the extent to which such access is authorized, including meaningful information about the logic involved, as well as the significance and the envisaged consequences of such processing for the data subject;\nng. The identity and contact details of the personal data controller or its representative;\nh. The period for which the data will be stored; \ni. The existence of their rights as data subjects, including the right to access, correction, and object to the processing, as well as the right to lodge a complaint before the National Privacy Commission.",
+			"header": "Privacy Policy"
+		}
+	},
 	"buildings": {
 		"txt_BuildingOffice": {
-			"info": "Learn all the information pertaining to energy efficient practices at work.",
-			"header": "Business Area"
+			"info": "Adalen iti amin nga impormasyon panggep iti pinagtipid ti enerhiya idjay trabaho.",
+			"header": "Lugar iti Negosyo"
 		},
 		"txt_BuildingHouse": {
-			"info": "Learn all the information pertaining to energy efficient practices at home.",
-			"header": "Residential Area"
+			"info": "Adalen iti amin nga impormasyon panggep iti pinagtipid ti enerhiya idjay balay.",
+			"header": "Kabalbalayan / Lugar iti Kabalayan"
 		},
 		"txt_BuildingMall": {
-			"info": "Learn all the information pertaining to energy efficient practices in malls and establishments.",
-			"header": "Commercial Area"
+			"info": "Adalen iti amin nga impormasyon panggep iti pinagtipid ti enerhiya idjay mall ken establisemento.",
+			"header": "Lugar iti Komersyo"
 		},
 		"txt_BuildingEconomic": {
-			"info": "Learn all the information pertaining to energy efficient practices in the industrial sector.",
-			"header": "Economic Zone"
+			"info": "Adalen iti amin nga impormasyon panggep iti pinagtipid ti enerhiya idjay sector iti pagsapulan.",
+			"header": "Lugar iti Ekonomiya"
 		},
 		"txt_BuildingParking": {
-			"info": "Discover the pride of the City of Energia!",
-			"header": "Transport Hub"
+			"info": "Biruken jay Tan-oc iti Siudad ti Energia!",
+			"header": "Hub iti Transportasyon"
 		},
 		"txt_BuildingEmbassy": {
-			"info": "Know more about the initiative of USAID Energy Secure Philippine Activity, in partnership with the Department of Energy.",
-			"header": "Embassy"
+			"info": "Adalen amin nga maipanggep iti siudad ti Energia.",
+			"header": "Embahada"
 		},
 		"txt_BuildingGov": {
-			"info": "Find out more about the different government policies pertaining to energy and water efficiency practices.",
-			"header": "Department of Energy Building"
+			"info": "Ammuen dagiti patakaran iti gobyerno panggep iti pinagtipid ti enerhiya ken iti danum.",
+			"header": "Gusali sa Department of Energy"
 		},
 		"txt_BuildingSchool": {
-			"info": "Check out the Wattmatters site and learn to calculate your electricity consumption at home!",
-			"header": "School Area"
+			"info": "Kitaen iti Wattmatters site ken adalen nu kasano iti pinagkalkular ti konsumo ti enerhiya idjay balay!",
+			"header": "Pagadalan"
 		},
 		"txt_BuildingPlaza": {
-			"info": "Test your knowledge in a fun and exciting way! Come on over, join us and let's play.",
-			"header": "Plaza Area"
+			"info": "Padasen iti laing! Kumadua kadakami tapno lumawa iti sursuro panggep ti pinagtipid iti enerhiya!",
+			"header": "Plaza"
 		},
 		"txt_BuildingSeaport": {
-			"info": "Explore the country's energy efficient cities through island hopping!",
-			"header": "Seaport"
+			"info": "Ammuen dagiti pakasaritaan iti LGU ken ana iti naaramidan da para iti enerhiya ken danum",
+			"header": "Pantalan"
 		},
 		"txt_BuildingKnowledge": {
-			"info": "",
+			"info": "Ammuen dagiti patakaran iti gobyerno panggep iti pinagtipid ti enerhiya ken iti danum.",
 			"header": "Knowledge Hub"
 		}
 	},
@@ -286,7 +296,7 @@
 			"info": "Lost? Just tap the icons, arrows, or buildings to explore them. You can always press the red button to exit back to the city."
 		},
 		"doe_reception_female": {
-			"header": "EC Officer",
+			"header": "Energy Conservation (EC) Officer",
 			"info": "Welcome to the Department of Energy building."
 		},
 		"doe_reception_male": {
@@ -296,26 +306,26 @@
 	},
 	"icons": {
 		"txt_IconParkingGarage": {
-			"left1": "Gas Station",
-			"right1": "Solar Charging Station"
+			"left1": "Gasolinaan",
+			"right1": "Istasyon iti Solar Charger"
 		},
 		"txt_IconParkingGas": {
-			"left1": "Public Transport",
-			"right1": "Parking Lot"
+			"left1": "Pampubliko nga Transportasyon",
+			"right1": "Paradaan"
 		},
 		"txt_IconParkingGreenTransport": {
-			"left1": "Solar Charging Station"
+			"left1": "Istasyon iti Solar Charger"
 		},
 		"txt_IconParkingSolar": {
-			"left1": "Parking Lot",
-			"right1": "Green Public Transport"
+			"left1": "Paradaan",
+			"right1": "Alternatibo nga Pampubliko a Transportasyon"
 		},
 		"txt_IconParkingTransport": {
-			"right1": "Gas Station"
+			"right1": "Gasolinaan"
 		},
 		"txt_IconGovernmentFrontdesk": {
 			"right1": "Library",
-			"left1": "Offices"
+			"left1": "Opisina"
 		},
 		"txt_IconGovernmentLibrary": {
 			"left1": "Reception"
@@ -325,39 +335,39 @@
 			"left1": "Parking"
 		},
 		"txt_IconGovernmentParking": {
-			"right1": "Offices"
+			"right1": "Opisina"
 		},
 		"txt_IconMallCentral": {
-			"left1": "Display Area"
+			"left1": "Paglakwan idiay Mall"
 		},
 		"txt_IconMallDisplay": {
-			"right1": "Central Open Area",
-			"left1": "Food Court"
+			"right1": "Nalawa nga Espasyo",
+			"left1": "Lugar Panganan"
 		},
 		"txt_IconMallFoodCourt": {
-			"right1": "Display Area",
-			"left1": "Restroom"
+			"right1": "Paglakwan idiay Mall",
+			"left1": "Banyo"
 		},
 		"txt_IconMallBathroom": {
-			"right1": "Food Court"
+			"right1": "Lugar Panganan"
 		},
 		"txt_IconHouseLiving": {
-			"right1": "Kitchen",
-			"left1": "Bedroom"
+			"right1": "Kusina",
+			"left1": "Kwarto"
 		},
 		"txt_IconHouseBedroom": {
-			"right1": "Living Room",
-			"left1": "Bathroom"
+			"right1": "Sala",
+			"left1": "Banyo / Kasilya"
 		},
 		"txt_IconHouseBathroom": {
-			"right1": "Bedroom"
+			"right1": "Kwarto"
 		},
 		"txt_IconHouseGarden": {
-			"left1": "Kitchen"
+			"left1": "Kusina"
 		},
 		"txt_IconHouseKitchen": {
-			"right1": "Garden",
-			"left1": "Living Room"
+			"right1": "Mula",
+			"left1": "Sala"
 		},
 		"txt_IconSchoolClassroom": {
 			"right1": "Library"
@@ -445,156 +455,156 @@
 			"header": "Hello There?"
 		},
 		"txt_InteriorParkingIntro": {
-			"info": "Learn all the information pertaining to energy and water practices in relation to transport, commuting, and similar options.",
-			"header": "This is the Transport Hub"
+			"info": "Adalen dagiti amin nga impormasyon panggep iti pinagusar iti enerhiya ken danom ti pinagbiyahe.",
+			"header": "Daytoy iti Hub ti Transportasyon."
 		},
 		"txt_InteriorParkingGarageSolar": {
-			"info": "Use of solar powered lighting systems significantly reduces carbon footprint and electricity expenses.",
+			"info": "Pinagusar iti solar powered lighting nga sistema tapno makissayan iti carbon footprint ken gasto iti kuryente.",
 			"header": "Solar Powered Lighting"
 		},
 		"txt_InteriorParkingGaragePlants": {
-			"info": "Adding plants around the area contributes to the mitigation of climate change.",
-			"header": "Plants"
+			"info": "Iti pinagmula iti aglawlaw ket makatulong nga pakapsuten iti epekto ti climate change.",
+			"header": "Mula"
 		},
 		"txt_InteriorParkingGasLighting": {
-			"info": "Upgrade lighting fixtures by using light emitting diode (LED) light bulbs which are energy efficient and can last 10 times longer than the usual bulbs.",
-			"header": "Lighting"
+			"info": "I-upgrade dagiti lighting fixtures, agusar iti light emitting diode wenno LED light bulbs nga natipid iti enerhiya ken nabaybayag iti sangapulo nga beses ngemti kadawyan nga bumbilya.",
+			"header": "Silaw"
 		},
 		"txt_InteriorParkingGreenTransportSolar": {
-			"info": "Using solar panels significantly reduces carbon footprint and helps save money.",
+			"info": "Pinagusar iti solar panels tapno makissayan iti carbon footprint ken makatulong nga agtipid iti kuarta.",
 			"header": "Solar Panels"
 		},
 		"txt_InteriorParkingGreenTransportCharger": {
-			"info": "Battery low? Solar-powered charging stations like this can charge multiple mobile devices using less energy.",
-			"header": "Charger for mobile devices"
+			"info": "Naibus ba iti bateryan? Daytoy nga Solar-powered charging stations ket maka charge ti adu nga mobile devices iti basbassit nga konsumo iti enerhiya.",
+			"header": "Charger para iti mobile devices"
 		},
 		"txt_InteriorParkingGreenTransportWaiting": {
-			"info": "Plants around waiting areas can help reduce carbon emissions and minimize air pollution while waiting for your next ride.",
-			"header": "Waiting Areas"
+			"info": "Makatulong iti mula ti aglawlaw iti lugar pagurayan nga mangkissay iti carbon emissions ken mangpabassit iti polusyon ti angin bayat ti pinag ururay iti sumaruno nga lugan.",
+			"header": "Lugar Pagurayan"
 		},
 		"txt_InteriorParkingSolarLighting": {
-			"info": "Welcome to the city's solar charging station. Energia has been implementing an ordinance to promote the use of e-vehicles in the public and private sector. In line with this, solar energy, which is very much available and environmentally friendly, will be utilized to charge EVs by constructing solar charging stations.",
-			"header": "Lighting"
+			"info": "Naragsak nga isasangpet idtoy solar charging station iti siudad. Adda iti ordinansa iti Energia nga mangital-o iti pinagusar ti e-vehicles idjay pampubliko ken pribado nga sektor. Gapo kadetoy, solar energy nga adda iti aglawlaw iti mausar tapno maicharge dagiti EVs iti tulong ti solar charging stations.",
+			"header": "Silaw"
 		},
 		"txt_InteriorParkingSolarCharging": {
-			"info": "Using electric vehicles (EVs) reduces the threat of experiencing fuel supply disruptions and contributes to mitigate climate change.",
-			"header": "Charging Stations for EVs"
+			"info": "Iti pinagusar ti de-kuryente nga lugan (EVs) ket makatulong tapno bumaba iti riribuk ti suplay iti gasulina ken maagapan iti climate change.",
+			"header": "Istasyon nga pangcharge iti EV"
 		},
 		"txt_InteriorParkingSolarSolar": {
-			"info": "Using solar panels significantly reduces carbon footprint and helps save money. Going solar means using electricity will help conserve the environment.",
+			"info": "Iti pinagusar iti solar panels ket makatulong nga makissayan iti carbon footprint ken makatulong nga makatipid iti kuarta. Iti pinagusar iti solar energy ket makatulong pay nga maalagaan iti aglawlaw.",
 			"header": "Solar Panels"
 		},
 		"txt_InteriorParkingTransportWaiting": {
-			"info": "Plants around waiting areas can help reduce carbon emissions and minimize air pollution while waiting for your next ride.",
-			"header": "Waiting Areas"
+			"info": "Makatulong iti mula ti aglawlaw iti lugar pagurayan nga mangkissay iti carbon emissions ken mangpabassit iti polusyon ti angin bayat ti pinag ururay iti sumaruno nga lugan.",
+			"header": "Lugar Pagurayan"
 		},
 		"txt_InteriorEmbassyIntro": {
-			"info": "This energy efficiency virtual showroom is made possible by the generous support of the American people through the United States Agency for International Development (USAID). The contents are the responsibility of the Philippine Department of Energy and RTI International and do not necessarily reflect the views of USAID or the United States Government.",
-			"header": "This is the Embassy Zone"
+			"info": "Daytoy nga energy efficiency virtual showroom ket naaramid iti tulong iti America idjay United States Agency for International Development (USAID). Iti linaon na ket ti responsibilidad iti Department of Energy iti Pilipinas ken RTI International, ken haan nga kasapulan nga isut kita iti USAID wenno United States Government.",
+			"header": "Daytoy iti lugar ti Embahada"
 		},
 		"txt_InteriorGovernmentIntro": {
-			"info": "This is the birthplace of all our energy efficiency initiatives. Our energy efficiency best practices are guided by policies and frameworks that are written and implemented by our local government unit with support from the national government. Read about these policies in the library.",
-			"header": "Welcome to the Department of Energy"
+			"info": "",
+			"header": "Naragsak nga isasangpet ditoy Department of Energy"
 		},
 		"txt_InteriorGovernmentLibraryLighting": {
-			"info": "Upgrade lighting fixtures by using light emitting diode (LED) light bulbs which are energy efficient and can last 10 times longer than the usual bulbs.",
-			"header": "Lighting"
+			"info": "I-upgrade dagiti lighting fixtures, agusar iti light emitting diode wenno LED light bulbs nga natipid iti enerhiya ken nabaybayag iti sangapulo nga beses ngemti kadawyan nga bumbilya.",
+			"header": "Silaw"
 		},
 		"txt_InteriorGovernmentLibraryComputer": {
-			"info": "In partnership with the Department of Energy, this energy efficiency virtual showroom is produced by the United States Agency for International Development through the Energy Secure Philippines Activity. USAID ESP Activity supports the Philippine Government in improving the country's energy resilience through utilization of advanced technologies.\n\nEnergy Utilization Management Bureau\ndoe.eumb@gmail.com\n(02) 8840-2289",
+			"info": "",
 			"header": "Department of Energy Partnership"
 		},
 		"txt_InteriorGovernmentOfficeLighting": {
-			"info": "Upgrade lighting fixtures by using LED light bulbs which are energy-efficient and can last 10x longer than the usual bulbs.",
-			"header": "Lighting"
+			"info": "I-upgrade dagiti lighting fixtures, agusar iti light emitting diode wenno LED light bulbs nga natipid iti enerhiya ken nabaybayag iti sangapulo nga beses ngemti kadawyan nga bumbilya.",
+			"header": "Silaw"
 		},
 		"txt_InteriorMallIntro": {
-			"info": "We're here to learn about the energy savings in shopping centers.",
-			"header": "This is the Commercial Area"
+			"info": "Adda tay ditoy tapno agadal panggep iti pinagtipid iti kuryente iti paglakwan.",
+			"header": "Lugar Pangkomersyal"
 		},
 		"txt_InteriorMallCentralLighting": {
 			"info": "Energy efficient malls take advantage of the natural light during daytime to reduce operational costs and electricity consumption.",
-			"header": "Natural Light"
+			"header": "Natural nga Silaw"
 		},
 		"txt_InteriorMallCentralAir": {
 			"info": "Aside from shopping, Filipinos go to malls to enjoy its cool and relaxing temperature. Cooling units of commercial establishments should be professionally serviced at least once a year to ensure its efficient performance.",
-			"header": "Air conditioning"
+			"header": "Air Conditioner"
 		},
 		"txt_InteriorMallCentralWindow": {
-			"info": "Windows bring natural light. Natural light not only conserves energy, it is perfect for your selfies too!",
-			"header": "Windows (Natural Light)"
+			"info": "Dagiti tawa ket makaited iti natural nga silaw. Daytoy natural nga silaw ket haan laeng nga makatipid iti enerhiya, perpekto pay para iti selfie!",
+			"header": "Tawa (Natural nga Silaw)"
 		},
 		"txt_InteriorMallCentralAirCurtain": {
-			"info": "These are air curtains which keep the temperature in control. Air curtain keeps unfiltered air outside and filtered air in.",
-			"header": "Air Curtains"
+			"info": "",
+			"header": ""
 		},
 		"txt_InteriorMallCentralDoor": {
-			"info": "Double doors or vestibules limit the warm air that enters the building. Air conditioning units in malls consume less electricity when temperature, humidity and air circulation are controlled.",
-			"header": "Double Door"
+			"info": "",
+			"header": "Doble nga Ridaw"
 		},
 		"txt_InteriorMallDisplayLighting": {
-			"info": "Upgrade lighting fixtures by using LED light bulbs which are energy-efficient and can last 10x longer than the usual bulbs.",
-			"header": "Lighting"
+			"info": "I-upgrade dagiti lighting fixtures, agusar iti light emitting diode wenno LED light bulbs nga natipid iti enerhiya ken nabaybayag iti sangapulo nga beses ngemti kadawyan nga bumbilya",
+			"header": "Silaw"
 		},
 		"txt_InteriorMallDisplayWindow": {
-			"info": "Energy efficient malls take advantage of the natural light during daytime to reduce operational costs and electricity consumption.",
-			"header": "Windows (Natural Light)"
+			"info": "Ususaren dagiti mall iti natural nga silaw tapno makatipid iti enerhiya ken tapno makissayan iti gastos iti pagpatpataray ken pagkonsumo iti kuryente.",
+			"header": "Tawa (Natural nga Silaw)"
 		},
 		"txt_InteriorMallFoodCourtLighting": {
-			"info": "Upgrade lighting fixtures by using LED light bulbs which are energy-efficient and can last 10x longer than the usual bulbs.",
-			"header": "Lighting"
+			"info": "I-upgrade dagiti lighting fixtures, agusar iti light emitting diode wenno LED light bulbs nga natipid iti enerhiya ken nabaybayag iti sangapulo nga beses ngemti kadawyan nga bumbilya.",
+			"header": "Silaw"
 		},
 		"txt_InteriorMallFoodCourtWindows": {
-			"info": "Windows bring natural light. Natural light not only conserves energy, it is perfect for your selfies too!",
-			"header": "Windows (Natural Light)"
+			"info": "Dagiti tawa ket makaited iti natural nga silaw. Daytoy natural nga silaw ket haan laeng nga makatipid iti enerhiya, perpekto pay para iti selfie!",
+			"header": "Tawa (Natural nga Silaw)"
 		},
 		"txt_InteriorMallFoodCourtWater": {
-			"info": "Waste water in the drinking station is used in flushing the toilet.",
-			"header": "Drinking Station"
+			"info": "Dagiti danum nga naggapo iti paginum ket mabalin nga usaren ulit iti para kasilya.",
+			"header": "Istasyon nga Paginuman"
 		},
 		"txt_InteriorMallFoodCourtFoodStall": {
-			"info": "Induction stoves are 90% more energy efficient compared with other types of stoves.",
-			"header": "Food Stall"
+			"info": "Dagiti induction stoves ket 90% nga naimimbag iti enerhiya ngem iti sabali nga klase iti paglutwan.",
+			"header": "Pinagkaanan"
 		},
 		"txt_InteriorMallFoodCourtDirtyDishes": {
-			"info": "If you wash dishes and food trays by hand, turn off the running water when not rinsing.",
-			"header": "Dirty Dishes"
+			"info": "Nu ag-ugugas ka iti pinggan ket patayen iti danum nu madi ususaren",
+			"header": "Narugit nga pinggan"
 		},
 		"txt_InteriorMallBathroomLighting": {
-			"info": "This uses motion detectors on light and bathroom fixtures to decrease electricity consumption.",
-			"header": "Lighting"
+			"info": "Agus usar dagiti silaw diay banyo iti motion detector tapnu makissayan iti konsumo ti kuryente.",
+			"header": "Silaw"
 		},
 		"txt_InteriorMallBathroomFaucet": {
-			"info": "This faucet uses motion detectors to save water.",
-			"header": "Faucet (Water Efficiency)"
+			"info": "Agus usar dagitoy nga gripo iti motion detector tapno makatipid idi danum.",
+			"header": "Gripo"
 		},
 		"txt_InteriorMallBathroomVentilation": {
-			"info": "Aside from windows and doors, installing exhaust fans improves air circulation in the restroom.",
-			"header": "Ventilation"
+			"info": "",
+			"header": "Bentilasyon"
 		},
 		"txt_InteriorHouseIntro": {
-			"info": "Like all the houses in the neighborhood, your house is powered by solar-energy and is enrolled in a net metering system.\n\nNet metering partly satisfies your electricity demand through the solar panels installed on your house.",
-			"header": "This is your humble abode"
+			"info": "",
+			"header": "Daytoy iti balay mo"
 		},
 		"txt_InteriorHouseLivingLight": {
 			"info": "Light Emitting Diode or LED light bulbs last longer than other types of lighting. Plus, it saves as much as 50% of electricity consumption.\n\nSo, switch to LED!",
-			"header": "Lighting"
+			"header": "Silaw"
 		},
 		"txt_InteriorHouseLivingElectric": {
 			"info": "Clean your fans regularly. Dust and dirt can reduce the wind flow generated by fans.",
 			"header": "Electric Fan"
 		},
 		"txt_InteriorHouseLivingTelevision": {
-			"info": "When you watch TV together, you consume less energy and spend more time with your family.",
-			"header": "Television"
+			"info": "Dalusan nga nasiyaat dagiti bentilador. Makissayan iti rugit ken tapok diay angin nga maar aramid iti bentilador.",
+			"header": "Telebisyon"
 		},
 		"txt_InteriorHouseLivingComputer": {
-			"info": "The truth is, screensavers do not really save anything. So, it's better not to use screensavers on your computer. Instead, you can turn off your monitor if you will be away for more than 15 minutes. ",
-			"header": "Computer"
+			"info": "",
+			"header": "Kompyuter"
 		},
 		"txt_InteriorHouseLivingWindows": {
-			"info": "Windows bring natural light into your home during the daytime.\n\nPlus, natural light is good for your selfies too!",
-			"header": "Windows (Natural Light)"
+			"info": "",
+			"header": "Tawa (Natural nga Silaw)"
 		},
 		"txt_InteriorHouseLivingExtension": {
 			"info": "Unplug extension cord when not in use to avoid phantom loading.\n\nPhantom loading is like a leaky faucet. These are usually plugged appliances that you think are turned off, but still consuming electricity.",
@@ -602,7 +612,7 @@
 		},
 		"txt_InteriorHouseBedroomLighting": {
 			"info": "Light Emitting Diodes (LED) light bulbs last longer than other types of lighting. Plus, it saves as much as 50% of electricity consumption.",
-			"header": "Lighting"
+			"header": "Silaw"
 		},
 		"txt_InteriorHouseBedroomPlants": {
 			"info": "Indoor plants reduce heat and act as natural humidifiers. No wonder why plantitas and plantitos have plants inside their bedrooms too. ",
@@ -626,7 +636,7 @@
 		},
 		"txt_InteriorHouseBathroomLighting": {
 			"info": "Do not forget to turn off the lights after using the bathroom.",
-			"header": "Lighting"
+			"header": "Silaw"
 		},
 		"txt_InteriorHouseBathroomFaucet": {
 			"info": "Did you know you could save at least 6 gallons of water per day when you turn off the faucet while scrubbing your hands with soap?",
@@ -670,11 +680,11 @@
 		},
 		"txt_InteriorSchoolClassroomLighting": {
 			"info": "Choose energy efficient light bulbs such as light-emitting diode (LED) light bulbs.",
-			"header": "Lighting"
+			"header": "Silaw"
 		},
 		"txt_InteriorSchoolClassroomAircon": {
 			"info": "Set your air conditioning units to standard temperature point of 24°c to conserve energy.",
-			"header": "Air Conditioning"
+			"header": "Air Conditioner"
 		},
 		"txt_InteriorSchoolClassroomStair": {
 			"info": "Taking the stairs maintains your health and saves energy. So, take stairs if you are able.",
@@ -686,7 +696,7 @@
 		},
 		"txt_InteriorOfficeConferenceLighting": {
 			"info": "Choose energy efficient light bulbs. You can replace existing bulbs with light-emitting diode (LED) lights.",
-			"header": "Lighting"
+			"header": "Silaw"
 		},
 		"txt_InteriorOfficeConferenceProjector": {
 			"info": "Before leaving the office, do not forget to switch off and unplug unnecessary appliances and devices.",
@@ -694,7 +704,7 @@
 		},
 		"txt_InteriorOfficeCubicleLighting": {
 			"info": "Choose energy efficient light bulbs. You can replace existing bulbs with light emitting diode (LED) lights.",
-			"header": "Lighting"
+			"header": "Silaw"
 		},
 		"txt_InteriorOfficeCubicleCentralAir": {
 			"info": "To make cooling more efficient, consider the size of the place before installing air conditioning units.",
@@ -738,7 +748,7 @@
 		},
 		"txt_InteriorOfficePersonalLighting": {
 			"info": "Choose energy efficient light bulbs. You can replace existing bulbs with light-emitting diode (LED) lights.",
-			"header": "Lighting"
+			"header": "Silaw"
 		},
 		"txt_InteriorOfficePersonalCentralAir": {
 			"info": "Set your air conditioning units to standard temperature points of 24-25°C to conserve electricity.",
@@ -762,7 +772,7 @@
 		},
 		"txt_InteriorOfficeReceptionLighting": {
 			"info": "During daytime, your office switches off artificial lights and uses natural light.",
-			"header": "Lighting"
+			"header": "Silaw"
 		},
 		"txt_InteriorOfficeReceptionAircon": {
 			"info": "Room size is important when choosing the right air conditioning unit for your workplace. Install the air conditioning unit in the coolest part of the room, if possible, on a shady side where maximum air circulation is available.",
@@ -774,7 +784,7 @@
 		},
 		"txt_InteriorOfficeRestroomLighting": {
 			"info": "This restroom has automatic lighting controls specifically, occupancy sensors, which save energy by automatically turning the lights off when not in use.",
-			"header": "Lighting"
+			"header": "Silaw"
 		},
 		"txt_InteriorOfficeRestroomFaucet": {
 			"info": "Fix leaky faucets, toilets, appliances, and sprinklers. Leaks vary in amount, but they can account for a lot of wasted water over time.",
@@ -790,7 +800,7 @@
 		},
 		"txt_InteriorEcoZoneEcoPartLighting": {
 			"info": "This light is solar powered! Solar panels installed on the roof store energy during daylight to illuminate the park at night.",
-			"header": "Lighting"
+			"header": "Silaw"
 		},
 		"txt_InteriorEcoZoneEcoPartWater": {
 			"info": "Reuse water where applicable for watering plants and cleaning designated areas.\n\nExample: Water from fountains can be reused for watering plants instead of just draining it.",
@@ -814,7 +824,7 @@
 		},
 		"txt_InteriorEcoZoneMechHubLighting": {
 			"info": "Make sure to use energy efficient lighting such as light emitting diode (LED) bulbs. This can both help save money on your monthly electricity bills and also help conserve our environment!",
-			"header": "Lighting"
+			"header": "Silaw"
 		},
 		"txt_InteriorEcoZoneMechHubVentilation": {
 			"info": "Adequate ventilation maintains the temperature, humidity, and energy consumption in industrial establishments.",
@@ -826,11 +836,11 @@
 		},
 		"txt_InteriorEcoZoneOfficeLighting": {
 			"info": "Make sure to use energy efficient light such as fluorescent lamps, CFL lamps and LED lamps - this can both help save money on yourmonthly electricity bills and also help conserve the environment!",
-			"header": "Lighting"
+			"header": "Silaw"
 		},
 		"txt_InteriorEcoZoneOfficeCentralAir": {
 			"info": "Air conditioning maintenance should be set regularly to ensure that it's working properly at its best without wastage on electricity consumption.",
-			"header": "Air conditioning"
+			"header": "Air Conditioner"
 		},
 		"txt_InteriorEcoZoneOfficeWindow": {
 			"info": "During daytime, switch off lights and maximize the use of sunlight, especially in offices with big surrounding windows -using blinds or curtains can help regulate temperature and sun exposure.",
@@ -846,7 +856,7 @@
 		},
 		"txt_InteriorEcoZoneProcessHubLighting": {
 			"info": "Make sure to use energy efficient lighting such as light-emitting diode (LED) bulbs. This can both help save money on your monthly electricity bills and also help conserve our environment!",
-			"header": "Lighting"
+			"header": "Silaw"
 		},
 		"txt_InteriorEcoZoneProcessHubVentilation": {
 			"info": "Installing exhaust systems maintains the air quality of the factories by removing contaminated indoor air.",
@@ -878,7 +888,7 @@
 		},
 		"txt_InteriorEcoZoneWarehouseLighting": {
 			"info": "Make sure to use energy efficient lighting such as light-emitting diode (LED) bulbs. This can both help save money on your monthly electricity bills and also help conserve our environment!",
-			"header": "Lighting"
+			"header": "Silaw"
 		},
 		"txt_InteriorEcoZoneWarehouseVentilation": {
 			"info": "Use sustainable architecture and interior design to make sure there's proper ventilation in the processing hub.",
@@ -906,7 +916,7 @@
 		},
 		"txt_InteriorEnerhiyangAtinDeskAircon": {
 			"info": "According to Inter-Agency Energy Efficiency and Conservation Committee (IAEECC) No. 1 and No. 3, all government offices are directed to use energy efficient inverter-type air-conditioning units or similar equivalent technologies. Moreover, air conditioners in government offices should be set to standard temperature points of 24-25°C to conserve energy.",
-			"header": "Air Conditioning"
+			"header": "Air Conditioner"
 		},
 		"txt_InteriorEnerhiyangAtinDeskStairUse": {
 			"info": "Taking the stairs maintains your health and saves energy. So, take the stairs if you are able. ",
@@ -914,11 +924,11 @@
 		},
 		"txt_InteriorEnerhiyangAtinDeskLighting": {
 			"info": "Upgrade lighting fixtures by using light emitting diode (LED) light bulbs which are energy efficient and can last 10 times longer than the usual bulbs.",
-			"header": "Lighting"
+			"header": "Silaw"
 		},
 		"txt_InteriorEnerhiyangAtinOfficeLighting": {
 			"info": "Upgrade lighting fixtures by using light emitting diode (LED) light bulbs which are energy efficient and can last 10 times longer than the usual bulbs.",
-			"header": "Lighting"
+			"header": "Silaw"
 		}
 	}
 }

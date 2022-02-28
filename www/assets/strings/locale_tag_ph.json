@@ -15,7 +15,7 @@
 			"align": 1
 		},
 		"title_btnToCity": {
-			"text": "Punta sa Lungsod",
+			"text": "Pumunta sa Lungsod",
 			"font": "font_lato_bold",
 			"size": 36,
 			"color": "0xFFFFFF",
@@ -78,7 +78,7 @@
 			"align": 1
 		},
 		"title_btnInterior": {
-			"text": "Pasok",
+			"text": "Pumasok",
 			"font": "font_lato_bold",
 			"size": 62,
 			"color": "0xFFFFFF",
@@ -202,38 +202,48 @@
 			"align": 1
 		}
 	},
+	"login": {
+		"txt_Terms": {
+			"info": "TERMS OF SERVICE",
+			"header": "Terms of Service"
+		},
+		"txt_Privacy": {
+			"info": "DATA PRIVACY POLICY",
+			"header": "Privacy Policy"
+		}
+	},
 	"buildings": {
 		"txt_BuildingOffice": {
-			"info": "Matutuhan ang lahat ng impormasyon na nauukol sa mga kasanayang matipid sa enerhiya sa trabaho.",
-			"header": "Lugar ng Negosyo"
+			"info": "Alamin ang mga pamamaraan upang makatipid ng enerhiya sa opisina.",
+			"header": "Opisina"
 		},
 		"txt_BuildingHouse": {
-			"info": "Alamin ang lahat ng impormasyon na may kinalaman sa mga kasanayang matipid sa enerhiya sa bahay.",
-			"header": "Lugar pang Tirahan"
+			"info": "Alamin ang mga impormasyon kung paano makakatipid ng enerhiya sa bahay.",
+			"header": "Tirahan"
 		},
 		"txt_BuildingMall": {
-			"info": "Alamin ang lahat ng impormasyon na nauukol sa mga kasanayang matipid sa enerhiya sa mga mall at establisyimento.",
-			"header": "Lugar ng komersiyo"
+			"info": "Alamin ang mga paraan kung paano makakatipid ng pagkonsumo ng kuryente ang mga komersyal na establisyimento.",
+			"header": "Komersyal na Establisyimento"
 		},
 		"txt_BuildingEconomic": {
-			"info": "Alamin ang lahat ng impormasyon na nauukol sa mga kasanayang matipid sa enerhiya sa sektor ng industriya.",
-			"header": "Lugar ng ekonomiya"
+			"info": "Alamin natin ang mga kasanayan at pamamaraan ukol sa pagtitipid ng enerhiya sa industrial sector.",
+			"header": "Economic Zone"
 		},
 		"txt_BuildingParking": {
 			"info": "Tuklasin ang pinagmamalaki ng Lungsod ng Energia!",
-			"header": "Hub ng Transportasyon"
+			"header": "Sakayan"
 		},
 		"txt_BuildingEmbassy": {
-			"info": "Matutuhan ang lahat tungkol sa Siyudad ng Energia!",
+			"info": "Alamin ang programa ng United States Agency for International Development upang mapalakas ang seguridad ng enerhiya sa Pilipinas.",
 			"header": "Embahada"
 		},
 		"txt_BuildingGov": {
-			"info": "Talakayin natin ang mga abiso at patakaran ng gobyerno sa pagtitipid nang enerhiya at tubig.",
+			"info": "Talakayan natin ang mga abiso, patakaran, at resolusyon ng gobyerno tungkol sa pagtitipid ng enerhiya at tubig.",
 			"header": "Gusali ng Department of Energy"
 		},
 		"txt_BuildingSchool": {
 			"info": "Tingnan ang Wattmatters site at matutong kalkulahin ang konsumo ng kuryente sa bahay!",
-			"header": "Lugar ng Paaralan"
+			"header": "Paaralan"
 		},
 		"txt_BuildingPlaza": {
 			"info": "Kaya ba ng powers mo sagutan ang mga trivia? Subukan at hasain ang iyong kaalaman ukol sa pagtipid ng enerhiya.",
@@ -250,9 +260,9 @@
 	},
 	"dialogue": {
 		"tutorial_1": {
-			"header": "Pagtuturo",
+			"header": "",
 			"header_info": "Maligayang pagdating sa Lungsod ng Energia!",
-			"info": "Alamin ang lahat tungkol sa iba't ibang mga kasanayan sa enerhiya at tubig na maaaring gawin sa bahay man o saanman!\n\nKami ang iyong mga gabay sa magandang lugar na ito."
+			"info": "Alamin ang iba't ibang mga pamamaraan tungkol sa pagtitipid at tamang paggamit ng enerhiya at tubig.\n\nKami ang iyong mga gabay sa tour na ito."
 		},
 		"tutorial_2_gener": {
 			"header": "Gabay Gener",
@@ -264,7 +274,7 @@
 		},
 		"tutorial_3": {
 			"header": "Gabay Gener",
-			"info": "Maraming mga lugar ang maaaring tuklasin sa lungsod na ito! I-tap lang ang gusali para tuklasin ito."
+			"info": "Marami kang maaaring matutunan sa bawat lugar ng lungsod na ito. I-tap lamang ang gusaling gusto mong puntahan."
 		},
 		"tutorial_4": {
 			"header": "Gabay Gener",
@@ -272,10 +282,10 @@
 		},
 		"tutorial_5": {
 			"header": "Gabay Gia",
-			"info": "Kung sakaling maligaw ka, huwag mag-atubiling pindutin ang      pindutan sa ibaba ng iyong kaliwang sulok upang tawagan kami."
+			"info": "Kung sakaling maligaw ka, pindutin lamang ang       button sa kaliwang ibaba para sa aming gabay."
 		},
 		"tutorial_6": {
-			"info": "Magsaya sa pag-aaral at paggalugad sa Lungsod ng Energia!"
+			"info": "Simulan na natin ang masayang paglalakbay sa Lungsod ng Energia!"
 		},
 		"idle_1_gener": {
 			"header": "Gabay Gener",
@@ -286,25 +296,25 @@
 			"info": "Naliligaw ka? I-tap lang ang mga icon, arrow, o mga gusali para i-explore ang mga ito. Maaari mong pindutin ang pulang button anumang oras upang lumabas pabalik sa lungsod."
 		},
 		"doe_reception_female": {
-			"header": "EC Officer",
-			"info": "Hi, ako ang Energy Conservation Officer na naka-duty. Maligayang pagdating sa City of Energia Government Center. Inatasan ang aming ahensya na manguna sa pagsaliksik, pagpapaunlad, paggamit, pamamahagi at pagtitipid ng enerhiya. Ipaalam sa akin kung paano kita matutulungan."
+			"header": "Energy Conservation (EC) Officer",
+			"info": "Magandang araw! Ako ang Energy Conservation Officer sa araw na ito. Maligayang pagdating sa government center ng lungsod ng Energia. Ang aming ahensya ang inatasang manguna sa pagsasaliksik at pamamahagi ng impormasyon sa tamang paggamit ng enerhiya. Ipaalam sa akin kung paano kita matutulungan."
 		},
 		"doe_reception_male": {
 			"header": "E Focal Officer",
-			"info": "Hi, ako ang E-focal person. Gusto mo bang malaman ang higit pa tungkol sa kahusayan sa enerhiya at pagtitipid?"
+			"info": "Hi, ako ang E-focal person sa araw na ito. Gusto mo bang mas matuto ng mga kahusayan tungkol sa pagtitipid ng kuryente?"
 		}
 	},
 	"icons": {
 		"txt_IconParkingGarage": {
 			"left1": "Gasolinahan",
-			"right1": "Solar Charging Istasyon"
+			"right1": "Istasyon ng Solar Charger"
 		},
 		"txt_IconParkingGas": {
 			"left1": "Pampublikong Transportasyon",
 			"right1": "Paradahan"
 		},
 		"txt_IconParkingGreenTransport": {
-			"left1": "Solar Charging Istasyon"
+			"right1": "Istasyon ng Solar Charger"
 		},
 		"txt_IconParkingSolar": {
 			"left1": "Paradahan",
@@ -332,14 +342,14 @@
 		},
 		"txt_IconMallDisplay": {
 			"right1": "Malawak na Espasyo",
-			"left1": "Pook Kainan"
+			"left1": "Kainan"
 		},
 		"txt_IconMallFoodCourt": {
 			"right1": "Mga Tindahan sa Mall",
 			"left1": "Banyo"
 		},
 		"txt_IconMallBathroom": {
-			"right1": "Pook Kainan"
+			"right1": "Kainan"
 		},
 		"txt_IconHouseLiving": {
 			"right1": "Kusina",
@@ -392,8 +402,7 @@
 			"left1": "Mga Elevator"
 		},
 		"txt_IconEcoZoneEcoPart": {
-			"right1": "Bodega",
-			"left1": "Mga Opisina"
+			"right1": "Bodega"
 		},
 		"txt_IconEcoZoneGarage": {
 			"right1": "Processing Hub",
@@ -446,7 +455,7 @@
 			"header": "Kumusta?"
 		},
 		"txt_InteriorParkingIntro": {
-			"info": "Talakayin natin ang mga paraan para makatipid sa pagagamit ng enerhiya at tubig sa mas matalinong paraan sa ating pagbi-biyahe at pag-commute.",
+			"info": "Talakayin natin ang iba't ibang pamamaraan sa pagtitipid ng enerhiya habang nagbi-biyahe o nagko-commute.",
 			"header": "Ito ang Transport Hub"
 		},
 		"txt_InteriorParkingGarageSolar": {
@@ -457,20 +466,36 @@
 			"info": "Ang paglalagay ng halaman sa paligid ay nakakatulong para mabawasan ang epekto ng pag babago ng klima.",
 			"header": "Halaman"
 		},
+		"txt_InteriorParkingGarageCar1": {
+			"info": "Try carpooling or ride sharing whenever possible.",
+			"header": "Fuel and Safety Driving Tips"
+		},
+		"txt_InteriorParkingGarageCar2": {
+			"info": "Plan your journey before leaving. Avoid congested routes and roads that are under construction.",
+			"header": "Fuel and Safety Driving Tips"
+		},
+		"txt_InteriorParkingGarageCar3": {
+			"info": "Adding plants around the area contributes to the mitigation of climate change.",
+			"header": "Fuel and Safety Driving Tips"
+		},
 		"txt_InteriorParkingGasLighting": {
-			"info": "I-upgrade ang mga lighting fixture sa pamamagitan ng paggamit ng light emitting diode (LED) na mga bombilya na matipid sa enerhiya at maaaring tumagal ng 10 beses na mas mahaba kaysa sa karaniwang mga bombilya.",
+			"info": "I-upgrade ang mga lighting fixture sa light emitting diode o LED na bumbilya sapagkat mas matipid ito sa enerhiya at mas tumatagal kumpara sa ibang uri ng ilaw.",
 			"header": "Pailaw"
 		},
+		"txt_InteriorParkingGasGasStation": {
+			"info": "Gas up wisely! Buy gasoline during the coolest time of the day during early morning or late in the afternoon.",
+			"header": "Gasoline Station"
+		},
 		"txt_InteriorParkingGreenTransportSolar": {
-			"info": "Ang paggamit ng mg solar panel ay nakakatulong sa pagbaba ng carbon footprint at sa pangaraw-araw na gastos ng elektrisidad.",
+			"info": "Ang paggamit ng solar panels ay nakakatulong sa kalikasan sa pamamagitan ng pagbabawas ng carbon footprint. Nakakatipid din ng gastos sa kuryente ang solar panels.",
 			"header": "Solar Panels"
 		},
 		"txt_InteriorParkingGreenTransportCharger": {
-			"info": "Mahina ang baterya? Ang mga solar-powered charging station na tulad nito ay maaaring mag-charge ng maramihang mga mobile device gamit ang mas kaunting enerhiya.",
+			"info": "Lowbat ka ba? Ang mga solar-powered charging station katulad nito ay nakakapag-charge ng maramihang mobile device gamit ang mas kaunting enerhiya.",
 			"header": "Charger para sa mga mobile device"
 		},
 		"txt_InteriorParkingGreenTransportWaiting": {
-			"info": "Ang mga halaman sa paligid ng mga waiting area ay maaaring makatulong na mabawasan ang mga carbon emissions at mabawasan ang polusyon sa hangin habang naghihintay sa iyong susunod na biyahe.",
+			"info": "Ang mga halaman sa waiting area ay nakakatulong sa pagbababawas ng carbon emission at polusyon sa hangin.",
 			"header": "Hintayan"
 		},
 		"txt_InteriorParkingSolarLighting": {
@@ -478,23 +503,23 @@
 			"header": "Pailaw"
 		},
 		"txt_InteriorParkingSolarCharging": {
-			"info": "Ang paggamit ng mga de-kuryenteng sasakyan (EV) ay nakakabawas sa banta na makaranas ng mga pagkagambala sa suplay ng gasolina at nakakatulong upang mabawasan ang climate change.",
-			"header": "Mga Istasyon para sa pag-charge sa mga EV"
+			"info": "Ang paggamit ng mga dekuryenteng sasakyan ay nakakatulong ibsan ang probleme sa suplay ng gasolina at climate change.",
+			"header": "Charging Station ng mga Electric Vehicles"
 		},
 		"txt_InteriorParkingSolarSolar": {
-			"info": "Ang paggamit ng Solar Panels ay tumutulong sa malaking pagbawas sa ating Carbon Footprint at nakakatulong rin ito upang makatipid ng pera. Ang paggamit ng Solar ay nakakatulong din para pag-ingatan ang kapaligiran.",
+			"info": "Ang paggamit ng solar panels ay nakakatulong sa kalikasan sa pamamagitan ng pagbabawas ng carbon footprint. Nakakatipid din ng gastos sa kuryente ang solar panels.",
 			"header": "Solar Panels"
 		},
 		"txt_InteriorParkingTransportWaiting": {
-			"info": "Ang mga halaman sa paligid ng mga waiting area ay maaaring makatulong na mabawasan ang mga carbon emissions at mabawasan ang polusyon sa hangin habang naghihintay sa iyong susunod na biyahe.",
+			"info": "Ang mga halaman sa waiting area ay nakakatulong sa pagbababawas ng carbon emission at polusyon sa hangin.",
 			"header": "Hintayan"
 		},
 		"txt_InteriorEmbassyIntro": {
-			"info": "Ang energy efficiency virtual showroom na ito ay naging posible sa pamamagitan ng mapagbigay na suporta ng mga Amerikano sa pamamagitan ng United States Agency for international Development (USAID). Ang mga nilalaman ay responsibilidad ng Kagawaran ng Enerhiya ng Pilipinas at RTI International at hindi kinakailangang sumasalamin sa mga pananaw ng USAID o ng Pamahalaan ng Estados Unidos.",
+			"info": "Ang produktong ito ay naging posible sa pamamagitan ng suporta ng mga Amerikano na ipinadala sa United States Agency for International Development (USAID). Ang mga nilalaman ng produktong ito ay responsibilidad ng RTI International at hindi sumasalamin sa mga pananaw USAID o ng Pamahalaan ng Estados Unidos.",
 			"header": "Ito ay lugar ng Embahada"
 		},
 		"txt_InteriorGovernmentIntro": {
-			"info": "Ito ang lugar kung saan nagsimula ang lahat ng aming mga hakbangin sa kahusayan sa enerhiya. Ang aming pinakamahuhusay na kasanayan sa kahusayan sa enerhiya ay ginagabayan ng mga patakaran at balangkas na isinulat at ipinatupad ng aming lokal na yunit ng pamahalaan na may suporta mula sa pambansang pamahalaan.",
+			"info": "Sa lugar na ito nagsisimula ang lahat ng inisyatibo tungkol sa tamang paggamit ng enerhiya. Ang lahat ng kasanayan tungkol sa pagtititpid ng enerhiya ay nakabatay sa mga polisiya na ipinapatupad ng mga lokal at nasyonal na pamahalaan. Basahin ang mga polisiyang ito sa silid-aklatan.",
 			"header": "Maligayang pagdating sa Department of Energy"
 		},
 		"txt_InteriorGovernmentLibraryLighting": {
@@ -510,16 +535,16 @@
 			"header": "Pailaw"
 		},
 		"txt_InteriorMallIntro": {
-			"info": "Nandito tayo para mag-aral tungkol sa mga paraan kung paano makatipid sa kuryente ang mga pamilihan.",
-			"header": "Ito ang Commercial Area"
+			"info": "Nandito tayo upang alamin kung paano nakakatipid ng enerhiya ang mga pamilihan.",
+			"header": "Ito ay isang Commercial Area"
 		},
 		"txt_InteriorMallCentralLighting": {
-			"info": "Sinasamantala ng mga mall na matipid sa enerhiya ang natural na liwanag sa araw para mabawasan ang mga gastos sa pagpapatakbo at pagkonsumo ng kuryente.",
-			"header": "Natural na ilaw"
+			"info": "Sinasamantala ng mga pamilihan ang natural na liwanag tuwing araw gamit ang salamin na bintana upang makabawas sa gastos at konsumo sa kuryente.",
+			"header": "Natural na Liwanag"
 		},
 		"txt_InteriorMallCentralAir": {
-			"info": "Bukod sa pamimili, ang mga Pilipino ay nagpupunta sa mga mall upang tamasahin ang malamig at nakakaginhawa na temperatura nito. Ang mga cooling unit ng mga komersyal na establisimiyento ay dapat naseserbisyuhan ng propesyonal nang hindi bababa sa isang beses sa isang taon upang matiyak ang mahusay na paggana nito.",
-			"header": "Air conditioning"
+			"info": "Bukod sa pamimili, pumupunta rin ang mga Pilipino sa mall upang magpalamig.\n\nAng mga cooling unit sa mall ay dapat sumasailalim sa professional cleaning nang hindi bababa sa isang beses sa isang taon upang mapanatili ang magandang takbo nito.",
+			"header": "Air Conditioner"
 		},
 		"txt_InteriorMallCentralWindow": {
 			"info": "Ang mga bintana ay nagdadala ng natural na liwanag. Ang natural na liwanag ay hindi lamang nakakatipid ng enerhiya, perpekto din ito para sa iyong mga selfie!",
@@ -530,19 +555,19 @@
 			"header": "Air Curtains"
 		},
 		"txt_InteriorMallCentralDoor": {
-			"info": "Nililimitahan ng mga double door o vestibule ang mainit na hangin na pumapasok sa gusali. Ang mga air conditioning unit sa mga mall ay kumonsumo ng mas kaunting kuryente kapag ang temperatura, halumigmig at sirkulasyon ng hangin ay kinokontrol.",
+			"info": "Nililimitahan ng mga double doors o vestibule ang pagpasok ng mainit na hangin sa isang gusali. Nakakatulong ito upang mapanitili ng air conditioner ang malamig na hangin at iwasan ang kahalumigmigan.",
 			"header": "Dobleng Pinto"
 		},
 		"txt_InteriorMallDisplayLighting": {
-			"info": "Gumamit ng mga LED na bombilya para maging mas-energy efficient. Pinaka-nakakatipid ng enerhiya at humigit-kumulang na 10 beses na mas mahaba ang buhay ng LED na bombilya kumpara sa isang tipikal na bombilya.",
+			"info": "Gumagamit ng light emitting diode o LED na bumbilya ang pamilhang ito sapagkat ang LED bulb ang pinaka-energy efficient na uri ng pailaw.",
 			"header": "Pailaw"
 		},
 		"txt_InteriorMallDisplayWindow": {
-			"info": "Sinasamantala ng mga mall na matipid sa enerhiya ang natural na liwanag sa araw para mabawasan ang mga gastos sa pagpapatakbo at pagkonsumo ng kuryente.",
+			"info": "Sinasamantala ng mga pamilihan ang natural na liwanag tuwing araw gamit ang salamin na bintana upang makabawas sa gastos at konsumo sa kuryente.",
 			"header": "Mga Bintana"
 		},
 		"txt_InteriorMallFoodCourtLighting": {
-			"info": "Gumamit ng mga LED na bombilya para maging mas-energy efficient. Pinaka-nakakatipid ng enerhiya at humigit-kumulang na 10 beses na mas mahaba ang buhay ng LED na bombilya kumpara sa isang tipikal na bombilya.",
+			"info": "I-upgrade ang mga lighting fixture sa pamamagitan ng paggamit ng LED light bulbs na matipid sa enerhiya at maaaring tumagal ng mahigit na 10x kaysa sa karaniwang mga bombilya.",
 			"header": "Pailaw"
 		},
 		"txt_InteriorMallFoodCourtWindows": {
@@ -554,15 +579,15 @@
 			"header": "Istasyon ng inumin"
 		},
 		"txt_InteriorMallFoodCourtFoodStall": {
-			"info": "Ang mga induction stoves ay 90% na mas mahusay sa enerhiya kumpara sa iba pang mga uri ng kalan.",
-			"header": "Mga pinagkainan"
+			"info": "Ang mga induction stove ay mas tipid sa enerhiya ng 90% kumpara sa ibang lutuan.",
+			"header": "Kalan"
 		},
 		"txt_InteriorMallFoodCourtDirtyDishes": {
 			"info": "Kung maghuhugas ka ng mga pinggan, patayin ang tubig kapag hindi ginagamit.",
 			"header": "Maruming pinggan"
 		},
 		"txt_InteriorMallBathroomLighting": {
-			"info": "Gumagamit ito ng mga motion detector sa mga fixture ng ilaw at banyo upang bawasan ang pagkonsumo ng kuryente.",
+			"info": "Gumagamit ng motion detector ang ilaw ng bayong ito upang mas makatipid sa kuryente.",
 			"header": "Pailaw"
 		},
 		"txt_InteriorMallBathroomFaucet": {
@@ -570,27 +595,27 @@
 			"header": "Gripo"
 		},
 		"txt_InteriorMallBathroomVentilation": {
-			"info": "Maliban sa mga bintana at mga pinto, ang mga exhaust fan ay nakakapag pa buti ng sirkulasyon ng hangin sa mga palikuran.",
+			"info": "Bukod sa mga pinto at bintana, nakakatulong din sa sirkulasyon ng hangin ang mga exhaust fan.",
 			"header": "Bentilasyon"
 		},
 		"txt_InteriorHouseIntro": {
-			"info": "Katulad ng lahat ng mga bahay sa kapitbahayan, ang iyong bahay ay pinapagana ng solar-energy at naka-enroll sa isang power monitoring system. Narinig mo na ba ang tungkol sa power monitoring system? Ang isang power monitoring system ay kumokontrol at sinusubaybayan ang iyong pagkonsumo ng enerhiya araw-araw. Nakakatulong ito sa iyong bawasan ang mga pag-aaksaya at gastos mo sa enerhiya.",
-			"header": "Ito ang iyong abang tahanan"
+			"info": "Katulad ng iyong mga kapitbahay, ang tahanan mo ay gumagamit ng solar energy at power monitoring system.\n\nGinagamit ang power monitoring system upang subaybayan at kontrolin ang pagkonsumo ng enerhiya araw-araw. Ito ay nakakatulong sa pagtitipid ng gastos sa kuryente.",
+			"header": "Ito ang iyong tahanan"
 		},
 		"txt_InteriorHouseLivingLight": {
-			"info": "Ang Light Emitting Diode o LED na bumbilya ay mas tumatagal kaysa sa iba pang uri ng pag-iilaw. Dagdag pa rito, nakakatipid ito ng hanggang 50% ng konsumo ng kuryente.\n\nKaya, gumamit na ng LED!",
+			"info": "Ang light emitting diode o LED na bumbilya ay mas tumatagal kumpara sa ibang uri ng ilaw. Nakakatipid din ito ng 50% na konsumo ng kuryente.\n\nKaya, gumamit na ng LED!",
 			"header": "Pailaw"
 		},
 		"txt_InteriorHouseLivingElectric": {
-			"info": "Linisin nang regular ang iyong mga bentilador. Maaaring bawasan ng alikabok at dumi ang daloy ng hangin na nalilikha ng mga bentilador.",
+			"info": "Linisin nang regular ang iyong bentilador. Ang alikabok at dumi ay nakakabawas ng daloy ng hangin na nililikha ng bentilador.",
 			"header": "Bentilador"
 		},
 		"txt_InteriorHouseLivingTelevision": {
-			"info": "Kapag sama-sama kayong manood ng telebisyon, mas kaunting kuryente ang iyong nagagamit at mas nabibigyan mo ng oras ang iyong pamilya.",
+			"info": "Kapag sama samang nanonood ng telebisyon, nakakatipid ito ng kuryente habang nabibigyan ng mas maraming oras ang iyong pamilya.",
 			"header": "Telebisyon"
 		},
 		"txt_InteriorHouseLivingComputer": {
-			"info": "Ang totoo, wala talagang nai-save ang mga screensaver. Kaya, mas mabuting huwag gumamit ng mga screensaver sa iyong kompyuter. Sa halip, maaari mong i-off ang iyong monitor kung wala ka nang higit sa 15 minuto.",
+			"info": "Ang totoo, wala talagang natitipid ang screensaver kaya mas mabuting huwag na gumagamit nito. Sa halip ay maaari mong patayin ang iyong monitor kung hindi mo ito gagamitin nang higit sa 15 minuto.",
 			"header": "Kompyuter"
 		},
 		"txt_InteriorHouseLivingWindows": {
@@ -598,27 +623,27 @@
 			"header": "Mga Bintana"
 		},
 		"txt_InteriorHouseLivingExtension": {
-			"info": "Tanggalin sa saksakan ang extension cord kapag hindi ginagamit para maiwasan ang phantom loading.\n\nAng phantom loading ay parang tumutulo na gripo. Ito ay karaniwang mga nakasaksak na appliances na sa tingin mo ay nakapatay, ngunit kumonsumo pa rin ng kuryente.",
+			"info": "Tanggalin sa saksakan ang extension cord pagkatapos gamitin upang maiwasan ang phantom loading.\n\nAng phantom loading ay parang tumutulong gripo. Karaniwan itong nangyayari sa mga appliances na nakapatay ngunit nakasaksak kaya kumukonsuma pa rin ng kuryente.",
 			"header": "Saksakan"
 		},
 		"txt_InteriorHouseBedroomLighting": {
-			"info": "Ang Light Emitting Diode (LED) na mga bombilya ay mas tumatagal kaysa sa iba pang uri ng pag-iilaw. Dagdag pa, nakakatipid ito ng hanggang 50% ng pagkonsumo ng kuryente.",
+			"info": "Ang light emitting diode o LED na bumbilya ay mas tumatagal kumpara sa ibang uri ng ilaw. Nakakatipid din ito ng 50% na konsumo ng kuryente.",
 			"header": "Pailaw"
 		},
 		"txt_InteriorHouseBedroomPlants": {
-			"info": "Ang mga pambahay na halaman ay nagpapababa ng init at nagsisilbing mga natural na humidifier. Hindi katakataka kung bakit may mga halaman din ang plantitas at plantitos sa loob ng kanilang mga kwarto.",
+			"info": "Ang mga halaman sa bahay ay nagpapababa ng temperatura at nagsisilbing tagapag paaliwalas ng paligid. Hindi nakakapagtaka na kinagigiliwan ito ng mga plantito at plantita!",
 			"header": "Halaman"
 		},
 		"txt_InteriorHouseBedroomAircon": {
-			"info": "Alam mo ba na ang paglilinis ng mga filter at condenser ng air conditioning units ay makakatipid ng 100 pesos monthly? Kaya, regular na sa seserbisyohan ang inyong erkon.",
-			"header": "Erkon"
+			"info": "Alam mo bang makakatipid ka ng 100 piso buwan buwan kung lilinisin mo ang filters at condensers ng iyong air coditioners?",
+			"header": "Air Conditioner"
 		},
 		"txt_InteriorHouseBedroomCharger": {
 			"info": "Huwag kailanman iwanan ang iyong mga device na nagcha-charge nang magdamag dahil kumukonsumo ito ng kuryente kapag naiwang nakasaksak.",
 			"header": "Charger para sa mga mobile device"
 		},
 		"txt_InteriorHouseBedroomWindow": {
-			"info": "Maglagay ng mga kurtina o blind sa mga bintana upang mabawasan ang init ng araw mula sa labas.",
+			"info": "Maglagay ng kurtina o blinds sa mga bintana upang mabawasan ang init mula sa labas.",
 			"header": "Mga Bintana (kung nag-andar ang aircon)"
 		},
 		"txt_InteriorHouseBedroomDoor": {
@@ -630,11 +655,11 @@
 			"header": "Pailaw"
 		},
 		"txt_InteriorHouseBathroomFaucet": {
-			"info": "Alam mo bang makakatipid ka ng hindi bababa sa 6 na galon ng tubig kada araw kapag pinatay mo ang gripo habang nagkukuskos ng iyong mga kamay gamit ang sabon?",
+			"info": "Alam mo bang makakatipid ka ng hindi bababa sa anim na galon ng tubig kada araw kung papatayin mo ang gripo habang nagsasabon ng kamay?",
 			"header": "Gripo"
 		},
 		"txt_InteriorHouseBathroomShower": {
-			"info": "Alin sa tingin mo ang mas makakatipid ng tubig? Pagligo gamit ang shower o pagligo gamit ang tabo at timba?\n\nAng pagsa-shower sa maikling oras ay hindi lamang nakakatipid ng mas maraming tubig, nakakatipid din ito ng mas maraming enerhiya at gastos.",
+			"info": "Alin sa tingin mo ang mas makakatipid ng tubig, ang pagligo gamit ang shower o ang pagligo gamit ang tabo at timba?\n\nAng paggamit ng shower nang mabilis ay hindi lamang nakakatipid ng mas maraming tubig, nakakatipid din ito sa gastos ng tubig.",
 			"header": "Paliguan"
 		},
 		"txt_InteriorHouseBathroomVentilation": {
@@ -646,7 +671,7 @@
 			"header": "Wastong paggamit ng tubig"
 		},
 		"txt_InteriorHouseKitchenWater": {
-			"info": "Kung maghuhugas ka ng pinggan, isara and gripo pag hindi nagbabanlaw.",
+			"info": "Kung ikaw ay naghuhugas ng pinggan, isara ang gripo kung hindi nagbabanlaw.",
 			"header": "Wastong paggamit ng tubig"
 		},
 		"txt_InteriorHouseKitchenRef": {
@@ -658,15 +683,15 @@
 			"header": "Microwave"
 		},
 		"txt_InteriorHouseKitchenStove": {
-			"info": "Makakatipid tayo ng enerhiya sa pamamagitan ng pagpatay sa apoy ng kalan sa huling minuto ng pagluluto ng iyong pagkain.",
+			"info": "Makakatipid ka ng enerhiya kung papatayin mo na ang kalan sa huling minuto ng iyong pagluluto.",
 			"header": "Kalan"
 		},
 		"txt_InteriorHouseKitchenPlant": {
-			"info": "Alam mo ba na ang mga halaman sa iyong kusina ay nakakatulong sa mas mainam na pagsasala ng hangin? At sila rin ay nagse-sequester ng carbon na isa sa maraming paraan para mabawasan ang climate change.",
+			"info": "Alam mo bang ang mga halaman sa kusina ay nakakatulong sa pagsasala ng hangin? Ito rin ay nag-a-absorb ng carbon na nakakatulong upang maibsan ang climate change.",
 			"header": "Mga halaman"
 		},
 		"txt_InteriorSchoolIntro": {
-			"info": "Layunin naming ibahagi ang aming kaalaman at pinakamahuhusay na kagawian sa pag-asang makamit ang ripple effect sa iba't-ibang bahagi ng bansa.",
+			"info": "Layunin naming maibahagi ang kaalaman at kasanayan tungkol sa mga kagawian sa pagtitipid ng enerhiya sa pag-asang makakamit ng ripple effect sa iba't-ibang bahagi ng bansa.",
 			"header": "Maligayang pagdating sa Energia Academy!"
 		},
 		"txt_InteriorSchoolLibraryLighting": {
@@ -683,15 +708,15 @@
 		},
 		"txt_InteriorSchoolClassroomAircon": {
 			"info": "Itakda ang iyong mga air conditioning unit sa pamantayang temperatura na 24°c para makatipid ng enerhiya.",
-			"header": "Air Conditioning"
+			"header": "Air Conditioner"
 		},
 		"txt_InteriorSchoolClassroomStair": {
 			"info": "Ang pag-gamit ng hagdan ay nagpapanatili ng iyong kalusugan at nakakatipid ng enerhiya. Kaya, kumuha ka ng hagdan kung kaya mo.",
 			"header": "Gamit ng hagdan"
 		},
 		"txt_InteriorOfficeIntro": {
-			"info": "Sa pamamagitan ng pagpapatupad ng Green Building Code, ang aming mga gusali ay idinisenyo upang bawasan ang paggamit ng enerhiya nang may pagsasaalang-alang sa pagiging epektibo sa gastos, pagpapaandar ng gusali, kaginhawahan, kalusugan, kaligtasan, at pagiging produktibo ng mga nakatira. Tulad ng iyong tahanan, ang aming mga opisina ay nilagyan ng mga teknolohiyang matipid sa enerhiya!",
-			"header": "Ito ang iyong lugar ng trabaho!"
+			"info": "Sa pamamagitan ng pagpapatupad ng Energy Conserving Design of Buildings, ang gusaling ito ay idinisensyo na may pagsasaalang-alang sa matipid na paggamit ng enerhiya. Gaya na iyong tahanan, ang gusaling ito ay may mga energy efficient technology.",
+			"header": "Ito ang iyong opisina."
 		},
 		"txt_InteriorOfficeConferenceLighting": {
 			"info": "Pumili ng mga bombilya na matipid sa enerhiya. Maaari mong palitan ang mga kasalukuyang bumbilya ng mga light emitting diode (LED) na ilaw.",
@@ -702,35 +727,35 @@
 			"header": "Projektor/Malaking Screen"
 		},
 		"txt_InteriorOfficeCubicleLighting": {
-			"info": "Pumili ng mga bombilya na matipid sa enerhiya. Maaari mong palitan ang mga kasalukuyang bumbilya ng mga light emitting diode (LED) na ilaw.",
+			"info": "Pumili ng energy efficient light bulbs katulad ng light emitting diode o LED bulbs upang mas makatipid sa konsumo ng kuryente.",
 			"header": "Pailaw"
 		},
 		"txt_InteriorOfficeCubicleCentralAir": {
-			"info": "Upang gawing mas mahusay ang paglamig, isaalang-alang ang laki ng lugar bago mag-install ng mga air conditioning unit.",
-			"header": "Sentral na Air Conditioning"
+			"info": "I-set ang temperature ayon sa nakasaad sa gumawa ng air conditioner.",
+			"header": "Central na Air Conditioning"
 		},
 		"txt_InteriorOfficeCubicleWindow": {
-			"info": "Ang mga salamin na dingding at pinto ay nagdadala ng natural na liwanag at nagbabawas ng pagkonsumo ng kuryente.",
+			"info": "Gumagait ang mga modernong gusali ng natural na liwanag upang makatipid sa pagkonsumo ng kuryente.",
 			"header": "Mga Bintana"
 		},
 		"txt_InteriorOfficeCubicleComputers": {
-			"info": "Pupunta sa isang pulong?\n\nItakda ang iyong mga personal na computer sa Sleep Mode kung mawawala ka nang higit sa 15 minuto.",
+			"info": "Pupunta sa pagpupulong? I-switch ang iyong personal computer sa Sleep Mode kung hindi ito gagamitin nang mahigit sa 15 minuto.",
 			"header": "Kompyuter"
 		},
 		"txt_InteriorOfficeCubicleCharger": {
-			"info": "Ang mga istasyon ng pag-charge na matipid sa enerhiya para sa mga mobile device ay maaaring magbigay ng karagdagang halaga sa lahat ng empleyado at makakatulong na hikayatin silang maging mas mulat sa paggamit ng kuryente nang wasto.",
+			"info": "Ang mga energy-efficient charging stations para sa mga mobile device ay nakakatulong sa mga empleyado habang ine-engganyo silang matipid din sa paggamit ng kuryente.",
 			"header": "Charger para sa mga mobile device"
 		},
 		"txt_InteriorOfficeCubicleLarge": {
-			"info": "I-print lamang ang iyong mga dokumento kung kinakailangan. Tandaan na ang pagpili na basahin ito sa iyong telepono o tablet ay makakabawas sa iyong pagkonsumo ng papel at kuryente.",
+			"info": "Mag-print lamang ng dokumento kung kinakailangan. Hangga't maaari, basahin na lamang ang dokumento gamit ang mobile device upang makabawas sa pagkonsumo ng papel at kuryente.",
 			"header": "Malaking Makina (Photocopier)"
 		},
 		"txt_InteriorOfficeElevatorElevator": {
-			"info": "Gamitin ang hagdan kung aakyat o bababa ng hindi higit sa dalawang palapag. Ito ay mabuti para sa iyong kalusugan din!",
+			"info": "Hangga't maaari, gamitin ang hagdan kung aakyat o bababa ng hindi hihigit sa dalawang palapag. Ito ay makakabuti rin sa iyong kalusugan.",
 			"header": "Elevators"
 		},
 		"txt_InteriorOfficeElevatorWindow": {
-			"info": "Ang mga salamin na dingding at pinto ay nagdadala ng natural na liwanag na nakakabawas sa pagkonsumo ng kuryente.",
+			"info": "Ang mga salamin na dingding at bintana ay nagdadala ng natural liwanag at nakakatulong sa pagbawas ng konsumo ng kuryente.",
 			"header": "Mga Bintana"
 		},
 		"txt_InteriorOfficePantryLighting": {
@@ -738,7 +763,7 @@
 			"header": "Pailaw"
 		},
 		"txt_InteriorOfficePantryFaucet": {
-			"info": "Kung maghuhugas ka ng pinggan, isara and gripo pag hindi nagbabanlaw.",
+			"info": "Kung ikaw ay naghuhugas ng pinggan, isara ang gripo kung hindi nagbabanlaw.",
 			"header": "Gripo"
 		},
 		"txt_InteriorOfficePantryKettle": {
@@ -754,15 +779,15 @@
 			"header": "Pailaw"
 		},
 		"txt_InteriorOfficePersonalCentralAir": {
-			"info": "Itakda ang iyong mga air conditioning unit sa mga tamang pamantayang temperatura 24-25°C upang makatipid ng enerhiya.",
-			"header": "Sentral na Air Conditioning"
+			"info": "Itakda sa tamang tempetatura (24-25 degrees celsius) ang air conditioner upang makatipid sa kuryente.",
+			"header": "Central na Air Conditioning"
 		},
 		"txt_InteriorOfficePersonalWindow": {
-			"info": "Sa araw, pinapatay ng iyong opisina ang mga artipisyal na ilaw at gumagamit ng natural na liwanag.",
+			"info": "Sa araw, awtomatikong namamatay ang mga ilaw upang gumamit ng natural na liwanag.",
 			"header": "Mga Bintana"
 		},
 		"txt_InteriorOfficePersonalComputers": {
-			"info": "Huwag kalimutang i-off ang iyong computer/laptop o hibernate/sleep ang iyong PC kapag hindi ginagamit.",
+			"info": "Huwag kalimutang patayin, i-hibernate, o ilagay sa sleep mode ang iyong personal computer kung hindi ito ginagamit.",
 			"header": "Kompyuter"
 		},
 		"txt_InteriorOfficePersonalChargers": {
@@ -774,19 +799,19 @@
 			"header": "Saksakan"
 		},
 		"txt_InteriorOfficeReceptionLighting": {
-			"info": "Sa araw, pinapatay ng iyong opisina ang mga artipisyal na ilaw at gumagamit ng natural na liwanag.",
+			"info": "Sa araw, awtomatikong namamatay ang mga ilaw upang gumamit ng natural na liwanag.",
 			"header": "Pailaw"
 		},
 		"txt_InteriorOfficeReceptionAircon": {
-			"info": "Ang laki ng kuwarto ay mahalaga kapag pumipili ng tamang air conditioning unit para sa iyong lugar ng trabaho. I-install ang air conditioning unit sa pinakamalamig na bahagi ng kuwarto, kung maaari, sa isang makulimlim na bahagi kung saan available ang maximum na sirkulasyon ng hangin.",
-			"header": "Air condition"
+			"info": "Ang sukat ng kwarto ay mahalaga sa pagpili ng tamang air conditioner. Kung maaari, ilagay ang air conditioner sa pinakamalamig at makulimlim na bahagi ng opisina.",
+			"header": "Air Conditioner"
 		},
 		"txt_InteriorOfficeReceptionWindow": {
 			"info": "Sinasamantala ng mga moderno at mahusay na gusali ang natural na pag-iilaw upang makatipid sa pagkonsumo ng kuryente.",
 			"header": "Mga Bintana"
 		},
 		"txt_InteriorOfficeRestroomLighting": {
-			"info": "Ang banyong ito ay may mga awtomatikong kontrol sa pag-iilaw, partikular, mga sensor ng occupancy, na nagtitipid ng enerhiya sa pamamagitan ng awtomatikong pag-off ng mga ilaw kapag hindi ginagamit.",
+			"info": "Ang banyong ito ay gumagamit ng automatic lighting, partikular, ang sensor occupancy na  kusang nagpapatay ng ilaw kapag walang gumagamit upang makatipid sa kuryente.",
 			"header": "Pailaw"
 		},
 		"txt_InteriorOfficeRestroomFaucet": {
@@ -794,7 +819,7 @@
 			"header": "Gripo"
 		},
 		"txt_InteriorOfficeRestroomVentilation": {
-			"info": "Bukod sa mga bintana at pinto, ang pag-install ng mga exhaust fan sa mga palikuran ay mapapabuti ang sirkulasyon ng hangin at maiwasan ang kahalumigmigan.",
+			"info": "Ang pag-i-install ng exhaust fan sa palikuran ay nakakatulong sa sirkulasyon ng hangin upang maiwasan ang kahalumigmigan.",
 			"header": "Bentilasyon"
 		},
 		"txt_InteriorEcoZoneIntro": {
@@ -806,27 +831,27 @@
 			"header": "Pailaw"
 		},
 		"txt_InteriorEcoZoneEcoPartWater": {
-			"info": "Gamitin muli ang tubig kung saan naaangkop para sa pagdidilig ng mga halaman at paglilinis ng mga itinalagang lugar. Halimbawa: Ang tubig mula sa mga fountain ay maaaring gamitin muli para sa pagdidilig ng mga halaman sa halip na ibuhos lamang ito.",
+			"info": "Ang tubig mula sa fountain ay maaaring gamitin para sa pagdidilig ng halaman.",
 			"header": "Wastong paggamit ng tubig"
 		},
 		"txt_InteriorEcoZoneEcoPartVentilation": {
-			"info": "Ang mga bukas na bahagi ng gusali na nakaharap sa langit, kalsada, o air well ay tuturing na katanggaptanggap na pagkukunan ng natural na ilaw at bentilasyon",
+			"info": "Ang lugar na ito ay mayroong natural na liwanag at bentilasyon. Mayroon ding mga weatherproof na lamesa at upuan dito upang maging kapaki-pakinabang ang bukas na gusali.",
 			"header": "Bentilasyon"
 		},
 		"txt_InteriorEcoZoneGarageParking": {
-			"info": "Sa kaso ng mga pampublikong garahe, ang dalawa o higit pang mga gilid ng garahe ay dapat magkaroon ng butas para sa cross ventilation at ang pagbubukas ng lugar ay hindi bababa sa 50% ng lugar ng pader kung saan ito matatagpuan.",
+			"info": "Gamit ang supervisory control and data acquisition (SCADA) ng building management system (BMS), otomatikong nadi-detect ang lebel ng kontaminasyon sa mga bentilasyon ng panloob na paradahan.",
 			"header": "Paradahan"
 		},
 		"txt_InteriorEcoZoneGarageCharging": {
 			"info": "Ang pag-install ng mga charging station sa parking area ay mas madaling ma-access at maginhawa para sa pag-charge ng mga electric vehicle (EV).",
-			"header": "Mga Istasyon para sa pag-charge sa mga EV"
+			"header": "Charging Station ng mga Electric Vehicles"
 		},
 		"txt_InteriorEcoZoneGarageSolar": {
 			"info": "Ang paggamit ng mga solar panel ay nakakabawas nang malaki sa carbon footprint at nakakatulong na makatipid ng pera.",
 			"header": "Solar Panels"
 		},
 		"txt_InteriorEcoZoneMechHubLighting": {
-			"info": "Siguraduhing gumamit ng energy efficient lighting gaya ng light emitting diode (LED) bulbs. Makakatulong ito na makatipid sa iyong buwanang singil sa kuryente at makatutulong din sa pangangalaga sa ating kapaligiran!",
+			"info": "Gumamit ng mga pailaw na matipid sa kuryente katulad ng light emitting diode (LED) lamp. Ito ay nakakatipid sa buwanang singil ng kuryente at nakakatulong sa kalikasan.",
 			"header": "Pailaw"
 		},
 		"txt_InteriorEcoZoneMechHubVentilation": {
@@ -843,7 +868,7 @@
 		},
 		"txt_InteriorEcoZoneOfficeCentralAir": {
 			"info": "Ang pagpapanatili ng air conditioning ay dapat na itakda nang regular upang matiyak na ito ay gumagana nang maayos sa kanyang pinakamahusay na walang pag-aaksaya sa pagkonsumo ng kuryente.",
-			"header": "Sentral na Air Conditioning"
+			"header": "Central na Air Conditioning"
 		},
 		"txt_InteriorEcoZoneOfficeWindow": {
 			"info": "Sa araw, patayin ang mga ilaw at i-maximize ang paggamit ng sikat ng araw, lalo na sa mga opisinang may malalaking bintana sa paligid - ang paggamit ng mga blind o kurtina ay maaaring makatulong sa pagkontrol ng temperatura at pagkakalantad sa araw.",
@@ -858,47 +883,47 @@
 			"header": "Charger para sa mga mobile device"
 		},
 		"txt_InteriorEcoZoneProcessHubLighting": {
-			"info": "Siguraduhing gumamit ng matipid na pag-iilaw tulad ng light-emitting diode (LED) na mga bumbilya. Makakatulong ito na makatipid sa iyong buwanang singil sa kuryente at makatutulong din sa pangangalaga sa ating kapaligiran!",
+			"info": "Gumamit ng mga pailaw na matipid sa kuryente katulad ng light emitting diode (LED) lamp. Ito ay nakakatipid sa buwanang singil ng kuryente at nakakatulong sa kalikasan.",
 			"header": "Pailaw"
 		},
 		"txt_InteriorEcoZoneProcessHubVentilation": {
-			"info": "Ang pag-install ng exhaust systems ay nagpapanatili ng kalidad ng hangin ng mga pabrika sa pamamagitan ng pag-alis ng kontaminadong hangin sa loob ng bahay.",
+			"info": "Ang paglalagay ng exhaust system ay nagpapanatili ng kalidad ng hangin sa pabrika sa pamamagitan ng pag-aalis ng kontaminadong hangin.",
 			"header": "Bentilasyon"
 		},
 		"txt_InteriorEcoZoneProcessHubCooling": {
-			"info": "Ang pagkonsumo ng kuryente ng mga air conditioning system ay maaaring mapababa sa pamamagitan ng pagbawas ng init mula sa mga gusali na gumagamit ng mga cooling system.",
+			"info": "Maaring mapababa ang konsumo ng kuryente sa pamamagitan ng pagbabawas ng init sa loob ng gusali na gumagamit ng mga air conditioner.",
 			"header": "Mga systema ng pangpalamig"
 		},
 		"txt_InteriorEcoZoneProcessHubBoiling1": {
-			"info": "Para sa pagbuo ng singaw, gumamit ng boiler na may rating ng kahusayan na 85% pataas.",
+			"info": "Gumamit ng boiler na may rating ng kahusayang na 85%.",
 			"header": "Boiler"
 		},
 		"txt_InteriorEcoZoneProcessHubBoiling2": {
-			"info": "Ang mga sistema ng mainit na tubig ay dapat nilagyan ng mabisa na awtomatikong kontrol sa temperatura.",
+			"info": "Lagyan ng otomatikong kontrol sa temperatura ang mga boiler.",
 			"header": "Boiler"
 		},
 		"txt_InteriorEcoZonePumpzoneVentilation": {
-			"info": "Gumamit ng napapanatiling arkitektura at panloob na disenyo para matiyak na may maayos na bentilasyon sa processing hub.",
+			"info": "Gumamit ng pangmatagalan at modernong arkitektura na may maayos na bentlisayon para sa sirkulasyon ng hangin at matipid na paggamit ng enerhiya.",
 			"header": "Bentilasyon"
 		},
 		"txt_InteriorEcoZonePumpzoneSteam": {
-			"info": "Ang singaw ay mas matipid kumpara sa kuryente. Kung saan magagamit ang singaw, gamitin ito upang makabuo ng mainit na tubig sa halip na kuryente.",
-			"header": "Steam at Hot Water System(Pipelines)"
+			"info": "Ang singaw mula sa mainit ng tubig ay mas matipid kaysa kuryente. Kung maaari, gumamit ng steam kaysa kuryente.",
+			"header": "Steam at Hot Water System (Pipelines)"
 		},
 		"txt_InteriorEcoZonePumpzoneGenerator": {
-			"info": "Sa kawalan ng singaw, gumamit ng isang direktang pinainitang hot water generator na may rating ng kahusayan na 85% pataas.",
+			"info": "Kung walang steam, gumamit ng direct hot water generator upang na may 85% pataas rating ng kahusayan.",
 			"header": "Generator"
 		},
 		"txt_InteriorEcoZoneWarehouseLighting": {
-			"info": "Siguraduhing gumamit ng matipid sa enerhiya na ilaw tulad ng mga fluorescent lamp, CFL lamp at LED lamp - ito ay parehong makakatulong na makatipid ng pera sa iyong buwanang singil sa kuryente at makatutulong din sa pangangalaga sa kapaligiran!",
+			"info": "Gumamit ng mga pailaw na matipid sa kuryente katulad ng light emitting diode (LED) lamp. Ito ay nakakatipid sa buwanang singil ng kuryente at nakakatulong sa kalikasan.",
 			"header": "Pailaw"
 		},
 		"txt_InteriorEcoZoneWarehouseVentilation": {
-			"info": "Gumamit ng napapanatiling arkitektura at panloob na disenyo para matiyak na may maayos na bentilasyon sa processing hub.",
+			"info": "Sa pamamagitan ng bentilasyon, napapanatili ang tamang temperatura at kahalumigmigan ng isang establisyimento na siyang nakakatulong sa pagbabawas ng konsumo sa enerhiya.",
 			"header": "Bentilasyon"
 		},
 		"txt_InteriorEcoZoneWastedDisposalWaterDispoal": {
-			"info": "Ang mga sistema ng pagtatapon ng basura ay dapat ipatupad na may mga prosesong nakataguyod na. Ang mga itinalagang crew na namamahala ay dapat magkaroon ng regular na pagsubaybay at pag-uulat sa kalidad at paggamit ng tubig.",
+			"info": "Siguraduhing may ipinapatupad na tamang sistema sa pagtatapon ng tubig ang inyong pabrika. Inaasahan ding regular na nakasubayay at nag-uulat ng kalidad ng tubig ang crew na namamahala sa pagtatapon nito.",
 			"header": "Mga sistema ng pagtatapon ng tubig"
 		},
 		"txt_InteriorEcoZoneWastedDisposalWaterTreatment": {
@@ -919,7 +944,7 @@
 		},
 		"txt_InteriorEnerhiyangAtinDeskAircon": {
 			"info": "Ayon sa Inter-Agency Energy Efficiency and Conservation Committee (IAEECC) No. 1 at No. 3, ang lahat ng tanggapan ng gobyerno ay inaatasan na gumamit ng energy efficient inverter-type air-conditioning units o katulad na mga katumbas na teknolohiya. Bukod dito, ang mga air-conditioner sa mga opisina ng gobyerno ay dapat na nakatakda sa temperaturang 24-25°C na naaayon sa pamantayan upang makatipid ng enerhiya.",
-			"header": "Air Conditioning"
+			"header": "Air Conditioner"
 		},
 		"txt_InteriorEnerhiyangAtinDeskStairUse": {
 			"info": "Ang paggamit ng hagdanan ay nakakatulong sa iyong kalusugan at nakakatipid ng kuryente. Hangga't maari, maghagdanan kung kaya naman.",
