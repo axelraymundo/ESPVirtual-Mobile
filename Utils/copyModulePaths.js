@@ -33,11 +33,13 @@ export const copyModulePaths = async () => {
     await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport`);
     await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport/clip`);
     await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu`);
+    await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/default`);
     await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/batangas`);
     await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/batangascity`);
     await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/cagayan`);
     await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/iloilo`);
     await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/tagum`);
+    await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport/sticker`);
 
     await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${images}/quiz_engine/bg`);
     await RNFS.mkdir(
@@ -123,7 +125,7 @@ export const copyModulePaths = async () => {
       `${assets2}/fonts/lato-regular_0.png`,
       `${assets2}/fonts/lato-regular.fnt`,
       `${assets2}/fonts/lato-regular.ttf`,
-      // `${assets2}/fonts/Lato-Regular.ttf`,
+      `${assets2}/fonts/Lato-Regular.ttf`,
       `${assets2}/fonts/Lato-Thin.ttf`,
       `${assets2}/fonts/Lato.fnt`,
       `${assets2}/fonts/latoblack.fnt`,
@@ -171,12 +173,12 @@ export const copyModulePaths = async () => {
       `${images2}/building/cityhall_temp.png`,
       `${images2}/building/court.png`,
       `${images2}/building/economic_zone_temp.png`,
+      `${images2}/building/Economical_temp.png`,
       `${images2}/building/economical_temp.png`,
       `${images2}/building/economical_zone.png`,
       `${images2}/building/embassy_temp.png`,
       `${images2}/building/embassy.png`,
       `${images2}/building/external_map_1.png`,
-      `${images2}/building/external_map_3.png`,
       `${images2}/building/external_map_20210312.jpg`,
       `${images2}/building/external_map_20210312.png`,
       `${images2}/building/external_map.jpg`,
@@ -336,6 +338,10 @@ export const copyModulePaths = async () => {
       `${interior2}/seaport/lgu/cagayan/CDO Photo 1 - GEMP Awarding.png`,
       `${interior2}/seaport/lgu/cagayan/content.png`,
       `${interior2}/seaport/lgu/cagayan/preview.png`,
+  
+      //default
+      `${interior2}/seaport/lgu/default/content.png`,
+      `${interior2}/seaport/lgu/default/preview.png`,
 
       //iloilo
       `${interior2}/seaport/lgu/iloilo/content.png`,
@@ -348,6 +354,13 @@ export const copyModulePaths = async () => {
       `${interior2}/seaport/lgu/tagum/preview.png`,
       `${interior2}/seaport/lgu/tagum/Tagum City Photo 1 - GEMP Awarding.png`,
 
+       //sticker
+       `${interior2}/seaport/sticker/sticker_1.png`,
+       `${interior2}/seaport/sticker/sticker_2.png`,
+       `${interior2}/seaport/sticker/sticker_3.png`,
+       `${interior2}/seaport/sticker/sticker_4.png`,
+       `${interior2}/seaport/sticker/sticker_5.png`,
+ 
       //interior seaport
       `${interior2}/seaport/corkboard_1.jpg`,
       `${interior2}/seaport/corkboard_2.jpg`,
@@ -442,15 +455,14 @@ export const copyModulePaths = async () => {
       `${images2}/ui/characters/user_guide_m_pv_1.png`,
       `${images2}/ui/characters/user_guide_male.png`,
 
-   //ui on exit button
-   `${images2}/ui/exit_button/btn_general.png`,
-   `${images2}/ui/exit_button/exit_left.png`,
-   `${images2}/ui/exit_button/exit_middle.png`,
-   `${images2}/ui/exit_button/exit_right.png`,
-   `${images2}/ui/exit_button/shadow_left.png`,
-   `${images2}/ui/exit_button/shadow_middle.png`,
-   `${images2}/ui/exit_button/shadow_right.png`,
-
+      //ui on exit button
+      `${images2}/ui/exit_button/btn_general.png`,
+      `${images2}/ui/exit_button/exit_left.png`,
+      `${images2}/ui/exit_button/exit_middle.png`,
+      `${images2}/ui/exit_button/exit_right.png`,
+      `${images2}/ui/exit_button/shadow_left.png`,
+      `${images2}/ui/exit_button/shadow_middle.png`,
+      `${images2}/ui/exit_button/shadow_right.png`,
 
       //ui on internalpopup
       `${images2}/ui/internalpopup/blue_container.png`,
