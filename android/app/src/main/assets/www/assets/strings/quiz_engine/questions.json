@@ -791,6 +791,1262 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": 4,
+            "title": "Category 5",
+            "questions": [
+                {
+                    "id": 1,
+                    "text": "An energy saving technology that eliminates wasted operation by efficiently controlling motor speed.",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Inverter",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Power backup",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Change over system",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "text": "What is the meaning of 'ESCO'?",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Energy Service Companies",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Energy Saving Companies",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Entitled Service Contractors",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "text": "What is the purpose of an ESCO?",
+                    "choices": [
+                        {
+                            "text": "Certified contractor for implementing EE projects and energy audit",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Certified contractor for financial audits",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Retail Company",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "text": "Who can register as an ESCO?",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "DTI/SEC-registered companies",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "International companies only",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Electrical contractors only",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "text": "What is an example of Energy Efficiency Project?",
+                    "choices": [
+                        {
+                            "text": "All of the above",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Production line improvement",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Solar power installation",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "text": "What are the two (2) classification of an ESCO?",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Certified and Registered",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "SSS and A+ ESCO",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Type 1 and Type 2",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "text": "What is the meaning of “CEA”?",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Certified Energy Auditor",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Certification for Energy Audit",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Certified Energy Athletics",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "text": "What is the primary function of a CEA?",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "To conduct energy audit",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "To implement energy efficient practices",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "To suggest energy efficient design",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "text": "What is the meaning of 'CEM'?",
+                    "choices": [
+                        {
+                            "text": "Certified Energy Manager",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Certified Electro-Mechanical Manager",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Certified Engine Mechanic",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "text": "Certified Energy Managers are required to be employed by what Designated Establishment Type?",
+                    "choices": [
+                        {
+                            "text": "Type 2",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Type 1",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Other Type",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Category 6",
+            "questions": [
+                {
+                    "id": 1,
+                    "text": "____ partnered with DOE to draft the Training Regulations for Certified Energy Conservation Officer.",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Technical Education and Skills Development Authority (TESDA)",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Bureau of Finance (BOF)",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Security and Exchange Commission (SEC)",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "text": "The following are the qualifications of a Certified Energy Manager, except:",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Must have a post graduate degree",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Must be a graduate of a four (4) year course",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Must be a licensed Engineer",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "text": "What is the meaning of “CECO”?",
+                    "choices": [
+                        {
+                            "text": "Certified Energy Conservation Officer",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Certified Energy Contracting Officer",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Certified Efficiency Conservation Officer",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "text": "The following are the responsibilities of a Certified Energy Conservation Officer, except:",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Advise companies of their financial status and conduct financial analysis",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Manage the energy consumption of facilities, equipment and devices",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Energy monitoring and control",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "text": "Certified Energy Conservation Officers are required to be employed by what DE Type?",
+                    "choices": [
+                        {
+                            "text": "Type 1",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Type 2",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Other Type",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "text": "Designated Establishments cover the following sectors, except:",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Residential",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Transportation",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Commercial",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "text": "Designated Establishments have the following obligations, except:",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Establish training regulations for their respective energy auditor",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Set up programs to develop and design measures that promote energy efficiency",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Integrate an energy management system policy into the business operation",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "text": "Designated Establishments integrated to energy management system policy based on what ISO standard:",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "ISO 50001",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "ISO 9001",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "ISO 27000",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "text": "What is the energy consumption threshold for Type 1 DEs?",
+                    "choices": [
+                        {
+                            "text": "500,000 kWh to 4,000,000 kWh ",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "100,000 kWh to 500,000 kWh",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Above 4,000,000 kWh",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "text": "What is the energy consumption threshold for Type 2 DEs?",
+                    "choices": [
+                        {
+                            "text": "Above 4,000,000 kWh",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "500,000 kWh to 4,000,000 kWh ",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "100,000 kWh to 500,000 kWh",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Category 7",
+            "questions": [
+                {
+                    "id": 1,
+                    "text": "What is the energy consumption threshold for Other Type DEs?",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "100,000 kWh to 500,000 kWh",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "500,000 kWh to 4,000,000 kWh ",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Above 4,000,000 kWh",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "text": "How often shoud Designated Establishments conduct an energy audit?",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Every 3 years",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Every 2 years",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Every 1.5 years",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "text": "It is used to visually represent the energy efficiency rating of the product in the energy labels.",
+                    "choices": [
+                        {
+                            "text": "Star",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Lightning Rod",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Electric Plug",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "text": "The Anual Energy Consumption Reports of desinated establishments are due every?",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "15th of April",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "10th of April",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "12th of April",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "text": "The Annual Energy Consumption Report of designated establishments should cover what period?",
+                    "choices": [
+                        {
+                            "text": "Calendar year period (January to December)",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "From 15th of April of the current year to March 15th of the next year",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "From February of the current year to February of the next year",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "text": "Which is not included in the Annual Energy Consumption Report of Designated Establishments?",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Total annual water consumption of the DE",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "All types of fuel consumed in transportation operation of the DE",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Waste oil utilized by DE",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "text": "Energy conserving designs of buildings cover the following, except:",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Acquisition of equipment for process line improvement",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Building expansion",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Building retrofit ",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "text": "What is the proposed temperature range for comfort cooling?",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "24°C to 25°C",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "25°C to 26°C",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "22°C to 23°C",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "text": "Which of the following is an Energy Conservation practice? ",
+                    "choices": [
+                        {
+                            "text": "Turning off of appliances when not in use",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Cleaning the condenser coil of a refrigerator",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Dressing according to the weather",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "text": "Which product is NOT covered by the Philipine Energy Labelling Program?",
+                    "choices": [
+                        {
+                            "text": "Gas Range",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "LED Lamp",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Refrigerator",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Category 8",
+            "questions": [
+                {
+                    "id": 1,
+                    "text": "What is the meaning of “DSM”?",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Demand Side Management",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Demand Slide Management",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Designated Side Management",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "text": "How many working days does DOE need to evaluate and endorse energy efficiency projetcs?",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "20",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "19",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "15",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "text": "What is the meaning of 'EEE' Awards?",
+                    "choices": [
+                        {
+                            "text": "Energy Efficiency Excellence Awards",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Energy Excellence Efficiency Awards",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Excellence Efficiency Energy Awards ",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "text": "The following are the categories for the Energy Efficiency Excellence Awards except:",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Outstanding Hospitality Services ",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Industries, Buildings, and Government entities",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Outstanding Individuals & Groups",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "text": "What is the meaning of 'EEF'?",
+                    "choices": [
+                        {
+                            "text": "Energy Efficiency Factor",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Energy Electronic Factor",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Energy Efficient Fan",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "text": "Which is a two-star Energy Efficiency Performance Rating for frost-free refrigerators?",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "251 - 320",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "180 - 250",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "371 - 449",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "text": "Which bureau is responsible for the implementation of the Energy Efficiency and Conservation Act?",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Energy Utilization Management Bureau",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Energy Resource Development Bureau",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Renewable Energy Management Bureau",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "text": "DOE reviews and updates the list of identified Designated Establishments every two years.",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "TRUE",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "FALSE",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "text": "A device designed to perform a specific task or function, usually for domestic purposes.",
+                    "choices": [
+                        {
+                            "text": "Appliance",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Tools",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Machines",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "text": "As defined in the PELP, it refers to products that utilize any form of energy for a specific use ",
+                    "choices": [
+                        {
+                            "text": "Energy-Consuming Products",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Fuel-Consuming Products",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Energy-Driven Products",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Category 9",
+            "questions": [
+                {
+                    "id": 1,
+                    "text": "A sticker or marker attached to a product to show its energy performance ratings",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Energy Label",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Performance Label",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Star Label",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "text": "An initiative of DOE that requires the attachment of an energy label in specific consumer products",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Philippine Energy Labeling Program",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Minimum Energy Performance Program",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Energy Appliances and Lightings Act",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "text": "The lowest energy performance rating prescribed to be sold in the market ",
+                    "choices": [
+                        {
+                            "text": "Minimum Energy Performance",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Lowest Allowed Rating",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Minimum Energy Rating",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "text": "A system used to cool down the temperature indoors by removing the existing heat and moisture.",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Air Conditioner",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Electric Fan",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Refrigerator",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "text": "Floor-mounted, wall-mounted, ceiling-installed, and ceiling-cassette are types of",
+                    "choices": [
+                        {
+                            "text": "Split-type aircons",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Chillers",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Evaporative coolers",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "text": "An appliance or compartment which is artificially kept cool and used to store food and drinks",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Refrigerator",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Ice-Maker",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Microwave",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "text": "A system that transmits visual images and sound that are projected on screens to broadcast programs.",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Television",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Cellphone",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Radio",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "text": "A light-giving device, consisting of an electric bulb together with its holder and shade or cover",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Lamp",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Post",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Film",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "text": "What is the current metric used to assess the efficiency levels of air conditioning units?",
+                    "choices": [
+                        {
+                            "text": "Cooling Seasonal Performance Factor",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Energy Efficiency Ratio",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Energy Efficiency Factor",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "text": "What is the current metric used to assess the efficiency levels of lamps?",
+                    "choices": [
+                        {
+                            "text": "Efficacy",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Energy Efficiency Ratio",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Energy Efficiency Factor",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Category 10",
+            "questions": [
+                {
+                    "id": 1,
+                    "text": "What is the current metric is used to assess the efficiency levels of TVs?",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Energy Efficiency Factor",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Efficacy",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Energy Efficiency Ratio",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "text": "What is the current metric used to assess the efficiency levels for Refrigerators?",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Energy Efficiency Factor",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Efficacy",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Energy Efficiency Ratio",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "text": "According to the Philippine Energy Labeling Program where should energy labels be placed?",
+                    "choices": [
+                        {
+                            "text": "In the product itself or its packaging",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "In a logbook",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "In the retailer's database",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "text": "Inverter-type appliances use less energy during operation because…",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "It can change its motor speed",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "It can change motor size",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "It is voice-activated",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "text": "Which is not included in the DOE energy labels?",
+                    "choices": [
+                        {
+                            "text": "Product Price",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Star Rating",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Product Brand",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "text": "Which does not correlate to an air conditioner's efficiency rating or size?",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Installation-Type",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "kJ/hr rating",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "kW rating",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "text": "Fixed-speed aircons are also called",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Conventional Types",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Normal Types",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Stable Types",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "text": "What is the unit for electricity consumption?",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Kilowatt-Hours",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Watts",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Kilowatts",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "text": "It is the working fluid used in the refrigeration cycles of aircons and refrigerators",
+                    "choices": [
+                        {
+                            "text": "Refrigerants",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Ice",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Cold Water",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "text": "In buying air conditioners, which factors must be considered?",
+                    "choices": [
+                        {
+                            "text": "All of the above",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Room Size",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Cooling Capacity",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
