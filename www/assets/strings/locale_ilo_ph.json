@@ -8,28 +8,28 @@
 			"align": 1
 		},
 		"title_btnToReturn": {
-			"text": "Close",
+			"text": "Iserra",
 			"font": "font_lato_reg",
 			"size": 36,
 			"color": "0xFFFFFF",
 			"align": 1
 		},
 		"title_btnToCity": {
-			"text": "Exit to City",
+			"text": "Mapan idiay Siudad",
 			"font": "font_lato_bold",
 			"size": 36,
 			"color": "0xFFFFFF",
 			"align": 1
 		},
 		"title_btnExit": {
-			"text": "Let's exit\nto the city",
+			"text": "Rumwar tayo\nidi Siudad",
 			"font": "font_lato_reg",
 			"size": 35,
 			"color": "0x879EC7",
 			"align": 1
 		},
 		"title_btnNext": {
-			"text": "Next",
+			"text": "Tuloy",
 			"font": "font_lato_reg",
 			"size": 35,
 			"color": "0xFFFFFF",
@@ -43,7 +43,7 @@
 			"align": 1
 		},
 		"title_btnExplore": {
-			"text": "Let's continue\nexploring!",
+			"text": "Ituloy ta idi\nagsarak!",
 			"font": "font_lato_reg",
 			"size": 35,
 			"color": "0xFFFFFF",
@@ -78,75 +78,75 @@
 			"align": 1
 		},
 		"title_btnInterior": {
-			"text": "Go Inside",
+			"text": "Sumrek",
 			"font": "font_lato_bold",
 			"size": 62,
 			"color": "0xFFFFFF",
 			"align": 1
 		},
 		"title_btnAboutUs": {
-			"text": "About Us",
+			"text": "Impormasyon Panggep Kadakami",
 			"font": "font_lato_bold",
 			"size": 48,
 			"color": "0xFFFFFF",
 			"align": 1
 		},
 		"exitPrompt_txtExitNoProgress": {
-			"text": "Do you want to exit the game? Progress will not be saved and will be restarted next time!",
+			"text": "Kayat mo ba iti umalis kadetoy ayayam? Daytoy naubraam ket haan nga mai-save ken agsubli kanto manen ton sumaruno,",
 			"size": 44,
 			"color": "0x884c24",
 			"align": 1
 		},
 		"exitPrompt_txt": {
-			"text": "Do you want to exit the game?",
+			"text": "Kayat mo ba iti umalis kadetoy ayayam?",
 			"size": 44,
 			"color": "0x884c24",
 			"align": 1
 		},
 		"quiz_txtKeepQuizzing": {
-			"text": "You still have light bulbs!\nDo you want to keep quizzing?",
+			"text": "Adda pay bumbilyam!\nKayat mo pay ba iti agtuloy kadetoy examen?",
 			"font": "font_lato_bold",
 			"size": 42,
 			"color": "0x000000",
 			"align": 0
 		},
 		"quiz_txtExitCity": {
-			"text": "Back to the city?",
+			"text": "Agsubli idiay siudad??",
 			"font": "font_lato_bold",
 			"size": 42,
 			"color": "0x000000",
 			"align": 2
 		},
 		"exitPrompt_txtExitYes": {
-			"text": "Yes",
+			"text": "Wen",
 			"font": "font_lato_reg",
 			"size": 30,
 			"color": "0xFFFFFF",
 			"align": 1
 		},
 		"exitPrompt_txtExitNo": {
-			"text": "No",
+			"text": "Haan",
 			"font": "font_lato_reg",
 			"size": 30,
 			"color": "0xFFFFFF",
 			"align": 1
 		},
 		"settings_txtCancel": {
-			"text": "CANCEL GAME",
+			"text": "I-KANSEL ITI AYAYAM",
 			"font": "font_lato_reg",
 			"size": 30,
 			"color": "0x79828B",
 			"align": 1
 		},
 		"settings_txtLanguage": {
-			"text": "Language",
+			"text": "Lengguwahe",
 			"font": "font_lato_bold",
 			"size": 30,
 			"color": "0x79828B",
 			"align": 1
 		},
 		"settings_txtAudio": {
-			"text": "Audio",
+			"text": "Uni",
 			"font": "font_lato_reg",
 			"size": 28,
 			"color": "0x79828B",
@@ -160,14 +160,14 @@
 			"align": 1
 		},
 		"settings_txtReplayTutorial": {
-			"text": "REPLAY TUTORIAL",
+			"text": "I-REPLAY ITI TUTORIAL",
 			"font": "font_lato_bold",
 			"size": 30,
 			"color": "0x51E583",
 			"align": 1
 		},
 		"settings_txtSignOut": {
-			"text": "SIGN OUT",
+			"text": "AGSIGN OUT",
 			"font": "font_lato_bold",
 			"size": 30,
 			"color": "0x51E583",
@@ -188,14 +188,14 @@
 			"align": 1
 		},
 		"settings_txtNoInternetWattmatters": {
-			"text": "Internet connection required!",
+			"text": "Masapol iti koneksiyo ti Internet!",
 			"font": "font_lato_bold",
 			"size": 42,
 			"color": "0x79828B",
 			"align": 1
 		},
 		"tutorial_txtTapAnywhere": {
-			"text": "Tap anywhere to continue",
+			"text": "Ag-tap uray ayannuna tapno agtuloy.",
 			"font": "font_lato_black",
 			"size": 48,
 			"color": "0xffffff",
@@ -299,47 +299,47 @@
 	"dialogue": {
 		"tutorial_1": {
 			"header": "Tutorial",
-			"header_info": "Welcome to the City of Energia!",
-			"info": "Learn all about the different energy and water practices that can be done whether at home or anywhere else!\n\nWe are your guides to this wonderful place."
+			"header_info": "Naragsak nga sasangpet idtoy Siudad iti Energia!",
+			"info": "Amwen dagiti saba sabali nga pamay-an panggep iti pinagtipid ken usto nga pinag-usar iti enerhiya ken danum.\n\nDakami idi gabay mo kadetoy nga tour."
 		},
 		"tutorial_2_gener": {
-			"header": "Guide Gener",
-			"info": "I am Gener!"
+			"header": "Gabay Gener",
+			"info": "Siak ni Gener!"
 		},
 		"tutorial_2_gia": {
-			"header": "Guide Gia",
-			"info": "And I am Gia!"
+			"header": "Gabay Gia",
+			"info": "Siak met ni Gia!"
 		},
 		"tutorial_3": {
-			"header": "Guide Gener",
-			"info": "There are lots of places to explore in this city! Just tap the building to explore it."
+			"header": "Gabay Gener",
+			"info": "Adu iti mabalin mo nga maamwan iti tunggal luga idtoy siudad. I-tap laeng dagiti bilding nga kayat mo papanan."
 		},
 		"tutorial_4": {
-			"header": "Guide Gener",
-			"info": "Each place has a lot of rooms and locations you can check out."
+			"header": "Gabay Gener",
+			"info": "Tunggal maysa nga lugar ket adda adu nga silid ken lokasyon na nga mabalin mo nga kitaen."
 		},
 		"tutorial_5": {
-			"header": "Guide Gia",
-			"info": "If you ever get lost, feel free to press button below your left corner to call us."
+			"header": "Gabay Gia",
+			"info": "Nu maiyaw awan ka, pinduten iti      buton idta baba iti makinkannigid nga parte tapno tumawag kadakami."
 		},
 		"tutorial_6": {
-			"info": "Have fun learning and exploring the City of Energia!"
+			"info": "Agragsak iti pinagadal ken pinagtan-aw idi Siudad iti Energia!"
 		},
 		"idle_1_gener": {
-			"header": "Guide Gener",
-			"info": "Lost? Just tap the icons, arrows, or buildings to explore them. You can always press the red button to exit back to the city."
+			"header": "Gabay Gener",
+			"info": "Maiyaw awan ka ba? I-tap laeng iti icon, arrow wenno bilding tapno ag-explore. Mabalin mo nga pinduten idi nalabbaga nga button anyaman nga oras tapno rumwar ka ken agsubli idiay siudad."
 		},
 		"idle_1_gia": {
-			"header": "Guide Gia",
-			"info": "Lost? Just tap the icons, arrows, or buildings to explore them. You can always press the red button to exit back to the city."
+			"header": "Gabay Gia",
+			"info": "Maiyaw awan ka ba? I-tap laeng iti icon, arrow wenno bilding tapno ag-explore. Mabalin mo nga pinduten idi nalabbaga nga button anyaman nga oras tapno rumwar ka ken agsubli idiay siudad."
 		},
 		"doe_reception_female": {
 			"header": "Energy Conservation (EC) Officer",
-			"info": "Welcome to the Department of Energy building."
+			"info": "Naimbag nga bigat! Siak iti Energy Conservation Officer ita nga aldaw. Naragsak nga uumay mo ditoy government center idi suidad iti Energia. Daytoy ahensiya mi ket isut agsapol ken agipakaammo iti impormasyon panggep iti usto nga pinagusar iti enerhiya. Ibagam kanyak nu kasano ka nga matulungan."
 		},
 		"doe_reception_male": {
 			"header": "E-Focal Officer",
-			"info": "Our public service are dignified and true."
+			"info": "Hi, siak iti E-focal person itatta nga aldaw. Kayat mo ba nga mas makasur suro panggep iti pinagtipid iti kuryente?"
 		}
 	},
 	"icons": {
@@ -366,11 +366,11 @@
 			"left1": "Opisina"
 		},
 		"txt_IconGovernmentLibrary": {
-			"left1": "Reception"
+			"left1": "Tanggapan"
 		},
 		"txt_IconGovernmentOffice": {
-			"right1": "Reception",
-			"left1": "Parking"
+			"right1": "Tanggapan",
+			"left1": "Paradaan"
 		},
 		"txt_IconGovernmentParking": {
 			"right1": "Opisina"
@@ -408,60 +408,60 @@
 			"left1": "Sala"
 		},
 		"txt_IconSchoolClassroom": {
-			"right1": "Library"
+			"right1": "Librarya"
 		},
 		"txt_IconSchoolLibrary": {
-			"left1": "Classroom"
+			"left1": "Pagklasean"
 		},
 		"txt_IconOfficeConference": {
-			"right1": "Pantry"
+			"right1": "Pangidulinan ti Kanen"
 		},
 		"txt_IconOfficeCubicle": {
-			"right1": "Reception",
-			"left1": "Personal Office"
+			"right1": "Tanggapan",
+			"left1": "Personal nga Opisina"
 		},
 		"txt_IconOfficeElevator": {
-			"right1": "Restroom",
-			"left1": "Reception"
+			"right1": "Banyo",
+			"left1": "Tanggapan"
 		},
 		"txt_IconOfficePantry": {
-			"right1": "Personal Office",
-			"left1": "Conference Room"
+			"right1": "Personal nga Opisina",
+			"left1": "Silid iti Pinagtaripnong"
 		},
 		"txt_IconOfficePersonal": {
-			"right1": "Cubicle",
-			"left1": "Pantry"
+			"right1": "Lugar iti Cubicle",
+			"left1": "Pangidulinan ti Kanen"
 		},
 		"txt_IconOfficeReception": {
 			"right1": "Elevators",
-			"left1": "Cubicle Areas"
+			"left1": "Lugar iti Cubicle"
 		},
 		"txt_IconOfficeRestroom": {
 			"left1": "Elevators"
 		},
 		"txt_IconEcoZoneEcoPart": {
-			"right1": "Warehouse"
+			"right1": "Bodega"
 		},
 		"txt_IconEcoZoneGarage": {
 			"right1": "Processing Hub",
-			"left1": "Warehouse"
+			"left1": "Bodega"
 		},
 		"txt_IconEcoZoneMechHub": {
 			"right1": "Pump Room/Booster",
-			"left1": "Waste Disposal"
+			"left1": "Pagibellengan iti Basura"
 		},
 		"txt_IconEcoZoneOffice": {
 			"right1": "Eco-Park"
 		},
 		"txt_IconEcoZoneProcessHub": {
-			"right1": "Waste Disposal",
-			"left1": "Charging Station"
+			"right1": "Pagibellengan iti Basura",
+			"left1": "Istasyon iti Solar Charger"
 		},
 		"txt_IconEcoZonePumpZone": {
 			"left1": "Mechanical Hub"
 		},
 		"txt_IconEcoZoneWarehouse": {
-			"right1": "Charging Station",
+			"right1": "Istasyon iti Solar Charger",
 			"left1": "Eco-Park"
 		},
 		"txt_IconEcoZoneWasteDisposal": {
@@ -479,18 +479,18 @@
 			"left1": "Luzon"
 		},
 		"txt_IconSeaportMManila": {
-			"right1": "Head North",
-			"left1": "Head South"
+			"right1": "Mapan idiay Amianan",
+			"left1": "Mapan idiay Bagatan"
 		},
 		"txt_IconSeaportBoardNorthSouth": {
-			"right1": "Head North",
-			"left1": "Head South"
+			"right1": "Mapan idiay Amianan",
+			"left1": "Mapan idiay Bagatan"
 		},
 		"txt_IconSeaportBoardNorth": {
-			"right1": "Head North"
+			"right1": "Mapan idiay Amianan"
 		},
 		"txt_IconSeaportBoardSouth": {
-			"left1": "Head South"
+			"left1": "Mapan idiay Bagatan"
 		},
 		"txt_IconEnerhiyangAtinFrontdesk": {
 			"right1": "Library",
@@ -509,7 +509,7 @@
 			"header": "Wattmatters"
 		},
 		"txt_InteriorQuestion": {
-			"info": "You are currently exploring the [PANELINFO].\nUse the                 to navigate the place. You can also press the icons to learn more about \n\n       Energy Efficiency                           Water Conservation",
+			"info": "Agdamam nga basbasaen iti [PANELINFO].\nUsaren iti               tapno ang sarak idtoy lugar. Mabalin mo pay pinduten dagiti icon tapno maamwam pay dagiti panggep \n\n       Episyente sa Enerhiya                    Ken Pinagtipid iti Danum",
 			"header": "Hello There?"
 		},
 		"txt_InteriorParkingIntro": {
@@ -523,6 +523,18 @@
 		"txt_InteriorParkingGaragePlants": {
 			"info": "Iti pinagmula iti aglawlaw ket makatulong nga pakapsuten iti epekto ti climate change.",
 			"header": "Mula"
+		},
+		"txt_InteriorParkingGarageCar1": {
+			"info": "Padasen iti carpooling wenno pinagsabay ti lugan nu mabalin.",
+			"header": "Fuel and Safety Driving Tips"
+		},
+		"txt_InteriorParkingGarageCar2": {
+			"info": "Planuen iti byahe sakbay nga umalis. Lisian dagiti nailet nga ruta ken maar aramid nga dalan.",
+			"header": "Fuel and Safety Driving Tips"
+		},
+		"txt_InteriorParkingGarageCar3": {
+			"info": "Ikkaten dagiti banag nga haan nga masapol iti uneg ti lugan. Iti mesa nga banag nga agkilo iti 45, bumaba iti 3% ti mileage dayta gasolina.",
+			"header": "Fuel and Safety Driving Tips"
 		},
 		"txt_InteriorParkingGasLighting": {
 			"info": "I-upgrade dagiti lighting fixtures, agusar iti light emitting diode wenno LED light bulbs nga natipid iti enerhiya ken nabaybayag iti sangapulo nga beses ngemti kadawyan nga bumbilya.",
@@ -561,7 +573,7 @@
 			"header": "Daytoy iti lugar ti Embahada"
 		},
 		"txt_InteriorGovernmentIntro": {
-			"info": "",
+			"info": "Idtoy nga lugar iti pagrugyan amin nga inisyatibo panggep iti usto nga pinagusar iti enerhiya. Amin nga kasanayan panggep iti pinagtipid iti enerhiya ket sumursurot iti polisiya iti lokal ken nasyonal nga pamahalaan.",
 			"header": "Naragsak nga isasangpet ditoy Department of Energy"
 		},
 		"txt_InteriorGovernmentLibraryLighting": {
@@ -569,7 +581,7 @@
 			"header": "Silaw"
 		},
 		"txt_InteriorGovernmentLibraryComputer": {
-			"info": "",
+			"info": "Iti tulong iti Department of Energy, dagiti energy efficient virtual showroom nga digitoy ket naaramid iti United States Agency for International Development iti pinagusar ti Energy Secure Philippines Activity. Supsuportaran iti USAID ESP Activity iti Gobyerno iti Pilipinas tapno masimpa ken mapagbalin nga namayat iti energy resilience iti bansa.\n\nEnergy Utilization Management Bureau\ndoe.eumb@gmail.com\n(02) 8840-2289",
 			"header": "Department of Energy Partnership"
 		},
 		"txt_InteriorGovernmentOfficeLighting": {
@@ -581,23 +593,23 @@
 			"header": "Lugar Pangkomersyal"
 		},
 		"txt_InteriorMallCentralLighting": {
-			"info": "Energy efficient malls take advantage of the natural light during daytime to reduce operational costs and electricity consumption.",
+			"info": "Ususaren dagiti paglakwan iti sarming nga tawa tapnu adda iti natural nga silaw ken makatipid idi gastos ken konsmo iti kuryente.",
 			"header": "Natural nga Silaw"
 		},
 		"txt_InteriorMallCentralAir": {
-			"info": "Aside from shopping, Filipinos go to malls to enjoy its cool and relaxing temperature. Cooling units of commercial establishments should be professionally serviced at least once a year to ensure its efficient performance.",
-			"header": "Air Conditioner"
+			"info": "Nu haan nga aggatang, mapmapan pay iti Pilipino idiay mall tapno agpalamiis. Dagiti cooling unit iti mall ket masapol nga dumalan iti professional nga pinang dalos nga haan nga bumaba idi maminsan iti makatawen tapno napintas to latta idi andar na.",
+			"header": "Air Conditioning"
 		},
 		"txt_InteriorMallCentralWindow": {
 			"info": "Dagiti tawa ket makaited iti natural nga silaw. Daytoy natural nga silaw ket haan laeng nga makatipid iti enerhiya, perpekto pay para iti selfie!",
 			"header": "Tawa (Natural nga Silaw)"
 		},
 		"txt_InteriorMallCentralAirCurtain": {
-			"info": "",
-			"header": ""
+			"info": "Air Curtains",
+			"header": "Dagitoy dagitay air curtain nga mangkon kontrol idi temperatura. Iti air curtain ket mangsir sirra iti narugit nga angin ken tapno nadalos latta idi angin idiay uneg."
 		},
 		"txt_InteriorMallCentralDoor": {
-			"info": "",
+			"info": "Limlimitaran dagiti double doors wenno vestibule iti pagserrek iti napudot nga angin idta bilding. Makatulong daytoy tapno nalamiis latta iti pul-oy ti air conditioner ken malisyan iti pinagdam-eg.",
 			"header": "Doble nga Ridaw"
 		},
 		"txt_InteriorMallDisplayLighting": {
@@ -637,355 +649,355 @@
 			"header": "Gripo"
 		},
 		"txt_InteriorMallBathroomVentilation": {
-			"info": "",
+			"info": "Malaksid iti arwangan ken tawa, makatulong iti sirkulasyon iti angin daytoy exhaust fan.",
 			"header": "Bentilasyon"
 		},
 		"txt_InteriorHouseIntro": {
-			"info": "",
+			"info": "Kasla iti karrubam, iti balay mo ket agus usar idi solar energy ken power monitoring system.\n\nUsusaren iti power monitoring system tapno makita ken makontrol ti pagkonsumo iti enerhiya ti aldaw-aldaw. Makatipid daytoy iti gastos iti kuryente.",
 			"header": "Daytoy iti balay mo"
 		},
 		"txt_InteriorHouseLivingLight": {
-			"info": "Light Emitting Diode or LED light bulbs last longer than other types of lighting. Plus, it saves as much as 50% of electricity consumption.\n\nSo, switch to LED!",
+			"info": "Iti light emitting diode wenno LED nga bumbilya ket mas agbayag kumpara iti sabali nga silaw. Makatipid pay iti 50% iti konsumo ti kuryente. Isu nga, agusaren iti LED!",
 			"header": "Silaw"
 		},
 		"txt_InteriorHouseLivingElectric": {
-			"info": "Clean your fans regularly. Dust and dirt can reduce the wind flow generated by fans.",
-			"header": "Electric Fan"
+			"info": "Dalusan nga nasiyaat dagiti bentilador. Makissayan iti rugit ken tapok diay angin nga maar aramid iti bentilador.",
+			"header": "Bentilador"
 		},
 		"txt_InteriorHouseLivingTelevision": {
 			"info": "Dalusan nga nasiyaat dagiti bentilador. Makissayan iti rugit ken tapok diay angin nga maar aramid iti bentilador.",
 			"header": "Telebisyon"
 		},
 		"txt_InteriorHouseLivingComputer": {
-			"info": "",
+			"info": "Iti agpayso, awan talaga iti maitipid ti agusar iti screensaver. Maymayat nga iddepen iti monitor nu haan nga usaren mapalabes iti 15 nga minutos.",
 			"header": "Kompyuter"
 		},
 		"txt_InteriorHouseLivingWindows": {
-			"info": "",
+			"info": "Agited iti sarming nga tawa iti natural nga silaw iti uneg ti balay. Napintas pag iti natural nga silaw para iti selfie!",
 			"header": "Tawa (Natural nga Silaw)"
 		},
 		"txt_InteriorHouseLivingExtension": {
-			"info": "Unplug extension cord when not in use to avoid phantom loading.\n\nPhantom loading is like a leaky faucet. These are usually plugged appliances that you think are turned off, but still consuming electricity.",
-			"header": "Extension Cord/Outlet)"
+			"info": "Ikkaten idiay saksakan dagiti extension cord malpas nga usaren tapno malisyan idi phantom loading. Iti phantom loading ket kaslang agtedtedted nga gripo. Mapaspasamak etoy kadagiti appliances nga nakapatay ngem nakasaksak latta, isu nga agkon konsumo latta iti kuryente.",
+			"header": "Saksakan"
 		},
 		"txt_InteriorHouseBedroomLighting": {
-			"info": "Light Emitting Diodes (LED) light bulbs last longer than other types of lighting. Plus, it saves as much as 50% of electricity consumption.",
-			"header": "Silaw"
+			"info": "Ikkaten idiay saksakan dagiti extension cord malpas nga usaren tapno malisyan idi phantom loading. Iti phantom loading ket kaslang agtedtedted nga gripo. Mapaspasamak etoy kadagiti appliances nga nakapatay ngem nakasaksak latta, isu nga agkon konsumo latta iti kuryente.",
+			"header": "Pasilaw"
 		},
 		"txt_InteriorHouseBedroomPlants": {
-			"info": "Indoor plants reduce heat and act as natural humidifiers. No wonder why plantitas and plantitos have plants inside their bedrooms too. ",
-			"header": "Plants"
+			"info": "Dagiti mula iti balay ket agpababa iti temperatura ken agserserbi nga agpaaliwalas iti aglawlaw. Haan nga mailinged nu apay nga kay ayo daytoy dagiti plantito ken plantita!",
+			"header": "Mula"
 		},
 		"txt_InteriorHouseBedroomAircon": {
-			"info": "Did you know that cleaning the filters and condensers of air conditioning units can save 100 pesos monthly?\n\nSo, make sure to maintain your ACs.",
-			"header": "Aircon"
+			"info": "Ammom ba nga makatipid ka iti 100 pesos iti makabulan nu linisem iti filters ken condensers dayta air conditioner mo?",
+			"header": "Air Conditioning"
 		},
 		"txt_InteriorHouseBedroomCharger": {
-			"info": "Never leave your devices charging overnight as it consumes electricity when left plugged. ",
-			"header": "Charger (for mobile devices)"
+			"info": "Haan pulos nga baybay-an dagiti device nga nakacharge iti agpatnag gapu ta isu pay nga agkonkonsumo iti kuryente.",
+			"header": "Charge para iti mobile device"
 		},
 		"txt_InteriorHouseBedroomWindow": {
-			"info": "Install curtains or blinds on windows to reduce solar heat from outside.",
-			"header": "Windows (when aircon is on)"
+			"info": "Agikabil iti kurtna wenno blinds iti tawa tapno makissayan iti init nga aggapo iti ruar.",
+			"header": "Tawa"
 		},
 		"txt_InteriorHouseBedroomDoor": {
-			"info": "Close all the windows and doors when the air conditioning unit is turned on to keep the cool air inside.",
-			"header": "Door (when aircon is on)"
+			"info": "Iserra amin nga tawa ken arwangan nu naka-on tay air conditioning unit tapno agtaeng iti lamiis iti uneg.",
+			"header": "Arwangan"
 		},
 		"txt_InteriorHouseBathroomLighting": {
-			"info": "Do not forget to turn off the lights after using the bathroom.",
-			"header": "Silaw"
+			"info": "Haan nga liplipatan nga patayen dagiti silaw malpas nga usaren idiay banyo.",
+			"header": "Pasilaw"
 		},
 		"txt_InteriorHouseBathroomFaucet": {
-			"info": "Did you know you could save at least 6 gallons of water per day when you turn off the faucet while scrubbing your hands with soap?",
-			"header": "Faucet (Water Efficiency)"
+			"info": "Ammom ba nga mas makatipid ka ti haan nga bumaba iti innem nga galon nga danum inaldaw nu patayem dayta gripo nu madamam nga sabsabunan ta imam?",
+			"header": "Gripo"
 		},
 		"txt_InteriorHouseBathroomShower": {
-			"info": "Which do you think could save more water? Taking a shower or taking a bath using a dipper and pail?\n\nTaking shorter showers conserve more water and lower your utility costs",
-			"header": "Shower (Water Efficiency)"
+			"info": "Innu iti ammom nga mas makatipid iti danum, iti pinagdigos nga usar iti shower wenno iti tabo ken timba?\n\nIti pinagusar iti shower ket haan laeng nga makatipid iti mas adado nga danum ngem mas makatipid pay iti gastos iti danum.",
+			"header": "Pagdigusan"
 		},
 		"txt_InteriorHouseBathroomVentilation": {
-			"info": "Aside from doors and windows, installing exhaust fans in the bathroom will help in air circulation.",
-			"header": "Ventilation"
+			"info": "Malaksid iti arwangan ken tawa, iti pinagipan iti exhaust fan sadiay banyo ket makatulong iti sirkulasyon iti angin.",
+			"header": "Bentilasyon"
 		},
 		"txt_InteriorHouseGardenWater": {
-			"info": "Try reusing some of the water from your bath in your garden.",
-			"header": "Water Efficiency"
+			"info": "Nu agin-innaw ka iti pinggan, iddepen iti gripo nu haan nga agbanbanlaw.",
+			"header": "Usto nga pinagusar iti danum."
 		},
 		"txt_InteriorHouseKitchenWater": {
-			"info": "If you wash dishes, turn off the running water when not rinsing.",
-			"header": "Water Efficiency"
+			"info": "Nu agin-innaw ka iti pinggan, iddepen iti gripo nu haan nga agbanbanlaw.",
+			"header": "Usto nga pinagusar iti danum."
 		},
 		"txt_InteriorHouseKitchenRef": {
-			"info": "Chill!\n\nDon't forget to defrost your refrigerators regularly. While other refrigerators are frost-free, old refrigerators and freezers need to be defrosted once in a while to work efficiently.",
-			"header": "Refrigerator"
+			"info": "Iti pinagipan iti temperatura iti repridyador nga sumurot iti rekomendasyon iti manufacturer ket makatulong tapno malisyaniti sobra nga pinaglamiis ken pinagsayang iti enerhiya. Haan nga liplipatan nga i-defrost iti repridyador. Bayat nga iti dadduma nga repridyador ket awan frost na, dagiti daan ket kasapulan nga mai-defrost sagpaminsan tapno gumana nga nasiyaat.",
+			"header": "Repridyador"
 		},
 		"txt_InteriorHouseKitchenMicrowave": {
-			"info": "Did you know that using a microwave when reheating food consumes less time and electricity?",
+			"info": "Ammom ba nga iti pinagusar iti microwave tapno papuduten ulit dagiti makan ket agus usar iti basbassit nga kuryente ngem iti dekuryente nga kalan?",
 			"header": "Microwave"
 		},
 		"txt_InteriorHouseKitchenStove": {
-			"info": "We can save energy by turning off the gas stove during the last minute of cooking.\n\nKeep your heating appliances away from cooling appliances like your refrigerator.",
-			"header": "Gas Stove"
+			"info": "Makatipid ka iti enerhiya nu patayem dayta kalan iti maudi nga minuto iti pinaglutom.",
+			"header": "Kalan"
 		},
 		"txt_InteriorHouseKitchenPlant": {
-			"info": "Did you know that plants in your kitchen contribute to healthy air filtration? And they also sequester carbon which is one of the many ways to mitigate climate change.",
-			"header": "Plants"
+			"info": "Ammom ba nga iti mula idiay kusina ket makatulong nga manglinis iti angin? Makaala pay iti carbon tapno makatulong laban iti climate change.",
+			"header": "Mula"
 		},
 		"txt_InteriorSchoolIntro": {
-			"info": "It is our goal to share our existing knowledge and best practices with hopes to achieve a ripple effect in the rest of the country.",
-			"header": "Welcome to the Energia Academy!"
+			"info": "Ikalikaguman mi iti mangited iti kasanayan ken ammo mi paggep iti pinagtipid iti enerhiya tapno mapagbalin iti ripple effect sadiay saba sabali nga parte iti bansa.",
+			"header": "Naragsak nga isasangbay ditoy Energia Academy!"
 		},
 		"txt_InteriorSchoolClassroomLighting": {
-			"info": "Choose energy efficient light bulbs such as light-emitting diode (LED) light bulbs.",
-			"header": "Silaw"
+			"info": "Pumili iti bumbilya nga natipid iti enerhiya, kaslang iti bumbilya nga LED wenno Light Emitting Diode,",
+			"header": "Pasilaw"
 		},
 		"txt_InteriorSchoolClassroomAircon": {
-			"info": "Set your air conditioning units to standard temperature point of 24°c to conserve energy.",
-			"header": "Air Conditioner"
+			"info": "Ipan iti temperatura nga 24-25°C dagiti air conditioning unit tapno mas makatipid iti enerhiya.",
+			"header": "Air Conditioning"
 		},
 		"txt_InteriorSchoolClassroomStair": {
-			"info": "Taking the stairs maintains your health and saves energy. So, take stairs if you are able.",
-			"header": "Stair Use"
+			"info": "Iti pinagusar iti agdan ket mapagtaeng na iti salun-at ken makatipid iti enerhiya. Isu nga, agusar iti agdan nu mabalin.",
+			"header": "Pinagusar iti Agdan"
 		},
 		"txt_InteriorOfficeIntro": {
-			"info": "Through the implementation of a Green Building Code, our buildings are designed to reduce the use of energy with due regard to the cost effectiveness, building function, comfort, health, safety, and productivity of occupants. Just like your home, our offices are equipped with energy efficient technologies!",
-			"header": "This is your workplace!"
+			"info": "Iti pinagpatupad iti Energy Conserving Design of Building, daytoy nga bilding ket naaramid tapno makatipid iti piangusar ti enerhiya. Kasla iti balay, daytoy a bilding ket adda energy efficient technology na!",
+			"header": "Daytoy iti opisinam!"
 		},
 		"txt_InteriorOfficeConferenceLighting": {
-			"info": "Choose energy efficient light bulbs. You can replace existing bulbs with light-emitting diode (LED) lights.",
-			"header": "Silaw"
+			"info": "Pilyen iti energy efficient light bulbs. Sukatan iti agdama nga bumbilya iti Light Emitting Diode (LED) nga silaw.",
+			"header": "Pasilaw"
 		},
 		"txt_InteriorOfficeConferenceProjector": {
-			"info": "Before leaving the office, do not forget to switch off and unplug unnecessary appliances and devices.",
-			"header": "Projector/Big Screen"
+			"info": "Sakbay nga agtalaw iti opisina, haan nga liplipatan nga iddepen ken ikkaten dagiti nakasaksak nga appliances kada device nga haan nga masapol nga nakaandar.",
+			"header": "Projektor"
 		},
 		"txt_InteriorOfficeCubicleLighting": {
-			"info": "Choose energy efficient light bulbs. You can replace existing bulbs with light emitting diode (LED) lights.",
-			"header": "Silaw"
+			"info": "Pumili iti energy efficient nga bumbilya kaslang light emitting diode wenno LED tapno mas makatipid iti konsumo iti kuryente.",
+			"header": "Pasilaw"
 		},
 		"txt_InteriorOfficeCubicleCentralAir": {
-			"info": "To make cooling more efficient, consider the size of the place before installing air conditioning units.",
-			"header": "Central Air Conditioning"
+			"info": "Ipada iti temperatura kadetay ibagbaga iti nagaramid diay air conditioner.",
+			"header": "Sentro nga Air Conditioning"
 		},
 		"txt_InteriorOfficeCubicleWindow": {
-			"info": "Glass walls and doors bring natural light and reduces electricity consumption.",
-			"header": "Windows (Natural Light)"
+			"info": "Agus usar dagiti moderno nga bilding iti natural nga silaw tapno makatipid iti konsumo iti kuryente.",
+			"header": "Tawa"
 		},
 		"txt_InteriorOfficeCubicleComputers": {
-			"info": "Off to a meeting?\n\nSet your personal computers on Sleep Mode if you will be away for more than 15 minutes.",
-			"header": "Computer"
+			"info": "Mapan idiay miting?\n\nipan iti sleep mode iti personal a kompyuter nu haan nga usaren iti nasurok nga 15 a minuto.",
+			"header": "Kompyuter"
 		},
 		"txt_InteriorOfficeCubicleCharger": {
-			"info": "Energy-efficient charging stations for mobile devices can provide value addition to all employees and help encourage them to be more conscious in using electricity efficiently.",
-			"header": "Charger for mobile devices"
+			"info": "Bagbagaan dagiti empleyado nga agusar iti energy-effcient nga charging stations para iti mobile device da tapno mas makita da iti pinaggasto da iti kuryente.",
+			"header": "Charger para iti mobile device"
 		},
 		"txt_InteriorOfficeCubicleLarge": {
-			"info": "Only print your documents when necessary. Remember that choosing to read it on your phone or tablet will reduce your paper and electricity consumption.",
-			"header": "Large machine (Photocopier)"
+			"info": "Agi-printa laeng iti dokumento nga masapol. Nu agbalin, basaen laeng dagiti dokumento sadiay mobile device tapno makabawas iti konsumo iti kuryente.",
+			"header": "Dakkel nga Makina (Photocopier)"
 		},
 		"txt_InteriorOfficeElevatorElevator": {
-			"info": "Take the stairs if you are going fewer than two floors up or down. It's good for your health too!",
+			"info": "Nu mabalbalin, usaren iti agdanan nu umuli ken bumaba iti agsurok ti duwa a palapag. Daytoy ket pagsiyaatan pay iti bagi.",
 			"header": "Elevators"
 		},
 		"txt_InteriorOfficeElevatorWindow": {
-			"info": "Glass walls and doors bring natural light and reduces electricity consumption.",
-			"header": "Windows (Natural Light)"
+			"info": "Dagiti sarming nga dingding ken tawa ket maysa a paggapwan iti natural nga silaw ken makatulong iti pinagkissay ti konsumo iti kuryente.",
+			"header": "Tawa"
 		},
 		"txt_InteriorOfficePantryFaucet": {
-			"info": "If you wash dishes by hand, turn off the running water when not rinsing.",
-			"header": "Faucet (Water Efficiency)"
+			"info": "Nu madama iti ugas mo iti pinggan, ideppen iti grip no haan ka laketdi agbanbanlaw.",
+			"header": "Gripo"
 		},
 		"txt_InteriorOfficePantryKettle": {
-			"info": "Coffee break with officemates? Boiling the kettle only once produces five or six beverages rather than six times individually.",
-			"header": "Electric Kettle"
+			"info": "Coffee break nga kadwa dagiti kaopisinaan? Iti pinagpapudot idiay takuri ti mesa nga daras laeng ket makaaramid iti lima wenno innem nga inumen maikompera iti mamin-innem nga daras nga pamaysa maysa.",
+			"header": "Dekuryente nga Takuri"
 		},
 		"txt_InteriorOfficePantryVentilation": {
-			"info": "Take advantage of the natural air flowing through the building by directing the air towards the ceiling vents and exterior doors.",
-			"header": "Ventilation"
+			"info": "Usaren iti natural nga angin nga sumsumrek iti uneg iti bilding ti pinausar iti bentilasyon idiay kisame ken arwangan.",
+			"header": "Bentilasyon"
 		},
 		"txt_InteriorOfficePersonalLighting": {
-			"info": "Choose energy efficient light bulbs. You can replace existing bulbs with light-emitting diode (LED) lights.",
-			"header": "Silaw"
+			"info": "Pumili iti bumbilya nga natipid iti enerhiya, kaslang iti bumbilya nga LED wenno Light Emitting Diode.",
+			"header": "Pasilaw"
 		},
 		"txt_InteriorOfficePersonalCentralAir": {
-			"info": "Set your air conditioning units to standard temperature points of 24-25°C to conserve electricity.",
-			"header": "Central Air Conditioning"
+			"info": "Ikabil iti usto nga temperatura (24-25°C) iti air conditioner tapno makatipid iti kuryente.",
+			"header": "Sentro nga Air Conditioning"
 		},
 		"txt_InteriorOfficePersonalWindow": {
-			"info": "During daytime, your office switches off artificial lights and uses natural light.",
-			"header": "Windows (Natural Light)"
+			"info": "Iti aldaw, isisuna nga agiddep dagiti bumbilya tapno agusar iti natural nga silaw.",
+			"header": "Tawa"
 		},
 		"txt_InteriorOfficePersonalComputers": {
-			"info": "Don't forget to turn off your computer/laptop or hibernate/sleep your PC when not in use.",
-			"header": "Computer"
+			"info": "Haan nga liplipatan nga iddepen, i-hibernate wenno i-sleep mode iti personal nga kompyuter nu haan nga ususaren.",
+			"header": "Kompyuter"
 		},
 		"txt_InteriorOfficePersonalChargers": {
-			"info": "Unplug your charger once your device is on full battery.",
-			"header": "Charger for mobile devices"
+			"info": "Uksuten iti saksakan dagiti charger nu napunno iti baterya nan iti device mo.",
+			"header": "Charger para iti mobile device."
 		},
 		"txt_InteriorOfficePersonalExtension": {
-			"info": "Do not overload your extension cord by plugging in device beyond its capacity.",
-			"header": "Extension Cord/Outlet"
+			"info": "Haan nga agsaksaksak iti ado wenno sumurok iti kapasidad iti extension cord tapno haan nga ag-overload.",
+			"header": "Saksakan"
 		},
 		"txt_InteriorOfficeReceptionLighting": {
-			"info": "During daytime, your office switches off artificial lights and uses natural light.",
-			"header": "Silaw"
+			"info": "Iti aldaw, isisuna nga agiddep dagiti bumbilya tapno agusar iti natural nga silaw.",
+			"header": "Pasilaw"
 		},
 		"txt_InteriorOfficeReceptionAircon": {
-			"info": "Room size is important when choosing the right air conditioning unit for your workplace. Install the air conditioning unit in the coolest part of the room, if possible, on a shady side where maximum air circulation is available.",
-			"header": "Air condition"
+			"info": "Iti kadakkel iti kwarto ket kasapulan tapno mapili iti usto nga air conditioner. Nu mabalbalin, ikabil iti air conditioner iti nalinong ket kalalamiisan nga lugar iti opisina.",
+			"header": "Air Conditioning"
 		},
 		"txt_InteriorOfficeReceptionWindow": {
-			"info": "Modern and energy efficient buildings take advantage of natural ighting to conserve electricity consumption.",
-			"header": "Windows (Natural Light)"
+			"info": "Agus usar dagiti moderno nga bilding iti natural nga silaw tapno makatipid iti konsumo iti kuryente.",
+			"header": "Tawa"
 		},
 		"txt_InteriorOfficeRestroomLighting": {
-			"info": "This restroom has automatic lighting controls specifically, occupancy sensors, which save energy by automatically turning the lights off when not in use.",
-			"header": "Silaw"
+			"info": "Daytoy nga banyo ket agus usar iti awtomatik nga silaw, partikular, dagiti sensor occupancy nga isisuna nga agiddep iti silaw nu awan iti agus usar tapno makatipid iti kuryente.",
+			"header": "Pasilaw"
 		},
 		"txt_InteriorOfficeRestroomFaucet": {
-			"info": "Fix leaky faucets, toilets, appliances, and sprinklers. Leaks vary in amount, but they can account for a lot of wasted water over time.",
-			"header": "Faucet (Water Efficiency)"
+			"info": "Simpaen dagiti perdi nga gripo, palikuran, tubo wenno sprinkler. Dagiti tagas ket saba sabali ngem iti kabuuan ket adu iti masayang nga danom nu agbayag.",
+			"header": "Gripo"
 		},
 		"txt_InteriorOfficeRestroomVentilation": {
-			"info": "Aside from windows and doors, installing exhaust fans in the comfort room will improve air circulation and avoid moisture.",
-			"header": "Ventilation"
+			"info": "Iti pinaggikabil iti exhaust fan iti banyo ket makatulong iti sirkulasyon iti angin tapno maikkatan iti dam-eg.",
+			"header": "Bentilasyon"
 		},
 		"txt_InteriorEcoZoneIntro": {
-			"info": "Welcome to the City of Energia Economic Zone. This part of the city will show you the energy efficiency in the industrial sector. Let's take the tour!",
-			"header": "This is the Economic Zone"
+			"info": "Naragsak nga isasangbay ditoy Siudad iti Energia Econimic Zone. Ipakita daytoy nga parte iti siudad iti sursuro ti enerhiya iti sektor iti industriya. Intay ag-tour.",
+			"header": "Daytoy iti Economic Zone"
 		},
 		"txt_InteriorEcoZoneEcoPartLighting": {
-			"info": "This light is solar powered! Solar panels installed on the roof store energy during daylight to illuminate the park at night.",
-			"header": "Silaw"
+			"info": "Daytoy nga silaw ket agus usar iti solar energy! Dagiti solar panel nga nakaikabil iti bubong ket agur urnong iti enerhiya aggapo iti sillag iti init tapno agited iti silaw iti parke nu rabii.",
+			"header": "Pasilaw"
 		},
 		"txt_InteriorEcoZoneEcoPartWater": {
-			"info": "Reuse water where applicable for watering plants and cleaning designated areas.\n\nExample: Water from fountains can be reused for watering plants instead of just draining it.",
-			"header": "Water Efficiency"
+			"info": "Iti danum nga aggapo iti fountain ket mabalin nga usaren nga pagsibug iti mulmula.",
+			"header": "Usto nga pinagusar iti danum"
 		},
 		"txt_InteriorEcoZoneEcoPartVentilation": {
-			"info": "Openings facing the sky, street courtyard, or air well shall be considered as acceptable sources of natural lighting and ventilation.",
-			"header": "Ventilation"
+			"info": "Dagitoy nga lugar ket adda natural nga silaw ken bentilasyon da. Adda pay iti weatherproof nga lamisaan ken tugaw ditoy tapno usaren iti umay ti bilding.",
+			"header": "Bentilasyon"
 		},
 		"txt_InteriorEcoZoneGarageParking": {
-			"info": "Enclosed parking garage ventilation system shall automatically detect contaminant levels by using supervisory control and data acquisition (SCADA) of building management system (BMS).",
-			"header": "Parking Space"
+			"info": "Awtokmatik nga makita iti lebel iti kontaminasyon sadiay bentilasyon iti paradahan iti usar iti SCADA wenno supervisory control and data acquisition iti building management system (BMS)",
+			"header": "Paradaan"
 		},
 		"txt_InteriorEcoZoneGarageCharging": {
-			"info": "Installing charging stations in the parking area is more accessible and convenient for recharging electric vehicles (EVs).",
-			"header": "Charging Stations for EVs"
+			"info": "Iti kaadda iti charging station ti asideg parking area ket makaited iti salun-at ken access para kadigiti madama ti charge na iti electric vehicle na",
+			"header": "Istasyon tapno ag-charge dagiti EV"
 		},
 		"txt_InteriorEcoZoneGarageSolar": {
-			"info": "Using solar panels significantly reduces carbon footprint and helps save money.",
+			"info": "Ti pinagusar iti solar panel ket makakissay iti dakkel ti carbon footprint ken makatulong iti pinagtipid iti kwarta.",
 			"header": "Solar Panels"
 		},
 		"txt_InteriorEcoZoneMechHubLighting": {
-			"info": "Make sure to use energy efficient lighting such as light emitting diode (LED) bulbs. This can both help save money on your monthly electricity bills and also help conserve our environment!",
-			"header": "Silaw"
+			"info": "Siguradwen nga agusar iti energy efficient lighting kaslang light emitting diode (LED). Makatulog daytoy nga agtipid iti gastos iti binulan ti kuryente ken makatulong pay iti pinag-alaga iti aglawlaw.",
+			"header": "Pasilaw"
 		},
 		"txt_InteriorEcoZoneMechHubVentilation": {
-			"info": "Adequate ventilation maintains the temperature, humidity, and energy consumption in industrial establishments.",
-			"header": "Ventilation"
+			"info": "Iti usto nga bentilasyon ket makatulong nga ibati iti temperatura, dam-eg, ken konsumo iti enerhiya iti industriyal nga establisyimento.",
+			"header": "Bentilasyon"
 		},
 		"txt_InteriorEcoZoneMechHubWindows": {
-			"info": "During daytime, switch off lights and maximize the use of sunlight, especially in offices with big surrounding windows - using blinds or curtains can help regulate temperature and sun exposure.",
-			"header": "Windows (Natural Light)"
+			"info": "Iti aldaw, ideppen dagiti silaw ken usaren iti sil-lag iti init, lalo kadigit opisina nga dadakkel ti tawa na nga aglawlaw - ti pinagusar iti blinds wenno kurtina ket mabalin nga makatulong iti pinagkontrol iti temperature ken malisyan iti pinakabilag iti init.",
+			"header": "Tawa"
 		},
 		"txt_InteriorEcoZoneOfficeLighting": {
-			"info": "Make sure to use energy efficient light such as fluorescent lamps, CFL lamps and LED lamps - this can both help save money on yourmonthly electricity bills and also help conserve the environment!",
-			"header": "Silaw"
+			"info": "Siguradwen nga agusar iti natipid ti enerhiya nga silaw kaslang fluorescent lamp, CFL lamp wenno LED lamp - daytoy ket agpapada nga makatulong iti pinagtipid iti kwarta kadeta binulan nga singir iti kuryente ken makatulong nga agalaga iti aglawlaw.",
+			"header": "Pasilaw"
 		},
 		"txt_InteriorEcoZoneOfficeCentralAir": {
-			"info": "Air conditioning maintenance should be set regularly to ensure that it's working properly at its best without wastage on electricity consumption.",
-			"header": "Air Conditioner"
+			"info": "Iti pinagmentinar iti air conditioning ket kasapulan nga ubraen iti maysa nga daras tapno maalagaan iti biyag iti air conditioner ken tapno agandar iti usto nga awan iti masaysayang a konsumo iti kuryente.",
+			"header": "Sentro nga Air Conditioning"
 		},
 		"txt_InteriorEcoZoneOfficeWindow": {
-			"info": "During daytime, switch off lights and maximize the use of sunlight, especially in offices with big surrounding windows -using blinds or curtains can help regulate temperature and sun exposure.",
-			"header": "Windows (Natural Light)"
+			"info": "Iti aldaw, ideppen dagiti silaw ken usaren iti sil-lag iti init, lalo kadigit opisina nga dadakkel ti tawa na nga aglawlaw - ti pinagusar iti blinds wenno kurtina ket mabalin nga makatulong iti pinagkontrol iti temperature ken malisyan iti pinakabilag iti init.",
+			"header": "Tawa"
 		},
 		"txt_InteriorEcoZoneOfficeComputers": {
-			"info": "Unplug electronic devices including computers when not in use. Make it a habit to unplug before leaving your work areas.",
-			"header": "Computer"
+			"info": "Ikkaten iti saksakan dagiti electronic device a kas kompyuter nu haan nga ususaren. Laglagipen nga agikkat iti saksakan sakbay nga umalis iti lugar nga pagtrab trabakwan.",
+			"header": "Kompyuter"
 		},
 		"txt_InteriorEcoZoneOfficeCharger": {
-			"info": "Energy-efficient charging stations for mobile devices can provide value addition to all employees and help encourage them to be more conscious in using electricity efficiently.",
-			"header": "Charger for mobile devices"
+			"info": "Dagiti charging station nga natipid iti enerhiya para iti mobile device ket mabalin nga mangted iti salun-at iti amin nga empleyado ket makatulong pay nga awisen isuda nga agbalin nga nasirib iti pinagusar ti kuryente.",
+			"header": "Charger para iti mobile device."
 		},
 		"txt_InteriorEcoZoneProcessHubLighting": {
-			"info": "Make sure to use energy efficient lighting such as light-emitting diode (LED) bulbs. This can both help save money on your monthly electricity bills and also help conserve our environment!",
-			"header": "Silaw"
+			"info": "Agusar iti silaw nga makatipid iti kuryente kaslang Light Emitting Diode (LED) lamp. Daytoy ket makatipid iti binulan nga singir iti kuryente ken makatulong pay ti law-ang.",
+			"header": "Pasilaw"
 		},
 		"txt_InteriorEcoZoneProcessHubVentilation": {
-			"info": "Installing exhaust systems maintains the air quality of the factories by removing contaminated indoor air.",
-			"header": "Ventilation"
+			"info": "Iti pinagipan iti exhaust system ket mapagtalinaed na iti angin iti uneg ti pabrika babaen ti pinagikkat iti kontaminado nga angin parwar.",
+			"header": "Bentilasyon"
 		},
 		"txt_InteriorEcoZoneProcessHubCooling": {
-			"info": "Electricity consumption of air conditioning systems can be significantly reduced by minimizing the heat from buildings through the use of cooling systems.",
-			"header": "Cooling Systems"
+			"info": "Mabalin nga mapababa iti konsumo ti kuryente babaen iti pinag-ikkat ti pudot iti uneg ti bilding nga agusar iti air conditioner.",
+			"header": "Sistema iti Pangpalamiis"
 		},
 		"txt_InteriorEcoZoneProcessHubBoiling1": {
-			"info": "For generation of steam, use a boiler with an efficiency rating of 85% and above.",
+			"info": "Agusar iti boiler nga adda rating na nga 85% iti kabaelan na.",
 			"header": "Boiler"
 		},
 		"txt_InteriorEcoZoneProcessHubBoiling2": {
-			"info": "Hot water systems shall be equipped with effective automatic temperature controls.",
+			"info": "Ikkan iti awtomatik nga kontrol iti temperatura dagiti boiler.",
 			"header": "Boiler"
 		},
 		"txt_InteriorEcoZonePumpzoneVentilation": {
-			"info": "Use sustainable architecture and interior design to make sure there's proper ventilation in the processing hub.",
-			"header": "Ventilation"
+			"info": "Agusar iti agbayag ken moderno nga arkitektura nga addaan iti bentilasyon para iti sirkulayon ti angin ken natipid nga pinagusar iti enerhiya.",
+			"header": "Bentilasyon"
 		},
 		"txt_InteriorEcoZonePumpzoneSteam": {
-			"info": "Steam is more economical compared with electricity. Where steam is available, use steam to generate hot water instead of electricity.",
-			"header": "Steam and Hot Water System(Pipelines)"
+			"info": "Iti singaw nga aggapo iti napudot nga danom ket mas natiptipid ngem kuryente. Nu mabalbalin, agusar iti steam kaysa kuryente.",
+			"header": "Steam ken Hot Water System (Pipelines)"
 		},
 		"txt_InteriorEcoZonePumpzoneGenerator": {
-			"info": "In the absence of steam, use a direct-fired hot water generator with an efficiency rating of 85% and above.",
+			"info": "Nu awan iti steam, agusar iti direkta nga hot water generator nga adda 85% a rating iti kabaelan na.",
 			"header": "Generator"
 		},
 		"txt_InteriorEcoZoneWarehouseLighting": {
-			"info": "Make sure to use energy efficient lighting such as light-emitting diode (LED) bulbs. This can both help save money on your monthly electricity bills and also help conserve our environment!",
-			"header": "Silaw"
+			"info": "Agusar iti silaw nga makatipid iti kuryente kaslang Light Emitting Diode (LED) lamp. Daytoy ket makatipid iti binulan nga singir iti kuryente ken makatulong pay ti law-ang.",
+			"header": "Pasilaw"
 		},
 		"txt_InteriorEcoZoneWarehouseVentilation": {
-			"info": "Use sustainable architecture and interior design to make sure there's proper ventilation in the processing hub.",
-			"header": "Ventilation"
+			"info": "Agusar iti kanunongan nga arkitektura ken pang-uneg nga disenyo tapnon sigurado nga nasay sayaat iti bentilasyon idiay processing hub.",
+			"header": "Bentilasyon"
 		},
 		"txt_InteriorEcoZoneWastedDisposalWaterDispoal": {
-			"info": "Waste disposal systems should be implemented with processes in place. Designated crew in-charge must have regular monitoring and reporting on water quality and usage.",
-			"header": "Waste Disposal Systems"
+			"info": "Siguradwen nga adda maitatag nga usto nga sistema iti pinagibelleng iti danom iti pabrika. Digitay crew nga agkitkita iti kalidad ken pinagusar iti danom ket kasapulan nga kanayon nga agmonitor ken agreport.",
+			"header": "Sistema iti pinagibelleng iti danum"
 		},
 		"txt_InteriorEcoZoneWastedDisposalWaterTreatment": {
-			"info": "As part of the water treatment facility, all water should be treated carefully and be at an acceptable level of quality before disposal.",
-			"header": "Water Treatment"
+			"info": "Kas parte iti pasilidad nga aggagas iti danom, amin nga danom ket tratuen nga nasiyaat ken adda iti maawat nga grado iti kalidad sakbay nga ibelleng.",
+			"header": "Pinag-agas ti Danum"
 		},
 		"txt_InteriorPlazaIntro": {
-			"info": "You are here at the City Plaza. Let's take a break from our tour and play a game! How well do you know about energy efficiency?",
-			"header": "This is the Plaza"
+			"info": "Adda ka ditoy City Plaza. Agsardeng tay pelang idi pinagsursur tayo ken agay ayam! Kasano iti kalaing mo maipanggep iti enerhiya?",
+			"header": "Daytot iti Plaza"
 		},
 		"txt_InteriorSeaportIntro": {
-			"info": "Welcome to the Seaport, the gateway to Energia's partner cities and municipalities!\n\nEnergia and its sister local government units (LGUs) learn from each other by sharing energy efficiency best practices that are feasible and applicable to other LGUs.\nWhich LGU would you like to visit first?",
-			"header": "This is the Seaport"
+			"info": "Naragsak nga isasangbay iti Pantalan, daytoy iti gateway iti kasosyo nga siudad ken munisipalidad iti Energia!\n\nIti Energia ken kabsat daigiti local government units (LGU) ket nakaadal iti maysa ken maysa gapo iti pinagistorya iti sursuro paggep iti enerhiya nga mausar ken maipacat iti saba sabali nga LGU. Inno nga LGU iti kayat mo nga bisitaen?",
+			"header": "Daytot iti Pantalan"
 		},
 		"txt_InteriorEnerhiyangAtinIntro": {
-			"info": "Welcome to the Enerhiyang Atin, the gateway to Energia's partner cities and municipalities!\n\nEnergia and its sister local government units (LGUs) learn from each other by sharing energy efficiency best practices that are feasible and applicable to other LGUs.\nWhich LGU would you like to visit first?",
-			"header": "This is the Enerhiyang Atin"
+			"info": "Ditoy nga agrugrugi iti amin nga inisyatibo iti enerhiya. Dagiti amin nga ipaglaing mi nga panagsanay iti enerhiya ket kadwa dagiti patakaran ken kuadro nga sinurat ken inaramid iti lokal nga yunit iti gobyerno nga adda suporta aggapo iti nasyonal nga gobyerno. Basaen dagiti patakaran nga digitoy idiay librarya.",
+			"header": "Daytoy iti Knowledge Hub"
 		},
 		"txt_InteriorEnerhiyangAtinDeskAircon": {
-			"info": "According to Inter-Agency Energy Efficiency and Conservation Committee (IAEECC) No. 1 and No. 3, all government offices are directed to use energy efficient inverter-type air-conditioning units or similar equivalent technologies. Moreover, air conditioners in government offices should be set to standard temperature points of 24-25°C to conserve energy.",
-			"header": "Air Conditioner"
+			"info": "Kas iti Inter-Agency Energy Efficiency and Conservation Committee (IAEECC) No. 1 ken No. 3, dagiti amin nga tanggapan iti gobyerno ket  agusar idi energy efficient inverter-type air conditioning units wenno sabali a katumbas nga teknolohiya. Dagiti air conditioner iti opisina idiay gobyerno ket masapol nga iti temperatura na ket 24-25°C nga maitutop nga pamantayan tapno makatipid iti enerhiya.",
+			"header": "Air Conditioning"
 		},
 		"txt_InteriorEnerhiyangAtinDeskStairUse": {
-			"info": "Taking the stairs maintains your health and saves energy. So, take the stairs if you are able. ",
-			"header": "Stair Use"
+			"info": "Iti pinagusar iti agdan ket mapagtaeng na iti salun-at ken makatipid iti enerhiya. Isu nga, agusar iti agdan nu mabalin.",
+			"header": "Pinagusar iti Agdan"
 		},
 		"txt_InteriorEnerhiyangAtinDeskLighting": {
-			"info": "Upgrade lighting fixtures by using light emitting diode (LED) light bulbs which are energy efficient and can last 10 times longer than the usual bulbs.",
+			"info": "I-upgrade dagiti lighting fixtures, agusar iti light emitting diode wenno LED light bulbs nga natipid iti enerhiya ken nabaybayag iti sangapulo nga beses ngemti kadawyan nga bumbilya.",
 			"header": "Silaw"
 		},
 		"txt_InteriorEnerhiyangAtinOfficeLighting": {
-			"info": "Upgrade lighting fixtures by using light emitting diode (LED) light bulbs which are energy efficient and can last 10 times longer than the usual bulbs.",
+			"info": "I-upgrade dagiti lighting fixtures, agusar iti light emitting diode wenno LED light bulbs nga natipid iti enerhiya ken nabaybayag iti sangapulo nga beses ngemti kadawyan nga bumbilya.",
 			"header": "Silaw"
 		}
 	}

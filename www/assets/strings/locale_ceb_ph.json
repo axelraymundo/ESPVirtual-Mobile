@@ -602,11 +602,11 @@
 		},
 		"txt_InteriorMallCentralAir": {
 			"info": "Gawas sa pagpamalit, ang mga Pilipino moadto sa mga mall aron matagamtam ang bugnaw ug makapahayahay nga temperatura. Ang mga cooling unit sa mga komersyal nga establisemento kinahanglan propesyonal nga serbisyohan labing minos kausa sa usa ka tuig aron masiguro ang episyente nga paggana niini.",
-			"header": "Air Conditioner"
+			"header": "Air Conditioning"
 		},
 		"txt_InteriorMallCentralWindow": {
 			"info": "Ang mga bintana nagdala ug natural nga kahayag. Ang natural nga kahayag dili lamang makatipig sa enerhiya, kini perpekto usab alang sa imong mga selfie!",
-			"header": "Bintana"
+			"header": "Bintana (Natural nga Kahayag)"
 		},
 		"txt_InteriorMallCentralAirCurtain": {
 			"info": "Kini ang mga kurtina sa hangin nga nagkontrol sa temperatura. Ang kurtina sa hangin nagpugong sa wala masala nga hangin sa gawas ug nasala nga hangin sa sulod.",
@@ -694,7 +694,7 @@
 		},
 		"txt_InteriorHouseBedroomAircon": {
 			"info": "Kahibalo ba ka nga ang paglimpyo sa mga filter ug condenser sa mga air conditioning unit makadaginot ug 100 pesos kada buwan? Busa, siguruha nga mamintinar ang imong mga air conditioning unit.",
-			"header": "Erkon"
+			"header": "Air Conditioning"
 		},
 		"txt_InteriorHouseBedroomCharger": {
 			"info": "Ayaw biyai ang imong mga device nga nag-charge sa tibuok gabii tungod kay mokonsumo kini og elektrisidad kung gibiyaan nga nakasaksak.",
@@ -766,7 +766,7 @@
 		},
 		"txt_InteriorSchoolClassroomAircon": {
 			"info": "I-set ang imong air conditioning units sa sumbanan nga temperatura nga 24°c para makadaginot og enerhiya.",
-			"header": "Air Conditioner"
+			"header": "Air Conditioning"
 		},
 		"txt_InteriorSchoolClassroomStair": {
 			"info": "Ang paggamit sa hagdanan makamintinar sa maayong panglawas ug makadaginot sa enerhiya. Busa, kung mahimo gamita ang hagdanan.",
@@ -862,7 +862,7 @@
 		},
 		"txt_InteriorOfficeReceptionAircon": {
 			"info": "Importante nga lantawon ang air-conditioning unit nga gamiton base sa kadak-on sa kwarto o trabahoan. Itaud ang air-conditioning unit sa pinakabugnaw na dapit sa kwarto. Kung mahimo, didto sa landong na dapit diin pinakalabing maayo ang sirkulasyon sa hangin.",
-			"header": "Air Conditioner"
+			"header": "Air Conditioning"
 		},
 		"txt_InteriorOfficeReceptionWindow": {
 			"info": "Ang mga moderno ug episyente sa enerhiya nga mga bilding nagpahimulos sa natural nga kahayag aron makatipig sa konsumo sa kuryente.",
@@ -1002,7 +1002,7 @@
 		},
 		"txt_InteriorEnerhiyangAtinDeskAircon": {
 			"info": "Sumala sa Inter-Agency Energy Efficiency and Conservation Committee (IAEECC) No. 1 ug No. 3, ang tanang buhatan sa gobyerno gimandoan sa paggamit sa episyente sa enerhiya nga inverter-type air-conditioning units o susamang mga teknolohiya. Dugang pa, ang mga air-conditioner sa mga opisina sa gobyerno kinahanglan nga ibutang sa sumbanan nga mga punto sa temperatura 24-25°C aron makadaginot sa enerhiya.",
-			"header": "Air Conditioner"
+			"header": "Air Conditioning"
 		},
 		"txt_InteriorEnerhiyangAtinDeskStairUse": {
 			"info": "Ang paggamit sa hagdanan makamintinar sa maayong panglawas ug makadaginot sa enerhiya. Busa, kung mahimo gamita ang hagdanan.",

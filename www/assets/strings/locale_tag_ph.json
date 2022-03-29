@@ -602,7 +602,7 @@
 		},
 		"txt_InteriorMallCentralAir": {
 			"info": "Bukod sa pamimili, pumupunta rin ang mga Pilipino sa mall upang magpalamig.\n\nAng mga cooling unit sa mall ay dapat sumasailalim sa professional cleaning nang hindi bababa sa isang beses sa isang taon upang mapanatili ang magandang takbo nito.",
-			"header": "Air Conditioner"
+			"header": "Air Conditioning"
 		},
 		"txt_InteriorMallCentralWindow": {
 			"info": "Ang mga bintana ay nagdadala ng natural na liwanag. Ang natural na liwanag ay hindi lamang nakakatipid ng enerhiya, perpekto din ito para sa iyong mga selfie!",
@@ -694,7 +694,7 @@
 		},
 		"txt_InteriorHouseBedroomAircon": {
 			"info": "Alam mo bang makakatipid ka ng 100 piso buwan buwan kung lilinisin mo ang filters at condensers ng iyong air coditioners?",
-			"header": "Air Conditioner"
+			"header": "Air Conditioning"
 		},
 		"txt_InteriorHouseBedroomCharger": {
 			"info": "Huwag kailanman iwanan ang iyong mga device na nagcha-charge nang magdamag dahil kumukonsumo ito ng kuryente kapag naiwang nakasaksak.",
@@ -766,7 +766,7 @@
 		},
 		"txt_InteriorSchoolClassroomAircon": {
 			"info": "Itakda ang iyong mga air conditioning unit sa pamantayang temperatura na 24°c para makatipid ng enerhiya.",
-			"header": "Air Conditioner"
+			"header": "Air Conditioning"
 		},
 		"txt_InteriorSchoolClassroomStair": {
 			"info": "Ang pag-gamit ng hagdan ay nagpapanatili ng iyong kalusugan at nakakatipid ng enerhiya. Kaya, kumuha ka ng hagdan kung kaya mo.",
@@ -862,7 +862,7 @@
 		},
 		"txt_InteriorOfficeReceptionAircon": {
 			"info": "Ang sukat ng kwarto ay mahalaga sa pagpili ng tamang air conditioner. Kung maaari, ilagay ang air conditioner sa pinakamalamig at makulimlim na bahagi ng opisina.",
-			"header": "Air Conditioner"
+			"header": "Air Conditioning"
 		},
 		"txt_InteriorOfficeReceptionWindow": {
 			"info": "Sinasamantala ng mga moderno at mahusay na gusali ang natural na pag-iilaw upang makatipid sa pagkonsumo ng kuryente.",
@@ -1002,7 +1002,7 @@
 		},
 		"txt_InteriorEnerhiyangAtinDeskAircon": {
 			"info": "Ayon sa Inter-Agency Energy Efficiency and Conservation Committee (IAEECC) No. 1 at No. 3, ang lahat ng tanggapan ng gobyerno ay inaatasan na gumamit ng energy efficient inverter-type air-conditioning units o katulad na mga katumbas na teknolohiya. Bukod dito, ang mga air-conditioner sa mga opisina ng gobyerno ay dapat na nakatakda sa temperaturang 24-25°C na naaayon sa pamantayan upang makatipid ng enerhiya.",
-			"header": "Air Conditioner"
+			"header": "Air Conditioning"
 		},
 		"txt_InteriorEnerhiyangAtinDeskStairUse": {
 			"info": "Ang paggamit ng hagdanan ay nakakatulong sa iyong kalusugan at nakakatipid ng kuryente. Hangga't maari, maghagdanan kung kaya naman.",
