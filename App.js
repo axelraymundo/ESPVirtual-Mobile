@@ -1,17 +1,28 @@
 import React, {useEffect, useState} from 'react';
-import {Text, Platform, SafeAreaView, View} from 'react-native';
+import {Text, Platform, SafeAreaView} from 'react-native';
 import {WebView} from 'react-native-webview';
 
 import StaticServer from 'react-native-static-server';
 import RNFS from 'react-native-fs';
-import { copyModulePaths } from './Utils/copyModulePaths';
+import Orientation from 'react-native-orientation-locker';
+
+import {copyModulePaths} from './Utils/copyModulePaths';
+
 function MyWebComponent() {
+
   const [url, setUrl] = useState('');
   const getPath = () => {
     return Platform.OS === 'android'
       ? RNFS.DocumentDirectoryPath + '/www'
       : RNFS.MainBundlePath + '/www';
   };
+
+
+  useEffect(()=>{
+    const isPad = Platform.isPad;
+    console.log(Platform.OS,"WTF : ", isPad)
+      Orientation.lockToLandscape();
+  },[])
 
   useEffect(() => {
     copyModulePaths();
