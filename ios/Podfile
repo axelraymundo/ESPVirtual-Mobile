@@ -13,7 +13,8 @@ target 'ESPVirtual' do
   )
 
   pod 'react-native-webview', :path => '../node_modules/react-native-webview'
-
+  pod 'RNFS', :path => '../node_modules/react-native-fs'
+  
   target 'ESPVirtualTests' do
     inherit! :complete
     # Pods for testing

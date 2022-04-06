@@ -9,6 +9,7 @@ export const copyModulePaths = async () => {
     await RNFS.mkdir(RNFS.DocumentDirectoryPath + '/www/js');
     await RNFS.mkdir(RNFS.DocumentDirectoryPath + '/www/css');
     await RNFS.mkdir(RNFS.DocumentDirectoryPath + `/www/assets/audio/sfx`);
+    await RNFS.mkdir(RNFS.DocumentDirectoryPath + `/www/assets/audio/sfxwav`);
     await RNFS.mkdir(
       RNFS.DocumentDirectoryPath + `/www/assets/audio/sfx/quiz_engine`,
     );
@@ -110,6 +111,13 @@ export const copyModulePaths = async () => {
       `${assets2}/audio/sfx/quiz_engine/sfx_generic_button.ogg`,
       `${assets2}/audio/sfx/quiz_engine/sfx_incorrect.mp3`,
       `${assets2}/audio/sfx/quiz_engine/sfx_shuffle.mp3`,
+
+      //audio quiz engine
+      `${assets2}/audio/sfxwav/sfx_complete.wav`,
+      `${assets2}/audio/sfxwav/sfx_correct.wav`,
+      `${assets2}/audio/sfxwav/sfx_generic_button.wav`,
+      `${assets2}/audio/sfxwav/sfx_incorrect.wav`,
+      `${assets2}/audio/sfxwav/sfx_shuffle.wav`,
 
       //fonts
       `${assets2}/fonts/lato-black_0.png`,
@@ -262,13 +270,13 @@ export const copyModulePaths = async () => {
       `${interior2}/house/bathroom.jpg`,
       `${interior2}/house/bedroom.jpg`,
       `${interior2}/house/garden.jpg`,
-      `${interior2}/house/house_bathroom_temp.png`,
-      `${interior2}/house/house_bedroom_temp.png`,
-      `${interior2}/house/house_Garden_temp.png`,
-      `${interior2}/house/house_kitchen_temp.png`,
-      `${interior2}/house/house_living_temp.png`,
-      `${interior2}/house/house_outside_temp.png`,
-      `${interior2}/house/intro_darkened.jpg`,
+      // `${interior2}/house/house_bathroom_temp.png`,
+      // `${interior2}/house/house_bedroom_temp.png`,
+      // `${interior2}/house/house_Garden_temp.png`,
+      // `${interior2}/house/house_kitchen_temp.png`,
+      // `${interior2}/house/house_living_temp.png`,
+      // `${interior2}/house/house_outside_temp.png`,
+      // `${interior2}/house/intro_darkened.jpg`,
       `${interior2}/house/intro.jpg`,
       // `${interior2}/house/kitchen_temp.png`,
       `${interior2}/house/kitchen.jpg`,
@@ -276,33 +284,33 @@ export const copyModulePaths = async () => {
       // `${interior2}/house/livingroom.jpg`,
 
       //interior mall
-      `${interior2}/mall/bathroom_temp.png`,
+      // `${interior2}/mall/bathroom_temp.png`,
       `${interior2}/mall/central_open_area.jpg`,
-      `${interior2}/mall/central_temp.png`,
+      // `${interior2}/mall/central_temp.png`,
       `${interior2}/mall/display_area.jpg`,
-      `${interior2}/mall/displayarea_temp.png`,
-      `${interior2}/mall/foodcourt_temp.png`,
+      // `${interior2}/mall/displayarea_temp.png`,
+      // `${interior2}/mall/foodcourt_temp.png`,
       `${interior2}/mall/foodcourt.jpg`,
-      `${interior2}/mall/intro_mall_temp.png`,
+      // `${interior2}/mall/intro_mall_temp.png`,
       `${interior2}/mall/mall_intro.jpg`,
       `${interior2}/mall/restroom.jpg`,
 
       //interior office
       `${interior2}/office/conference_room.jpg`,
-      `${interior2}/office/conference_temp.png`,
-      `${interior2}/office/cubicle_areas_temp.png`,
+      // `${interior2}/office/conference_temp.png`,
+      // `${interior2}/office/cubicle_areas_temp.png`,
       `${interior2}/office/cubicle.jpg`,
       `${interior2}/office/elevator.jpg`,
-      `${interior2}/office/elevators_temp.png`,
-      `${interior2}/office/intro_office_temp.png`,
+      // `${interior2}/office/elevators_temp.png`,
+      // `${interior2}/office/intro_office_temp.png`,
       `${interior2}/office/office_intro.jpg`,
-      `${interior2}/office/pantry_temp.png`,
+      // `${interior2}/office/pantry_temp.png`,
       `${interior2}/office/pantry.jpg`,
       `${interior2}/office/personal_office.jpg`,
-      `${interior2}/office/personal_temp.png`,
-      `${interior2}/office/reception_temp.png`,
+      // `${interior2}/office/personal_temp.png`,
+      // `${interior2}/office/reception_temp.png`,
       `${interior2}/office/reception.jpg`,
-      `${interior2}/office/restroom_temp.png`,
+      // `${interior2}/office/restroom_temp.png`,
       `${interior2}/office/restroom.jpg`,
 
       //interior parking
@@ -594,6 +602,9 @@ export const copyModulePaths = async () => {
       // `${images2}/ui/settings_button.png`,
       `${images2}/ui/water_drop.png`,
       `${images2}/ui/Whitetemp.png`,
+      `${images2}/game_bg.jpg`,
+      `${images2}/separator.png`,
+
       //strings quiz engine
       `${assets2}/strings/quiz_engine/game_config.json`,
       `${assets2}/strings/quiz_engine/questions.json`,
