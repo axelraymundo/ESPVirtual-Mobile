@@ -1,5 +1,5 @@
-import React, {useEffect, useState} from 'react';
-import {Text, Platform, SafeAreaView} from 'react-native';
+import React, {useEffect, useState,useRef} from 'react';
+import {Text, Platform, SafeAreaView,StatusBar} from 'react-native';
 import {WebView} from 'react-native-webview';
 
 import StaticServer from 'react-native-static-server';
@@ -16,14 +16,14 @@ function MyWebComponent() {
       ? RNFS.DocumentDirectoryPath + '/www'
       : RNFS.MainBundlePath + '/www';
   };
-
-
+  const webviewRef =useRef(null)
   useEffect(()=>{
+    if(Platform.isPad ||Platform.OS==="ios"){
     const isPad = Platform.isPad;
     console.log(Platform.OS,"WTF : ", isPad)
-      Orientation.lockToLandscape();
+      Orientation.lockToLandscape();}
   },[])
-
+  
   useEffect(() => {
     copyModulePaths();
     const path = getPath();
@@ -42,6 +42,8 @@ function MyWebComponent() {
           justifyContent: 'center',
           alignItems: 'center',
         }}>
+                <StatusBar hidden/>
+
         <Text>LOADING....</Text>
       </SafeAreaView>
     );
@@ -49,7 +51,9 @@ function MyWebComponent() {
 
   return (
     <SafeAreaView style={{flex: 1}}>
+      <StatusBar hidden/>
       <WebView
+        ref={webviewRef}
         source={{uri: url}}
         scalesPageToFit={true}
         showsHorizontalScrollIndicator={false}
@@ -58,6 +62,11 @@ function MyWebComponent() {
         javaScriptEnabled={true}
         startInLoadingState
         originWhitelist={['*']}
+        onContentProcessDidTerminate={(syntheticEvent) => {
+          const { nativeEvent } = syntheticEvent;
+          console.warn('Content process terminated, reloading', nativeEvent);
+          webviewRef.current.reload()
+        }}
       />
     </SafeAreaView>
   );

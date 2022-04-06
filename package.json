@@ -11,7 +11,8 @@
     "bundleAndroid": "cd ./android && ./gradlew bundleRelease",
     "bundleJs": "npx react-native bundle --dev false --platform android --entry-file index.js --bundle-output ./android/app/src/main/assets/index.android.bundle --assets-dest ./android/app/src/main/res",
     "test": "jest",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "reactotron": "adb reverse tcp:9090 tcp:9090"
   },
   "dependencies": {
     "prop-types": "^15.7.2",

@@ -129,8 +129,8 @@ android {
         applicationId "com.doegovph.cityofenergia.app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 1
-        versionName "0.0.9"
+        versionCode 15
+        versionName "0.0.15"
     }
     splits {
         abi {
@@ -184,7 +184,7 @@ android {
 
         }
     }
-     sourceSets { main { assets.srcDirs = ['src/main/assets','../../www', '../../assets', ] } }
+     sourceSets { main { assets.srcDirs = ['src/main/assets' ] } }
     //  '../../html', '../../assets', '../../www'] } }
 
 }
