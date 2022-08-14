@@ -14,8 +14,7 @@
     "lint": "eslint .",
     "reactotron": "adb reverse tcp:9090 tcp:9090",
     "phone1": "npx react-native run-android --deviceId='1fd71a401220'",
-    "phone2": "npx react-native run-android --deviceId='080633722B000583'",
-    
+    "phone2": "npx react-native run-android --deviceId='080633722B000583'"
   },
   "dependencies": {
     "@react-native-community/async-storage": "^1.12.0",
