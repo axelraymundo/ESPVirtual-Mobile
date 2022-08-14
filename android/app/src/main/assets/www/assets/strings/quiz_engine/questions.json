@@ -272,7 +272,7 @@
                 },
                 {
                     "id": 5,
-                    "text": "What type of lighting equipment is the most energy efficient?",
+                    "text": "Which type of lighting equipment is the most energy efficient?",
                     "choices": [
                         {
                             "text": "LED",
@@ -330,7 +330,8 @@
                             "text": "All of the above",
                             "isCorrect": true
                         }
-                    ]
+                    ],
+                    "isRandomOrder": false
                 },
                 {
                     "id": 8,
@@ -356,7 +357,7 @@
                 },
                 {
                     "id": 9,
-                    "text": "What temperature should you set your air conditioner?",
+                    "text": "According to IAEECC Resolution, what temperature should you set your air conditioner?",
                     "choices": [
                         {
                             "text": "24 °C",
@@ -398,7 +399,7 @@
             "questions": [
                 {
                     "id": 1,
-                    "text": "It is an investigation, a survey of WHERE, WHEN and HOW energy is being used",
+                    "text": "The process of investigating and conducting a survey of WHERE, WHEN and HOW energy is being used.",
                     "image": {
                         "location": "",
                         "key": ""
@@ -626,11 +627,11 @@
                     "choices": [
                         {
                             "text": "Decision and practice of using less energy",
-                            "isCorrect": false
+                            "isCorrect": true
                         },
                         {
                             "text": "Decision and practice that use energy",
-                            "isCorrect": true
+                            "isCorrect": false
                         },
                         {
                             "text": "Decision and practice that produce energy",
@@ -885,18 +886,19 @@
                     "text": "What is an example of Energy Efficiency Project?",
                     "choices": [
                         {
-                            "text": "All of the above",
-                            "isCorrect": true
-                        },
-                        {
                             "text": "Production line improvement",
                             "isCorrect": false
                         },
                         {
                             "text": "Solar power installation",
                             "isCorrect": false
+                        },
+                        {
+                            "text": "All of the above",
+                            "isCorrect": true
                         }
-                    ]
+                    ],
+                    "isRandomOrder": false
                 },
                 {
                     "id": 6,
@@ -2033,15 +2035,226 @@
                     "text": "In buying air conditioners, which factors must be considered?",
                     "choices": [
                         {
-                            "text": "All of the above",
-                            "isCorrect": true
-                        },
-                        {
                             "text": "Room Size",
                             "isCorrect": false
                         },
                         {
                             "text": "Cooling Capacity",
+                            "isCorrect": false
+                        },                        
+                        {
+                            "text": "All of the above",
+                            "isCorrect": true
+                        }
+                    ],
+                    "isRandomOrder": false
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Category 11",
+            "questions": [
+                {
+                    "id": 1,
+                    "text": "Using the energy label, how do we determine which product is more efficient?",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "More stars means more efficient",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Lower number means more efficient",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Higher power means more efficient",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "text": "Which type of lamp is considered inefficient for household use?",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Incandescent Bulb",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Compact Fluorescent Lamp",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Light Emitting Diode Lamp",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "text": "How can we estimate the monthly electricity consumption when we use a particular appliance?",
+                    "choices": [
+                        {
+                            "text": "Power input x daily operating hours x 30",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Power input x electricity cost x 30",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Daily operating hours x electricity cost",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "text": "What is the distinct feature of the new energy label?",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Star Rating System",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Picture of the product",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Distinct yellow color",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "text": "If I want to buy an appliance that will help me save electricity, what should I look for?",
+                    "choices": [
+                        {
+                            "text": "Energy Label",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Brand",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Color",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "text": "Which product is covered by the Philippine Energy Labeling Program?",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "TV",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "PlayStation 5",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "XBOX Series X",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "text": "It refers to the quantitative property or the ability to perform or do work.",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Matter",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Energy",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Physics",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "text": "He is an American electrical engineer who invented mercury-vapor lamp.",
+                    "image": {
+                        "location": "",
+                        "key": ""
+                    },
+                    "choices": [
+                        {
+                            "text": "Peter Cooper Hewitt",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Agapito Flores",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Albert Einstein",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "text": "A type of energy radiated by the sun which is capbale of producing heat and generating electricity.",
+                    "choices": [
+                        {
+                            "text": "Solar Energy",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Nuclear Energy",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Hydropower",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "text": "Which is NOT a renewable source of energy?",
+                    "choices": [
+                        {
+                            "text": "Coal",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Hydropower",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Biomass",
                             "isCorrect": false
                         }
                     ]

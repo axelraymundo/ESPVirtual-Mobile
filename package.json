@@ -12,9 +12,13 @@
     "bundleJs": "npx react-native bundle --dev false --platform android --entry-file index.js --bundle-output ./android/app/src/main/assets/index.android.bundle --assets-dest ./android/app/src/main/res",
     "test": "jest",
     "lint": "eslint .",
-    "reactotron": "adb reverse tcp:9090 tcp:9090"
+    "reactotron": "adb reverse tcp:9090 tcp:9090",
+    "phone1": "npx react-native run-android --deviceId='1fd71a401220'",
+    "phone2": "npx react-native run-android --deviceId='080633722B000583'",
+    
   },
   "dependencies": {
+    "@react-native-community/async-storage": "^1.12.0",
     "prop-types": "^15.7.2",
     "react": "17.0.2",
     "react-native": "0.66.3",

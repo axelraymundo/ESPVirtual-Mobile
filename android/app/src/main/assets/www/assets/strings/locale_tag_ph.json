@@ -92,7 +92,7 @@
 			"align": 1
 		},
 		"exitPrompt_txtExitNoProgress": {
-			"text": "Gusto mo bang umalis sa laro? Ang iyong nagawa ay hindi mase-save at magre-restart sa susunod na pagkakataon!",
+			"text": "Ang iyong nagawa ay hindi mase-save at magre-restart sa susunod na pagkakataon!",
 			"size": 44,
 			"color": "0x884c24",
 			"align": 1
@@ -105,6 +105,13 @@
 		},
 		"quiz_txtKeepQuizzing": {
 			"text": "May bumbilya ka pa!\nGusto mo bang magpatuloy sa pagsusulit?",
+			"font": "font_lato_bold",
+			"size": 42,
+			"color": "0x000000",
+			"align": 0
+		},
+		"quiz_txtRetry": {
+			"text": "Ulit?",
 			"font": "font_lato_bold",
 			"size": 42,
 			"color": "0x000000",
@@ -250,7 +257,7 @@
 			"header": "Lugar ng Plaza"
 		},
 		"txt_BuildingSeaport": {
-			"info": "Matuto nang higit pa tungkol sa iba't ibang kwento ng LGU at kung anong mga tagumpay ang nagawa para sa kahusayan sa enerhiya at tubig.",
+			"info": "Matuto pa tungkol sa iba't ibang kwento ng tagumpay ng LGU at pinakamahuhusay na kagawian na nakakatipid sa enerhiya!.",
 			"header": "Daungan"
 		},
 		"txt_BuildingKnowledge": {
@@ -261,39 +268,47 @@
 	"Seaport": {
 		"txt_Seaport_Iloilo": {
 			"header": "Iloilo City",
-			"info": "Iloilo City has passed an ordinance providing an incentive of 20% discount on real estate taxes to households using renewable energy.\n\nThis has attracted more than 20 households, with two having availed of the net-metering scheme where they can offset the incoming kWh consumption by the electricity produced by the solar home system.\n\nAdditionally, the Iloilo City Hall is referred to as the first Green Building in the Visayas region. With a rooftop equipped with solar panels which assist air conditioning units at all offices at the 7th floor, the city saves roughly USD 1,200 in electricity cost and estimated carbon dioxide equivalent avoided is placed at 36 metric tons monthly.\n\nEnergy Efficiency and Conservation Best Practices:\n*Lobbied for the support of the private sector and external stakeholders to also adopt the program.\n*Demonstrated capacity building activities and energy audits and techno-financial assessments for the private sector, power utilities, and the academe, with support from USAID.\n*loilo City's EEC best practices were adopted by schools and a commercial establishment.\n\nSources: Iloilo Today, Iloilo City Environment and Natural Resources Office"
+			"info": "Iloilo City has passed an ordinance providing an incentive of 20% discount on real estate taxes to households using renewable energy.\n\nThis has attracted more than 20 households, with two having availed of the net-metering scheme where they can offset the incoming kWh consumption by the electricity produced by the solar home system.\n\nAdditionally, the Iloilo City Hall is referred to as the first Green Building in the Visayas region. With a rooftop equipped with solar panels which assist air conditioning units at all offices at the 7th floor, the city saves roughly USD 1,200 in electricity cost and estimated carbon dioxide equivalent avoided is placed at 36 metric tons monthly.\n\nEnergy Efficiency and Conservation Best Practices:\n*Lobbied for the support of the private sector and external stakeholders to also adopt the program.\n*Demonstrated capacity building activities and energy audits and techno-financial assessments for the private sector, power utilities, and the academe, with support from USAID.\n*loilo City's EEC best practices were adopted by schools and a commercial establishment.\n\nSources: Iloilo Today, Iloilo City Environment and Natural Resources Office",
+			"photoinfo": ""
 		},
 		"txt_Seaport_LapuLapu": {
 			"header": "Lapu Lapu City",
-			"info": "Lapu-lapu City distributed solar panels to 80 households in Caohagan, an islet barangay belonging to the Olango Island Group. Residents of the island used to depend on generators for electricity, and had candles and gas lamps as alternative sources of light.\n\nWith solar panels installed, residents now have their own clean and reliable energy supply to light their houses.\n\nSource: Philippine News Agency"
+			"info": "Lapu-lapu City distributed solar panels to 80 households in Caohagan, an islet barangay belonging to the Olango Island Group. Residents of the island used to depend on generators for electricity, and had candles and gas lamps as alternative sources of light.\n\nWith solar panels installed, residents now have their own clean and reliable energy supply to light their houses.\n\nSource: Philippine News Agency, 2021",
+			"photoinfo": ""
 		},
 		"txt_Seaport_Cagayan": {
 			"header": "Cagayan De Oro City",
-			"info": "Cagayan de Oro City has received an “A” rating in Energy Audit 2021.\n\nThe City has implemented measures estimated to generate 8,383.68 kWh/ year savings or equivalent to Php 83,836.80. The estimated total investment cost is 20,700.00 which has a payback period of about 2.11 years.\n\nEnergy Efficiency and Conservation Best Practices\n*The City Mayor designated an Energy Conservation Officer through an executive order that strengthened their EEC programs and plans for the CDO-LGU.\n* Windows are being utilized by the office to provide natural daylight to improve illumination level but heat infiltration should also be considered in the afternoon.\n* Used efficient LED bulbs for the facility.\n*Cagayan De Oro City - LGU utilizes energy efficient inverter-type ACUs in their facility.\n\nSource: Department of Energy."
+			"info": "Cagayan de Oro City has received an \"A\" rating in Energy Audit 2021.\n\nThe City has implemented measures estimated to generate 8,383.68 kWh/ year savings or equivalent to Php 83,836.80. The estimated total investment cost is 20,700.00 which has a payback period of about 2.11 years.\n\nEnergy Efficiency and Conservation Best Practices:\n\n  *The City Mayor designated an Energy Conservation Officer through an executive order that strengthened their EE&C programs and plans for the CDO-LGU.\n  *Windows are being utilized by the office to provide natural daylight to improve illumination level but heat infiltration should also be considered in the afternoon.\n  *Used efficient LED bulbs for the facility.\n  *Cagayan De Oro City - LGU utilizes energy efficient inverter-type ACUs in their facility.\n\nSource: Department of Energy.",
+			"photoinfo": ""
 		},
 		"txt_Seaport_Tagum": {
 			"header": "Tagum City",
-			"info": "The Tagum City LGU has received an “A” rating in Energy Audit 2021.\n\nThe City has implemented measures estimated to generate 161,792.11 kWh/ year savings or equivalent to Php 1,635,718.26. The estimated investment cost is Php 5,912,060.00 which has a payback period of about 4.68 years.\n\nEnergy Efficiency and Conservation Best Practices:\n*The City released Executive Order no. 2020-052 issued on the 30th day of June 2020, an order establishing the Energy Efficiency and Conservation Officer (EECO) of the City Government of Tagum. The City of Tagum implements energy conservation measures in their facilities as included in the Memorandum Order dated January 15, 2020, with the Subject “Reiteration and Amendments on the Adoption of Financial Policy & Guidelines of the City Government of Tagum”. The City Mayor's Office also made a public announcement of the Energy Conservation implementation through Memorandum Order No. 229 s. 2020.\n*Installation of energy efficient technologies like Inverter type ACUs\n*Use of Light Emitting Diode (LED) lightings for facilities\n\nSource: Department of Energy"
+			"info": "The Tagum City LGU has received an \"A\" rating in Energy Audit 2021.\n\nThe City has implemented measures estimated to generate 161,792.11 kWh/ year savings or equivalent to Php 1,635,718.26. The estimated investment cost is Php 5,912,060.00 which has a payback period of about 4.68 years.\n\nEnergy Efficiency and Conservation Best Practices:\n*The City released Executive Order no. 2020-052 issued on the 30th day of June 2020, an order establishing the Energy Efficiency and Conservation Officer (EECO) of the City Government of Tagum. The City of Tagum implements energy conservation measures in their facilities as included in the Memorandum Order dated January 15, 2020, with the Subject “Reiteration and Amendments on the Adoption of Financial Policy & Guidelines of the City Government of Tagum”. The City Mayor's Office also made a public announcement of the Energy Conservation implementation through Memorandum Order No. 229 s. 2020.\n*Installation of energy efficient technologies like Inverter type ACUs\n*Use of Light Emitting Diode (LED) lightings for facilities\n\nSource: Department of Energy",
+			"photoinfo": ""
 		},
 		"txt_Seaport_Tacurong": {
 			"header": "Tacurong City",
-			"info": "With support from the Department of Finance and the Department of Budget and  Management, Tacurong City has replaced its high energy-consuming sodium-vapor lamps with solar-powered LED lights along national roads.\n\nSource: Business Mirror"
+			"info": "With support from the Department of Finance and the Department of Budget and Management, Tacurong City has replaced its high energy-consuming sodium-vapor lamps with solar-powered LED lights along national roads.\n\nSource: Business Mirror"
 		},
 		"txt_Seaport_BARMM": {
 			"header": "BARMM",
-			"info": "50 solar-powered houses will be built in Maguindanao through the “Kapayapaan sa Pamayanan (KAPYANAN)” project of the Office of the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM). \n\nSource: Philippine News Agency"
+			"info": "50 solar-powered houses will be built in Maguindanao through the \"Kapayapaan sa Pamayanan (KAPYANAN)\" project of the Office of the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM). \n\nSource: Philippine News Agency, 2021",
+			"photoinfo": ""
 		},
 		"txt_Seaport_Albay": {
 			"header": "Province of Albay",
-			"info": "50 solar-powered houses will be built in Maguindanao through the “Kapayapaan sa Pamayanan (KAPYANAN)” project of the Office of the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM). \n\nSource: Philippine News Agency"
+			"info": "The Province of Albay, Recipient of the 2021 Energy Efficiency Award, is strategically located at the center of the Philippine Archipelago that is endowed with a variety of agri-environmental resources and vast economic development potentials.\n\nTo date, there are three congressional districts, three cities, 15 municipalities, and 720 barangays in Albay.\n\nThe Provincial Government of Albay was able to realize a total savings of 246,665.59 kWh equivalent to Php 4,333,309.93. These were obtained through the implementation of the various energy efficiency and conservation measures.\n\nEnergy Efficiency and Conservation Best Practices:\n\n* Issuance of PO No. 0046-2021 or the Albay Energy Efficiency and Conservation Ordinance of 2021: Savings through the Adoption of Reliable Technology.\n* Use of energy efficient Air Conditioning Units (ACUs).\n* Installation of LED lightings\n* Installation of Solar - Powered Street Lights.\n* Issuance of Memorandum Order No. 17 s. 2021 (Adopting Austerity Measures), such as:\n\n1) Switching off air-conditioning units in all respective working stations during office hours from 11:00 a.m. to 1:00 p.m.\n\n2) Turning off lights in the comfort rooms, hallways, and other areas\n\n3) Cleaning of lamps regularly; and\n\n4) Using stairs instead of elevator when going up or down one(1) floor\n* Established inventory list and assignment of service vehicles to officials and employees to conserve fuel in the daily operation of service vehicles\n* Recorded of daily and dispatch of service vehicles are also put in place\n* Regular maintenance of service vehicles and heavy equipment\n* Used of fuel-efficient 4 -stroke grasscutters\n\nSource: Department of Energy",
+			"photoinfo": ""
 		},
 		"txt_Seaport_Baguio": {
 			"header": "Baguio City",
-			"info": "Baguio City passed a city ordinance in 2018 which mandates the use of energy conservation technologies in all government facilities and projects. The city ordinance aims to reduce energy consumption of the city and balance its expenditure growth.  \n\nSource: Baguio City Government"
+			"info": "Baguio City passed a city ordinance in 2018 which mandates the use of energy conservation technologies in all government facilities and projects. The city ordinance aims to reduce energy consumption of the city and balance its expenditure growth.  \n\nSource: The City Government of Baguio, 2018",
+			"photoinfo": ""
 		},
 		"txt_Seaport_Batangas": {
 			"header": "Batangas City",
-			"info": "In 2019, the Batangas City government in partnership with the Department of Energy (DOE), United States Agency for International Development (USAID), and Manila Electric Company (Meralco), switched-on the First Solar Micro Grid System, a community electrification project for Barangay San Agapito, Isla Verde, Batangas City that provided electricity access to around 40 households.\n\nSource: Batangas City Government "
+			"info": "In 2019, the Batangas City government in partnership with the Department of Energy (DOE), United States Agency for International Development (USAID), and Manila Electric Company (Meralco), switched-on the First Solar Micro Grid System, a community electrification project for Barangay San Agapito, Isla Verde, Batangas City.\n\nSource : RTI International, 2020",
+			"photoinfo": "Photo Source: Batangas City Government"
 		}
 	},
 	"dialogue": {
@@ -369,8 +384,7 @@
 			"left1": "Resepsyon"
 		},
 		"txt_IconGovernmentOffice": {
-			"right1": "Resepsyon",
-			"left1": "Paradahan"
+			"right1": "Resepsyon"
 		},
 		"txt_IconGovernmentParking": {
 			"right1": "Mga Opisina"
@@ -513,8 +527,8 @@
 			"header": "Kumusta?"
 		},
 		"txt_InteriorParkingIntro": {
-			"info": "Talakayin natin ang iba't ibang pamamaraan sa pagtitipid ng enerhiya habang nagbi-biyahe o nagko-commute.",
-			"header": "Ito ang Transport Hub"
+			"info": "Hub ng Transportasyon - Tuklasin ang pinagmamalaki ng Lungsod ng Energia! Alamin pa ang tungkol sa mga gawi sa pagtitipid ng enerhiya at tubig sa sektor ng transportasyon.",
+			"header": "Hub ng Transportasyon"
 		},
 		"txt_InteriorParkingGarageSolar": {
 			"info": "Ang paggamit ng enerhiya mula sa araw ay nakakatulong sa pagbaba ng carbon footprint at sa pangaraw-araw na gastos ng elektrisidad.",
@@ -593,7 +607,7 @@
 			"header": "Pailaw"
 		},
 		"txt_InteriorMallIntro": {
-			"info": "Nandito tayo upang alamin kung paano nakakatipid ng enerhiya ang mga pamilihan.",
+			"info": "Alamin ang mga paraan kung paano makakatipid ng pagkonsumo ng kuryente ang mga komersyal at IBA pang mga establisyimento.",
 			"header": "Ito ay isang Commercial Area"
 		},
 		"txt_InteriorMallCentralLighting": {

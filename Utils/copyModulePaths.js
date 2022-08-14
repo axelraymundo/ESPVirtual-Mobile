@@ -34,13 +34,42 @@ export const copyModulePaths = async () => {
     await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport`);
     await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport/clip`);
     await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu`);
-    await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/default`);
-    await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/batangas`);
-    await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/batangascity`);
-    await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/cagayan`);
-    await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/iloilo`);
-    await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/tagum`);
-    await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${interior}/seaport/sticker`);
+    await RNFS.mkdir(
+      RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/default`,
+    );
+    await RNFS.mkdir(
+      RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/albay`,
+    );
+    await RNFS.mkdir(
+      RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/baguio`,
+    );
+    await RNFS.mkdir(
+      RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/barmm`,
+    );
+    await RNFS.mkdir(
+      RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/batangas`,
+    );
+    await RNFS.mkdir(
+      RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/batangascity`,
+    );
+    await RNFS.mkdir(
+      RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/cagayan`,
+    );
+    await RNFS.mkdir(
+      RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/iloilo`,
+    );
+    await RNFS.mkdir(
+      RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/lapulapu`,
+    );
+    await RNFS.mkdir(
+      RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/tacurong`,
+    );
+    await RNFS.mkdir(
+      RNFS.DocumentDirectoryPath + `${interior}/seaport/lgu/tagum`,
+    );
+    await RNFS.mkdir(
+      RNFS.DocumentDirectoryPath + `${interior}/seaport/sticker`,
+    );
 
     await RNFS.mkdir(RNFS.DocumentDirectoryPath + `${images}/quiz_engine/bg`);
     await RNFS.mkdir(
@@ -101,9 +130,11 @@ export const copyModulePaths = async () => {
       `${assets2}/audio/sfx/sfx_generic_button.mp3`,
       `${assets2}/audio/sfx/sfx_generic_button.ogg`,
 
-      `${assets2}/audio/HoppityBop.wav`,
-      `${assets2}/audio/RoundaboutMix.wav`,
-
+      `${assets2}/audio/HoppityBop.mp3`,
+      `${assets2}/audio/HoppityBop.ogg`,
+      `${assets2}/audio/RoundaboutMix.mp3`,
+      `${assets2}/audio/RoundaboutMix.ogg`,
+      
       //audio quiz engine
       `${assets2}/audio/sfx/quiz_engine/sfx_complete.mp3`,
       `${assets2}/audio/sfx/quiz_engine/sfx_correct.mp3`,
@@ -335,18 +366,27 @@ export const copyModulePaths = async () => {
       //interior seaport clip
       `${interior2}/seaport/clip/cliptemp.png`,
 
+      //interior seaport lgu albay
+      `${interior2}/seaport/lgu/albay/preview.png`,
+
+      //interior seaport lgu baguio
+      `${interior2}/seaport/lgu/baguio/preview.png`,
+
+      //interior seaport lgu barmm
+      `${interior2}/seaport/lgu/barmm/preview.png`,
+
       //interior seaport lgu batangas
       `${interior2}/seaport/lgu/batangas/content.png`,
       `${interior2}/seaport/lgu/batangas/preview.png`,
 
       //batangascity
       // `${interior2}/seaport/lgu/batangascity/Screenshot 2022-02-09 100159.png`,
-    
+
       //cagayan
       // `${interior2}/seaport/lgu/cagayan/CDO Photo 1 - GEMP Awarding.png`,
       `${interior2}/seaport/lgu/cagayan/content.png`,
       `${interior2}/seaport/lgu/cagayan/preview.png`,
-  
+
       //default
       `${interior2}/seaport/lgu/default/content.png`,
       `${interior2}/seaport/lgu/default/preview.png`,
@@ -357,18 +397,24 @@ export const copyModulePaths = async () => {
       // `${interior2}/seaport/lgu/iloilo/Picture2.png`,
       `${interior2}/seaport/lgu/iloilo/preview.png`,
 
+      //interior seaport lgu lapulapu
+      `${interior2}/seaport/lgu/lapulapu/preview.png`,
+
+      //interior seaport lgu tacurong
+      `${interior2}/seaport/lgu/tacurong/preview.png`,
+
       //tagum
       `${interior2}/seaport/lgu/tagum/content.png`,
       `${interior2}/seaport/lgu/tagum/preview.png`,
       // `${interior2}/seaport/lgu/tagum/Tagum City Photo 1 - GEMP Awarding.png`,
 
-       //sticker
-       `${interior2}/seaport/sticker/sticker_1.png`,
-       `${interior2}/seaport/sticker/sticker_2.png`,
-       `${interior2}/seaport/sticker/sticker_3.png`,
-       `${interior2}/seaport/sticker/sticker_4.png`,
-       `${interior2}/seaport/sticker/sticker_5.png`,
- 
+      //sticker
+      `${interior2}/seaport/sticker/sticker_1.png`,
+      `${interior2}/seaport/sticker/sticker_2.png`,
+      `${interior2}/seaport/sticker/sticker_3.png`,
+      `${interior2}/seaport/sticker/sticker_4.png`,
+      `${interior2}/seaport/sticker/sticker_5.png`,
+
       //interior seaport
       `${interior2}/seaport/corkboard_1.jpg`,
       `${interior2}/seaport/corkboard_2.jpg`,
@@ -477,13 +523,13 @@ export const copyModulePaths = async () => {
       `${images2}/ui/internalpopup/green_container.png`,
       `${images2}/ui/internalpopup/Help_Dynamic_Button_Blue_dropshadow left.png`,
       `${images2}/ui/internalpopup/Help_Dynamic_Button_Blue_dropshadow mid.png`,
-      `${images2}/ui/internalpopup/Help_Dynamic_Button_Blue_dropshadow right.png`,      
+      `${images2}/ui/internalpopup/Help_Dynamic_Button_Blue_dropshadow right.png`,
       `${images2}/ui/internalpopup/Help_Dynamic_Button_Blue_left.png`,
       `${images2}/ui/internalpopup/Help_Dynamic_Button_Blue_mid.png`,
-      `${images2}/ui/internalpopup/Help_Dynamic_Button_Blue_right.png`,      
+      `${images2}/ui/internalpopup/Help_Dynamic_Button_Blue_right.png`,
       `${images2}/ui/internalpopup/Help_Dynamic_Button_Green_dropshadow left.png`,
       `${images2}/ui/internalpopup/Help_Dynamic_Button_Green_dropshadow mid.png`,
-      `${images2}/ui/internalpopup/Help_Dynamic_Button_Green_dropshadow right.png`,      
+      `${images2}/ui/internalpopup/Help_Dynamic_Button_Green_dropshadow right.png`,
       `${images2}/ui/internalpopup/Help_Dynamic_Button_Green_green_left.png`,
       `${images2}/ui/internalpopup/Help_Dynamic_Button_Green_green_mid.png`,
       `${images2}/ui/internalpopup/Help_Dynamic_Button_Green_green_right.png`,
@@ -616,7 +662,7 @@ export const copyModulePaths = async () => {
       `${assets2}/strings/locale_tag_ph.json`,
 
       //video
-      `${assets2}/video/testvideo/samplevid.mp4`,
+      // `${assets2}/video/testvideo/samplevid.mp4`,
     ];
     await files.forEach(async file => {
       await RNFS.copyFileAssets(file, RNFS.DocumentDirectoryPath + '/' + file);
