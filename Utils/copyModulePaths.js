@@ -122,8 +122,8 @@ export const copyModulePaths = async () => {
       //primary
       'www/index.html',
       'www/js/game.js',
-      'www/js/game.js.map',
-      'www/js/PlayFabClientApi.js',
+      // 'www/js/game.js.map',
+      // 'www/js/PlayFabClientApi.js',
       'www/css/game.css',
 
       //audio
@@ -134,7 +134,7 @@ export const copyModulePaths = async () => {
       `${assets2}/audio/HoppityBop.ogg`,
       `${assets2}/audio/RoundaboutMix.mp3`,
       `${assets2}/audio/RoundaboutMix.ogg`,
-      
+
       //audio quiz engine
       `${assets2}/audio/sfx/quiz_engine/sfx_complete.mp3`,
       `${assets2}/audio/sfx/quiz_engine/sfx_correct.mp3`,
@@ -645,7 +645,7 @@ export const copyModulePaths = async () => {
       `${images2}/ui/left_container.png`,
       `${images2}/ui/lightning_bolt.png`,
       `${images2}/ui/right_container.png`,
-      // `${images2}/ui/settings_button.png`,
+      `${images2}/ui/scroll_bg.png`,
       `${images2}/ui/water_drop.png`,
       `${images2}/ui/Whitetemp.png`,
       `${images2}/game_bg.jpg`,

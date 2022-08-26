@@ -1,5 +1,11 @@
 import React, {useEffect, useState, useRef} from 'react';
-import {Text, Platform, SafeAreaView, StatusBar} from 'react-native';
+import {
+  Text,
+  Platform,
+  SafeAreaView,
+  StatusBar,
+  KeyboardAvoidingView,
+} from 'react-native';
 import {WebView} from 'react-native-webview';
 
 import StaticServer from 'react-native-static-server';
@@ -38,7 +44,7 @@ function MyWebComponent() {
     // window.alert(e.nativeEvent.data);
 
     if (e.nativeEvent.data === 'initial') {
-      console.log("initial trigger")
+      console.log('initial trigger');
       Services.retrieveData('logged_in').then(res => {
         console.log('initial load', res);
         if (res) {
@@ -74,7 +80,7 @@ function MyWebComponent() {
   }
 
   return (
-    <SafeAreaView style={{flex: 1}}>
+    <KeyboardAvoidingView style={{flex: 1}} removeClippedSubviews>
       <StatusBar hidden />
       <WebView
         ref={webviewRef}
@@ -89,7 +95,7 @@ function MyWebComponent() {
         startInLoadingState
         originWhitelist={['*']}
       />
-    </SafeAreaView>
+    </KeyboardAvoidingView>
   );
 }
 
