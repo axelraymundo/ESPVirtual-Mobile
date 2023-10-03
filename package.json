@@ -30,7 +30,7 @@
     "react-native-orientation-locker": "^1.4.0",
     "react-native-static-server": "^0.5.0",
     "react-native-web": "^0.17.1",
-    "react-native-webview": "^11.13.0",
+    "react-native-webview": "^13.6.0",
     "react-navigation": "^4.4.4",
     "yarn": "^1.22.11"
   },
