@@ -94,6 +94,7 @@ function MyWebComponent() {
         javaScriptEnabled={true}
         startInLoadingState
         originWhitelist={['*']}
+        webviewDebuggingEnabled={true}
       />
     </KeyboardAvoidingView>
   );

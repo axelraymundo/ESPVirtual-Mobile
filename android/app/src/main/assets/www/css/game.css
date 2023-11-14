@@ -1,23 +1,18 @@
 html,
 body {
-  overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 }
 
 body {
-  background: #6cd5ff;
-  margin: 0;
-  height: 100%;
-  width: 100%;
-  position: absolute;
-  overflow: hidden;
-  min-height: 480px;
-  top: 0;
+    background: #6cd5ff;
 }
 
 #fixed {
-  position: fixed;
+    position: fixed;
 }
 
 #fixed.absolute {
-  position: absolute;
+    position: absolute;
 }
